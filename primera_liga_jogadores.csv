@@ -1,0 +1,537 @@
+Jogador,Nacao,Posicao,Equipe,Idade,Jogos_disputados,Jogos_iniciados,Gols,Assistencias,Penaltis_batidos,Penaltis_convertidos,Amarelos,Vermelhos,Xg,Xag,Carregadas_progressivas,Passes_progressivos,Passes_progressivos_recebidos
+Rodrigo Abascal,uy URU,ZG,Boavista,29,29,29,2,0,0,0,8,0,1.4,0.6,17,83,19
+Antonio Adán,es ESP,G,Sporting CP,36,22,22,0,0,0,0,1,0,0.0,0.0,0,0,0
+Dennis Adeniran,eng ENG,LT,Portimonense,24,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Martin Agirregabiria,es ESP,ZG,Famalicão,27,24,13,0,0,0,0,4,0,0.1,0.6,18,52,66
+Salvador Agra,pt POR,"AT,ZG",Boavista,31,31,31,3,1,0,0,7,0,2.3,3.6,60,89,174
+Matheus Aiás,br BRA,"AT,LT",Moreirense,26,18,5,2,0,0,0,0,0,1.9,0.2,5,14,28
+Alan,br BRA,LT,Moreirense,23,33,29,3,4,0,1,5,0,3.9,4.0,63,164,95
+Rafael Alcobia,pt POR,ZG,Portimonense,20,3,2,0,0,0,0,0,0,0.0,0.1,2,4,0
+Alemão,br BRA,ZG,Portimonense,20,27,27,2,0,0,0,7,0,0.7,0.4,9,43,3
+Ali Alipour,ir IRN,AT,Gil Vicente FC,27,19,9,2,0,1,1,1,0,2.7,1.0,8,11,43
+Almeida,br BRA,ZG,Estrela,23,7,5,0,1,0,0,1,0,0.0,0.1,2,10,1
+Pedro Álvaro,pt POR,ZG,Estoril,23,20,20,0,1,0,0,6,1,0.5,1.1,2,31,4
+Pedro Amador,pt POR,ZG,Moreirense,24,21,14,0,1,0,0,0,0,0.1,0.7,30,27,46
+Artur Jorge Marques Amorim,pt POR,ZG,Farense,28,9,5,0,0,0,0,3,0,0.2,0.1,2,6,0
+André André,pt POR,LT,Vitória,33,18,6,0,3,0,0,9,0,0.4,2.5,17,46,27
+Andrew,br BRA,G,Gil Vicente FC,22,32,32,0,0,0,0,0,0,0.0,0.0,0,0,0
+Jeremy Antonisse,cw CUW,AT,Moreirense,21,24,2,0,1,0,0,6,1,1.6,1.5,21,23,51
+Pedro Aparício,pt POR,"LT,AT",Moreirense,27,15,2,1,0,0,0,2,0,0.9,0.5,7,20,16
+Óscar Aranda,es ESP,"AT,LT",Famalicão,21,21,8,1,0,0,0,3,0,0.9,0.8,27,40,24
+Henrique Araújo,pt POR,AT,Famalicão,21,20,7,0,0,0,0,1,0,1.4,0.8,6,11,32
+Tiago Araújo,pt POR,"ZG,LT",Estoril,22,29,27,2,1,0,0,4,0,1.6,3.2,58,71,157
+Tomás Araújo,pt POR,ZG,Benfica,21,13,5,1,0,0,0,0,0,0.4,0.3,6,25,2
+Gustavo Assuncao,pt POR,LT,Famalicão,23,20,5,0,0,0,0,5,1,0.1,0.2,7,23,3
+Otavio Ataide,br BRA,ZG,Famalicão,21,17,15,2,0,0,0,4,0,0.9,0.2,5,45,3
+Otavio Ataide,br BRA,ZG,Porto,21,12,12,0,1,0,0,3,0,0.9,0.2,14,86,4
+Fredrik Aursnes,no NOR,ZG,Benfica,27,33,31,2,7,0,0,3,1,2.6,7.1,88,161,254
+Chidozie Awaziem,ng NGA,ZG,Boavista,26,24,22,0,1,0,0,7,1,1.1,0.7,5,58,4
+Abdul Awudu,gh GHA,"AT,LT",Vizela,22,6,2,0,0,0,0,1,0,0.1,0.1,4,2,19
+Amadou Ba-Sy,fr FRA,"AT,LT",Vizela,22,7,0,0,0,0,0,0,0,0.2,0.0,3,3,10
+Alexander Bah,dk DEN,ZG,Benfica,25,19,18,2,3,0,0,3,0,1.0,2.2,27,88,111
+Elves Baldé,pt POR,"AT,LT",Farense,23,28,9,1,3,0,0,0,0,2.0,1.7,32,27,73
+Robson Bambu,br BRA,ZG,Arouca,25,10,10,0,0,0,0,1,0,0.0,0.0,2,16,0
+Daniel Bandeira,pt POR,LT,Vitória,23,16,8,1,2,0,0,1,0,0.3,0.8,12,42,8
+Simon Banza,cd COD,AT,Braga,26,28,23,21,4,3,3,2,0,16.7,2.3,10,32,125
+Rafael Barbosa,pt POR,"LT,AT",Farense,27,27,8,1,1,0,0,1,0,1.4,1.3,14,41,51
+Romário Baró,pt POR,"LT,AT",Porto,23,10,2,0,0,0,0,0,0,0.2,0.4,4,13,21
+Afonso Bastardo,pt POR,"AT,ZG",Gil Vicente FC,18,4,0,0,0,0,0,0,0,0.0,0.0,1,1,5
+Afonso Bastardo,pt POR,LT,Sporting CP,18,1,0,0,0,0,0,0,0,0.0,0.0,2,3,7
+Gilberto Batista,pt POR,ZG,Moreirense,19,4,2,0,0,0,0,0,0,0.0,0.1,1,5,0
+Ricardo Batista,pt POR,G,Casa Pia,36,31,31,0,0,0,0,2,1,0.0,0.0,0,0,0
+Roko Baturina,hr CRO,AT,Gil Vicente FC,23,15,9,2,0,0,0,0,0,1.2,0.3,5,6,29
+Bachir Belloumi,dz ALG,"AT,LT",Farense,21,33,26,7,4,0,0,3,0,4.7,3.7,61,76,154
+Fahem Benaissa Yahia,fr FRA,LT,Casa Pia,21,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Beni,ao ANG,LT,Casa Pia,21,25,14,0,3,0,0,9,1,0.1,0.2,16,57,15
+Benny,pt POR,"LT,AT",Chaves,23,29,11,1,1,0,0,1,0,0.9,2.7,25,38,85
+Berna,pt POR,"AT,ZG",Boavista,19,18,1,0,0,0,0,2,0,0.1,0.7,5,15,22
+Juan Bernat,es ESP,ZG,Benfica,30,3,1,0,0,0,0,0,0,0.0,0.0,1,5,2
+Emmanuel Boateng,gh GHA,AT,Rio Ave,27,27,19,7,2,0,0,10,2,9.1,1.7,26,22,93
+Kiko Bondoso,pt POR,"AT,LT",Vizela,27,3,2,0,0,0,0,0,0,0.2,0.3,5,8,22
+Toni Borevkovic,hr CRO,ZG,Vitória,26,23,23,0,0,0,0,2,1,1.6,0.4,1,49,1
+Gonçalo Borges,pt POR,"LT,AT",Porto,22,17,1,0,2,0,0,2,0,0.3,2.2,34,11,62
+Cristian Borja,co COL,ZG,Braga,30,30,28,1,5,0,0,4,0,0.3,5.1,60,119,163
+Róbert Boženík,sk SVK,AT,Boavista,23,31,30,9,2,0,0,4,0,13.0,2.7,20,30,111
+Daniel Bragança,pt POR,LT,Sporting CP,24,28,10,3,2,0,0,2,0,1.7,2.3,14,52,32
+Bruno Brigido,br BRA,G,Estrela,32,26,26,0,0,0,0,0,0,0.0,0.1,0,0,0
+Rafael Brito,pt POR,LT,Casa Pia,21,9,5,0,2,0,0,0,0,0.0,0.2,4,19,6
+Bruma,pt POR,"AT,LT",Braga,28,26,19,6,2,0,0,3,0,6.9,1.8,87,95,203
+Jonathan Buatu Mananga,ao ANG,ZG,Gil Vicente FC,29,5,5,1,0,0,0,1,0,0.4,0.1,0,4,1
+Leonel Bucca,ar ARG,"LT,AT",Estrela,24,15,8,1,0,0,0,4,0,2.0,0.6,9,32,25
+André Bukia,cd COD,"LT,AT",Arouca,28,10,0,1,1,0,0,0,0,0.6,0.4,16,13,28
+Fabijan Buntić,hr CRO,G,Vizela,26,28,27,0,0,0,0,1,0,0.0,0.0,0,1,0
+Aleksandar Busnić,rs SRB,"LT,AT",Vizela,25,19,8,0,0,0,0,3,0,0.4,0.1,0,35,3
+Oriol Busquets,es ESP,LT,Arouca,24,18,3,0,0,0,0,2,0,0.0,0.3,2,23,6
+Rafael Bustamante,co COL,LT,Vizela,23,12,8,0,0,0,0,2,0,0.2,0.2,2,34,6
+Leonardo Buta,pt POR,ZG,Gil Vicente FC,21,29,24,0,2,0,0,3,0,0.1,1.0,66,100,79
+Adrián Butzke,es ESP,AT,Vitória,24,17,3,0,0,0,1,0,0,1.3,0.1,3,3,29
+Erick Cabaco,uy URU,ZG,Estoril,28,6,3,0,0,0,0,0,0,0.4,0.0,1,10,0
+Arthur Cabral,br BRA,AT,Benfica,25,28,13,6,0,0,1,2,0,8.4,0.9,24,22,82
+Jhonder Cádiz,ve VEN,AT,Famalicão,28,30,27,15,0,3,4,9,1,12.5,0.9,24,33,101
+João Pedro Gomes Camacho,pt POR,"AT,LT",Moreirense,29,29,27,4,4,0,1,5,0,4.4,2.8,75,59,143
+Ibrahima Camará,gn GUI,"LT,ZG",Boavista,24,15,4,0,0,0,0,1,1,0.0,0.2,7,21,8
+Cambila,ao ANG,G,Estrela,21,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Luan Campos,br BRA,"AT,LT",Portimonense,21,16,5,1,0,0,0,2,0,1.1,0.4,8,10,23
+Fábio Cardoso,pt POR,ZG,Porto,29,18,14,1,1,0,0,5,2,1.2,0.6,23,98,4
+Felippe Cardoso,br BRA,AT,Casa Pia,24,29,16,6,0,0,1,7,0,5.7,0.8,12,24,77
+Carlinhos,br BRA,LT,Portimonense,29,32,32,10,6,4,4,11,0,7.2,3.8,66,177,66
+João Carlos,br BRA,"AT,ZG",Estoril,28,20,1,2,0,0,0,4,0,1.7,0.6,8,4,24
+José Carlos,pt POR,ZG,Gil Vicente FC,25,26,21,1,2,0,0,7,0,0.8,0.9,26,57,70
+Zé Carlos,pt POR,"LT,ZG",Vitória,21,23,2,0,0,0,0,4,0,0.2,0.7,9,28,19
+David Carmo,ao ANG,ZG,Porto,24,7,7,0,0,0,0,6,1,0.7,0.1,4,31,4
+Marcelo Carné,br BRA,G,Estoril,33,22,22,0,0,0,0,3,1,0.0,0.1,0,0,0
+Carraça,pt POR,"ZG,LT",Chaves,30,20,12,0,0,0,0,3,1,0.2,1.1,11,32,51
+Álvaro Carreras,es ESP,ZG,Benfica,20,11,5,1,1,0,0,1,0,0.2,1.0,17,33,46
+Ronie Carrillo,ec ECU,"AT,LT",Portimonense,26,25,13,4,0,0,0,1,1,3.0,1.4,11,27,54
+António Filipe de Carvalho,pt POR,G,Estrela,38,3,3,0,0,0,0,0,0,0.0,0.0,0,0,0
+Martim Carvalho,pt POR,LT,Gil Vicente FC,20,29,21,0,2,0,0,7,0,0.5,1.1,46,112,27
+Miguel Carvalho,pt POR,G,Farense,27,2,2,0,0,0,0,0,0,0.0,0.0,0,0,0
+Vitor Carvalho,br BRA,LT,Braga,26,27,16,1,1,0,0,8,0,0.6,0.2,15,82,17
+Facundo Cáseres,ar ARG,LT,Farense,22,21,12,0,0,0,0,6,1,0.1,0.1,5,27,2
+Midana Cassama,gw GNB,"AT,LT",Portimonense,20,12,2,1,0,0,0,2,1,0.6,0.1,5,1,23
+Cassiano,br BRA,AT,Estoril,34,29,20,7,3,1,1,2,0,6.9,1.7,11,15,47
+Jesús Castillo,pe PER,LT,Gil Vicente FC,22,11,2,0,0,0,0,1,0,0.1,0.0,2,17,4
+André Castro,pt POR,LT,Braga,35,3,0,0,0,0,0,0,0,0.0,0.0,0,2,0
+André Castro,pt POR,LT,Moreirense,35,14,6,1,1,0,0,1,0,0.2,0.2,10,22,14
+Cristian Castro,co COL,ZG,Rio Ave,22,1,1,0,0,0,0,0,0,0.0,0.0,0,2,0
+Geny Catamo,mz MOZ,"LT,ZG",Sporting CP,22,27,17,5,3,0,0,2,0,2.1,3.4,91,66,139
+Tidjany Chabrol,fr FRA,"AT,LT",Gil Vicente FC,21,28,8,3,0,0,0,6,1,2.1,1.8,72,31,124
+Charles,br BRA,G,Vitória,29,8,7,0,0,0,0,2,0,0.0,0.0,0,0,0
+Chiquinho,pt POR,"AT,LT",Famalicão,23,27,22,5,2,0,0,10,1,3.5,1.8,53,34,115
+Chiquinho,pt POR,LT,Benfica,28,9,1,0,0,0,0,1,0,0.1,0.5,7,24,10
+Clayton,br BRA,AT,Casa Pia,24,24,21,8,1,1,1,4,0,6.8,1.0,29,32,91
+Sebastián Coates,uy URU,ZG,Sporting CP,32,29,26,4,0,0,0,7,0,3.4,0.5,7,84,3
+Fábio Conceição,pt POR,"LT,AT",Rio Ave,22,34,30,1,3,0,0,3,0,2.4,4.2,63,93,196
+Francisco Conceição,pt POR,"AT,LT",Porto,20,27,21,5,4,0,0,11,1,5.7,6.4,128,87,263
+Leo Cordeiro,br BRA,LT,Estrela,27,32,29,3,0,0,0,5,0,2.4,1.1,26,139,41
+Jeriel Córdova,ve VEN,AT,Boavista,21,12,0,0,0,0,0,2,0,0.8,0.7,0,2,9
+Félix Correia,pt POR,AT,Gil Vicente FC,22,30,26,5,3,0,0,4,0,5.8,4.1,67,89,161
+João Pedro Araújo Correia,cv CPV,"ZG,LT",Chaves,26,30,24,3,1,0,0,8,0,3.1,0.8,62,49,112
+Alberto costa,pt POR,ZG,Vitória,19,1,0,0,0,0,0,0,0,0.0,0.0,1,0,1
+Bruno Xavier Almeida Costa,pt POR,LT,Vizela,26,8,7,0,0,0,0,2,0,0.1,0.6,6,23,9
+Diogo Costa,pt POR,G,Porto,23,33,33,0,0,0,0,0,1,0.0,0.0,0,8,0
+Gonçalo Costa,pt POR,"ZG,LT",Portimonense,23,33,18,0,5,0,0,5,1,0.7,2.1,37,80,81
+Michel Costa,br BRA,LT,Estoril,21,8,3,0,0,0,0,0,0,0.1,0.6,1,18,8
+Murilo Costa,br BRA,AT,Gil Vicente FC,28,31,26,4,5,2,3,3,0,6.2,2.5,66,50,152
+Rui Costa,pt POR,"AT,LT",Farense,27,21,6,3,2,0,1,2,0,2.5,0.8,14,27,48
+Tomás Costa Silva,pt POR,ZG,Vizela,23,30,30,0,2,0,0,1,1,0.9,3.2,57,102,197
+Costinha,pt POR,"LT,ZG",Rio Ave,23,34,34,3,5,3,3,4,0,4.7,4.2,88,95,201
+Sandro Cruz,pt POR,"ZG,LT",Chaves,22,24,20,1,1,0,0,2,0,0.2,1.0,25,52,34
+Florian Danho Seke,fr FRA,AT,Famalicão,23,10,2,1,0,0,0,0,0,0.8,0.1,4,4,15
+Ignacio De Arruabarrena,uy URU,G,Arouca,26,31,31,0,0,0,0,4,0,0.0,0.0,0,1,1
+Fran Delgado,es ESP,ZG,Farense,22,9,6,0,0,0,0,1,0,0.0,0.3,4,16,14
+Dener,br BRA,LT,Portimonense,31,26,23,1,2,0,0,11,0,1.2,1.2,16,80,24
+Depú,ao ANG,AT,Gil Vicente FC,23,16,7,3,0,0,0,2,1,4.1,0.1,6,6,39
+Ángel Di María,ar ARG,AT,Benfica,35,28,26,9,10,2,3,4,0,9.0,11.3,103,187,327
+Tiago Dias,pt POR,"LT,AT",Casa Pia,25,19,10,1,1,0,0,1,0,0.3,1.0,43,19,65
+Vinicius Dias,br BRA,G,Gil Vicente FC,26,2,2,0,0,0,0,0,0,0.0,0.0,0,0,0
+Ousmane Diomande,ci CIV,ZG,Sporting CP,19,26,25,2,1,0,0,7,1,1.8,0.2,22,121,2
+Álvaro djaló,es ESP,"AT,LT",Braga,23,30,20,8,5,0,0,7,1,9.5,3.8,65,60,191
+Mihai Dobre,ro ROU,AT,Famalicão,24,14,2,0,0,0,0,0,0,0.6,0.2,9,5,15
+Maxime Dominguez,ch SUI,"LT,AT",Gil Vicente FC,27,33,29,6,4,1,1,8,0,3.8,3.8,45,134,130
+Bruno Duarte,br BRA,AT,Farense,27,32,26,13,3,4,4,6,0,9.8,2.9,48,61,119
+Jorge Eduardo Sánchez,mx MEX,ZG,Porto,25,14,6,0,2,0,0,3,0,0.7,1.0,16,42,40
+Marcus Edwards,eng ENG,"AT,LT",Sporting CP,24,26,15,4,4,0,0,4,1,4.2,6.9,77,78,104
+Úmaro Embaló,pt POR,"LT,AT",Rio Ave,22,14,10,1,1,0,0,1,0,0.4,0.5,17,24,62
+João Escoval,pt POR,ZG,Vizela,26,19,16,0,1,0,0,7,0,0.5,0.4,11,42,5
+Ricardo Esgaio,pt POR,"LT,ZG",Sporting CP,30,28,19,0,4,0,0,7,0,0.7,3.8,31,70,127
+Tiago Esgaio,pt POR,ZG,Arouca,27,28,27,2,3,0,0,4,0,0.6,2.6,29,90,97
+Samuel Essende,,AT,Vizela,25,31,31,15,0,0,1,5,0,13.7,1.1,40,32,143
+Dario Essugo,pt POR,LT,Chaves,18,14,13,0,0,0,0,3,0,0.0,0.1,13,29,11
+Dario Essugo,pt POR,LT,Sporting CP,18,4,0,0,0,0,0,0,0,0.0,0.0,0,3,0
+Paulo Estrela Moreira,pt POR,"LT,AT",Portimonense,24,18,4,0,1,0,0,1,0,0.2,0.1,4,37,6
+Stephen Eustáquio,ca CAN,LT,Porto,26,28,16,2,2,0,0,3,0,1.7,3.0,10,112,46
+Evanilson,br BRA,AT,Porto,23,27,25,13,3,2,3,5,1,12.8,4.3,40,54,148
+Fabiano,br BRA,ZG,Moreirense,23,25,23,1,2,0,0,5,0,0.8,1.0,36,87,60
+Claudio Falcão,br BRA,LT,Farense,29,31,30,4,1,0,0,12,0,3.6,1.0,11,79,8
+Jean Felipe,br BRA,"LT,ZG",Estrela,29,23,10,1,2,0,0,0,0,0.5,3.6,9,52,58
+Volnei Feltes,br BRA,ZG,Estoril,23,21,17,0,2,0,0,4,0,0.5,0.7,13,62,19
+Jorge Filipe Oliveira Fernandes,pt POR,ZG,Vitória,26,29,28,1,1,0,0,5,0,1.1,1.0,25,114,7
+Martim Fernandes,pt POR,ZG,Porto,17,4,4,0,1,0,0,1,0,0.0,0.3,7,13,8
+Mateus Fernandes,pt POR,LT,Estoril,19,28,25,1,2,0,0,6,0,0.3,2.8,62,132,53
+Mateus Fernandes,pt POR,AT,Sporting CP,19,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Rafael Fernandes,pt POR,ZG,Arouca,21,11,8,0,0,0,0,2,1,0.2,0.1,5,27,2
+Roger Fernandes,gw GNB,"LT,AT",Braga,17,14,7,2,7,0,0,1,0,3.5,3.0,30,23,84
+Rúben Fernandes,pt POR,ZG,Gil Vicente FC,37,29,29,1,0,0,0,4,0,0.7,0.7,6,87,2
+Vasco Fernandes,pt POR,ZG,Casa Pia,36,10,10,0,0,0,0,2,0,0.1,0.1,2,18,4
+Vasco Fernandes,pt POR,ZG,Chaves,36,17,17,0,0,0,0,6,0,0.3,0.0,4,43,1
+Fernando,br BRA,"AT,LT",Casa Pia,30,20,4,2,0,1,1,0,0,1.4,0.1,7,10,37
+Filipe Ferreira,pt POR,ZG,Boavista,32,26,20,0,1,0,0,4,0,0.2,0.7,19,63,42
+Marcelo dos Santos Ferreira,br BRA,ZG,Moreirense,34,26,26,2,1,0,0,4,0,0.9,0.3,2,55,0
+Vitó Ferreira,pt POR,LT,Estrela,25,9,8,0,0,0,0,0,0,0.2,0.2,2,24,10
+Gonçalo Filipe,pt POR,G,Chaves,23,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Diogo Fonseca,pt POR,ZG,Estrela,21,5,5,0,0,0,0,0,0,0.5,0.0,2,6,0
+Tiago Fonseca Morais,pt POR,"AT,LT",Boavista,19,17,17,6,2,1,1,5,2,2.8,2.8,41,70,98
+Théo Fonseca,fr FRA,AT,Famalicão,23,14,8,2,0,0,0,0,0,2.0,0.2,6,11,25
+José Fonte,pt POR,ZG,Braga,39,19,16,0,0,0,0,8,0,0.3,0.8,10,84,5
+Hernâni Fortes,pt POR,AT,Rio Ave,31,12,3,0,1,0,0,0,0,0.4,0.9,7,4,33
+André Franco,pt POR,"LT,AT",Porto,25,15,5,0,1,0,0,1,0,0.7,1.8,8,31,27
+Gonçalo Franco,pt POR,LT,Moreirense,22,33,32,2,4,0,0,7,0,1.9,3.0,17,103,57
+Afonso freitas,pt POR,"ZG,LT",Vitória,23,13,11,0,0,0,0,3,0,0.2,0.4,8,18,50
+Iván Fresneda,es ESP,"LT,ZG",Sporting CP,18,5,0,0,0,0,0,0,0,0.0,0.0,3,2,3
+Godfried Frimpong,nl NED,ZG,Moreirense,24,31,21,1,2,0,0,2,0,0.2,1.6,24,75,79
+Kanya Fujimoto,jp JPN,LT,Gil Vicente FC,24,33,21,3,6,1,1,0,0,3.5,3.1,41,103,102
+Taichi Fukui,jp JPN,LT,Portimonense,19,11,7,1,1,0,0,0,0,0.4,0.7,7,24,11
+Galeno,br BRA,"AT,LT",Porto,25,31,24,9,7,1,2,5,0,9.2,5.3,107,66,312
+Nino Galović,hr CRO,ZG,Arouca,31,18,16,0,1,0,0,3,0,0.4,0.5,3,41,1
+Fabrício Garcia,,"AT,LT",Estoril,22,10,3,2,0,0,0,1,0,1.0,0.1,11,6,19
+Gaspar,ao ANG,ZG,Estrela,25,27,27,1,0,0,0,9,0,1.3,0.6,16,86,5
+Bruno Gaspar,ao ANG,"LT,ZG",Vitória,30,28,28,2,3,0,0,7,0,1.6,2.2,46,91,212
+Mory Gbane,ci CIV,LT,Gil Vicente FC,22,29,21,1,0,0,0,7,0,1.2,0.2,16,73,14
+André Geraldes,pt POR,"LT,ZG",Casa Pia,32,16,5,0,0,0,0,2,0,0.1,0.0,5,15,22
+Saviour Godwin,ng NGA,"AT,LT",Casa Pia,26,4,4,1,0,1,1,0,0,1.4,0.1,23,8,31
+Eulânio Ângelo Chipela Gomes,gw GNB,LT,Estrela,29,12,6,0,1,0,0,2,0,0.1,0.8,16,20,31
+Rodrigo Gomes,pt POR,"LT,ZG",Estoril,20,30,26,7,7,0,0,5,1,6.4,3.1,93,67,174
+Vítor Gomes,pt POR,LT,Rio Ave,35,17,1,0,0,0,0,3,0,0.1,0.5,0,17,1
+Victor Gomez,es ESP,ZG,Braga,23,30,26,0,2,0,0,3,2,0.4,4.8,41,145,174
+Nuno Gonçalo Moreira,pt POR,"AT,LT",Casa Pia,24,15,14,2,1,0,0,2,0,1.8,1.2,14,61,58
+Nuno Gonçalo Moreira,pt POR,"AT,LT",Vizela,24,15,14,1,2,0,0,1,0,1.9,2.4,20,52,69
+João Gonçalves,pt POR,G,Boavista,22,34,34,0,0,0,0,4,0,0.0,0.0,0,1,0
+Jota Gonçalves,pt POR,ZG,Vizela,23,18,16,0,0,0,0,3,0,0.4,0.1,9,62,3
+Pedro Gonçalves,pt POR,"AT,LT",Sporting CP,25,32,32,11,12,0,0,4,0,11.0,9.4,73,153,211
+Vítor Gonçalves,pt POR,LT,Farense,31,24,6,1,0,0,0,0,0,0.9,0.7,8,29,24
+Cristo González,es ESP,"AT,LT",Arouca,25,34,33,15,9,3,6,3,0,12.6,6.9,65,134,223
+Nicolás González,es ESP,LT,Porto,21,25,20,2,1,0,0,7,0,3.5,1.3,30,137,49
+Tiago Gouveia,pt POR,AT,Benfica,22,13,5,2,3,0,0,1,0,1.8,2.2,15,25,58
+João Graça,pt POR,LT,Rio Ave,28,28,14,0,0,0,0,10,0,0.6,0.4,25,72,31
+Marko Grujić,rs SRB,LT,Porto,27,10,3,0,1,0,0,1,0,0.1,0.8,3,36,3
+Gonçalo Guedes,pt POR,"AT,LT",Benfica,26,9,1,0,0,0,0,0,0,0.3,0.0,9,5,25
+Guga,pt POR,"ZG,LT",Portimonense,19,27,17,1,1,0,0,6,0,0.5,1.2,24,20,75
+Ricardo Guimarães,mz MOZ,LT,Chaves,27,22,15,0,1,0,0,7,0,0.3,0.7,14,40,24
+Rafik Guitane,fr FRA,"AT,LT",Estoril,24,33,31,5,3,0,0,0,0,2.6,5.6,145,129,174
+Raphael Guzzo,pt POR,"LT,AT",Chaves,28,17,16,2,0,0,0,5,0,1.5,0.9,15,54,40
+Viktor Gyökeres,se SWE,AT,Sporting CP,25,33,32,29,10,5,5,3,0,22.5,7.7,114,51,355
+Justin de Haas,nl NED,ZG,Famalicão,23,22,18,1,0,0,0,5,1,1.4,0.1,2,39,1
+Yanis Hamache,dz ALG,ZG,Arouca,24,2,0,0,0,0,0,0,0,0.0,0.0,1,6,9
+Tomás Händel,pt POR,LT,Vitória,22,31,29,2,1,0,0,5,0,1.7,1.4,51,145,46
+Héctor,es ESP,AT,Chaves,27,32,32,14,1,5,6,2,0,12.7,0.6,11,46,73
+Gustavo Henrique,br BRA,"ZG,LT",Estrela,24,4,1,0,0,0,0,0,0,0.3,0.3,2,5,10
+Morten Hjulmand,dk DEN,LT,Sporting CP,24,30,28,3,2,0,0,12,0,1.9,1.6,5,104,26
+Jordan Holsgrove,sct SCO,LT,Estoril,23,15,15,2,2,0,0,6,1,0.6,1.2,14,87,9
+André Horta,pt POR,LT,Braga,26,14,5,2,1,0,0,0,0,0.5,1.0,16,79,23
+Ricardo Horta,pt POR,"AT,LT",Braga,28,28,27,9,4,0,0,3,0,7.1,7.2,37,138,180
+André Inácio,br BRA,"AT,LT",Estrela,21,27,13,4,0,0,0,2,0,5.9,0.8,43,25,79
+Gonçalo Inácio,pt POR,ZG,Sporting CP,21,32,28,1,0,0,0,8,1,1.1,0.3,35,236,8
+Hernani Infande,pt POR,"AT,LT",Moreirense,22,5,1,1,0,0,0,0,0,0.5,0.0,3,1,4
+Fabrício Isidoro,br BRA,LT,Farense,31,32,19,3,1,0,0,8,1,1.6,1.1,21,76,48
+Franco Israel,uy URU,G,Sporting CP,23,10,10,0,0,0,0,0,0,0.0,0.0,0,0,0
+Abass Issah,gh GHA,"LT,AT",Chaves,24,7,3,0,2,0,0,1,0,0.8,0.7,8,9,24
+Léo Jabá,br BRA,"AT,LT",Estrela,24,31,29,5,4,1,1,3,1,3.7,6.2,88,66,166
+Ivan Jaime Pajuelo,es ESP,"LT,AT",Porto,22,21,5,1,0,0,0,0,0,1.1,0.6,14,32,43
+Jajá,br BRA,"AT,LT",Casa Pia,22,12,3,0,0,0,0,0,0,0.3,0.4,25,15,36
+Jardel,gw GNB,"AT,LT",Vizela,25,13,1,0,1,0,0,0,0,0.5,0.7,9,12,20
+Jason,es ESP,"AT,LT",Arouca,29,34,32,6,5,0,0,4,0,7.1,5.9,51,96,234
+Sylvester Jasper,bg BUL,"AT,LT",Portimonense,21,24,20,2,2,0,0,2,0,3.0,2.0,50,37,107
+Anderson Jesus,br BRA,ZG,Vizela,28,29,27,0,0,0,0,5,0,0.7,0.4,7,54,0
+Jhonatan,br BRA,G,Rio Ave,32,26,26,0,0,0,0,4,0,0.0,0.0,0,2,1
+Jo,br BRA,"AT,LT",Chaves,28,27,9,2,2,0,0,1,0,3.4,1.2,7,6,45
+Joca,pt POR,"AT,LT",Rio Ave,27,28,21,4,2,0,0,2,0,2.5,1.7,38,79,78
+Nemanja Jović,rs SRB,LT,Estoril,20,3,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Luiz Lúcio Reis Júnior,br BRA,G,Famalicão,22,33,33,0,0,0,0,2,0,0.0,0.1,0,0,0
+David Jurásek,cz CZE,ZG,Benfica,22,6,2,0,0,0,0,1,0,0.1,0.7,8,9,29
+Samuel Justo,pt POR,LT,Casa Pia,19,21,5,1,1,0,0,1,0,0.6,0.4,8,22,23
+Kaio,br BRA,AT,Vitória,19,12,5,0,0,0,0,3,0,0.4,0.1,6,14,27
+Kazu,br BRA,"ZG,AT",Gil Vicente FC,23,3,0,0,0,0,0,0,0,0.0,0.1,4,5,5
+Keliano,ao ANG,LT,Estrela,20,9,0,0,0,0,0,0,0,0.2,0.0,0,3,3
+Kewin,br BRA,G,Moreirense,27,30,30,0,0,0,0,1,0,0.0,0.0,0,0,0
+Kikas,pt POR,"AT,LT",Estrela,24,31,15,8,1,0,0,4,0,6.9,2.0,13,27,91
+Francisco Kiki,pt POR,LT,Casa Pia,25,1,0,0,0,0,0,0,0,0.0,0.0,0,1,1
+Kobamelo Kodisang,za RSA,AT,Moreirense,23,31,19,1,3,0,0,0,0,3.5,2.5,49,34,124
+Koba Koindredi,fr FRA,LT,Estoril,21,11,6,0,0,0,0,0,0,0.3,0.3,10,27,9
+Koba Koindredi,fr FRA,LT,Sporting CP,21,4,0,0,0,0,0,0,0,0.0,0.0,1,1,0
+Orkun Kökçü,tr TUR,LT,Benfica,22,27,23,7,8,1,1,7,0,5.1,5.6,51,198,61
+Eboue Kouassi,ci CIV,LT,Arouca,25,25,14,0,0,0,0,5,1,0.7,0.4,6,58,9
+Kevin Krygård,no NOR,"LT,ZG",Casa Pia,23,3,0,0,0,0,0,0,0,0.0,0.0,0,4,0
+Matías Lacava,ve VEN,"AT,LT",Vizela,20,20,18,0,4,0,0,7,2,1.2,3.4,31,33,110
+Tom Lacoux,fr FRA,LT,Famalicão,21,9,5,0,0,0,0,1,0,0.2,0.0,3,9,2
+André Lacximicant,pt POR,"AT,LT",Casa Pia,22,13,1,1,1,0,0,0,0,0.2,0.4,5,4,12
+Rúben Lameiras,pt POR,"AT,LT",Casa Pia,28,15,5,0,1,0,0,2,0,0.4,1.3,13,25,27
+Rúben Lameiras,pt POR,"AT,LT",Chaves,28,5,4,0,0,0,0,1,0,0.1,0.2,2,7,5
+Bruno Langa,mz MOZ,"ZG,LT",Chaves,25,15,12,1,0,0,0,5,1,0.3,0.8,26,64,42
+Larra,es ESP,"ZG,LT",Casa Pia,25,32,30,2,1,0,0,4,0,1.1,2.1,71,83,96
+Yusuf Lawal,ng NGA,"AT,LT",Arouca,25,17,1,0,1,0,0,1,0,0.0,0.4,12,5,26
+Orest Lebedenko,ua UKR,ZG,Vizela,24,23,16,2,1,0,0,3,0,1.3,1.2,34,37,31
+Daniel Leite,pt POR,G,Estoril,25,12,12,0,0,0,0,1,0,0.0,0.0,0,0,0
+Leonardo Lelo,pt POR,"ZG,LT",Casa Pia,23,33,33,1,2,0,0,0,0,1.0,1.8,45,99,114
+Marcos Leonardo,br BRA,AT,Benfica,20,14,3,7,0,0,0,1,0,4.7,0.0,3,3,15
+Otso Liimatta,fi FIN,"LT,AT",Famalicão,19,12,5,0,0,0,0,0,0,0.3,0.2,11,8,26
+Rúben Lima,pt POR,"ZG,LT",Estrela,33,14,12,0,1,0,0,3,0,0.2,0.7,5,23,24
+Danny Loader,eng ENG,"AT,LT",Porto,22,16,1,1,2,0,0,1,0,1.0,0.8,5,10,27
+Jason Lokilo,be BEL,"AT,LT",Vizela,24,10,9,1,1,0,0,0,0,1.0,1.0,33,24,62
+Julien Lomboto,,LT,Rio Ave,21,2,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Miguel Lopes,pt POR,ZG,Estrela,36,17,17,0,0,0,0,2,1,0.4,0.8,3,34,2
+Né lopes,pt POR,ZG,Gil Vicente FC,23,5,3,0,0,0,0,0,0,0.0,0.0,3,9,3
+Rony Lopes,pt POR,"AT,LT",Braga,27,23,2,2,0,0,0,1,0,1.5,0.8,21,27,50
+Bruno Lourenço,pt POR,"AT,LT",Boavista,25,32,23,5,1,2,3,4,1,4.1,1.5,29,60,90
+Thomas Luciano,br BRA,ZG,Gil Vicente FC,21,4,0,1,0,0,0,1,0,0.1,0.1,1,2,2
+André Luis,br BRA,AT,Moreirense,29,15,15,6,2,1,1,4,0,3.5,2.0,16,29,73
+Florentino Luís,pt POR,LT,Benfica,23,30,17,0,0,0,0,8,0,1.5,0.4,11,142,20
+José Luis Rodríguez,pa PAN,AT,Famalicão,25,23,17,1,5,0,0,3,1,1.6,1.5,56,31,98
+Zé Luís,cv CPV,"AT,LT",Farense,32,15,5,2,1,0,0,2,0,2.1,0.7,10,14,30
+Luismi,gq EQG,AT,Moreirense,22,15,10,0,0,0,0,1,0,1.5,1.4,19,20,41
+Wallisson Luiz,br BRA,"LT,AT",Moreirense,25,11,1,0,0,0,0,3,1,0.2,0.0,1,8,3
+Rodrigo Macedo,pt POR,"AT,LT",Moreirense,20,5,0,0,0,0,0,0,0,0.4,0.0,2,2,5
+Tiago Machado,pt POR,"LT,AT",Boavista,19,5,0,0,0,0,0,0,0,0.0,0.0,0,0,2
+Madson,br BRA,"AT,LT",Moreirense,23,25,14,5,1,0,0,2,0,3.2,1.4,59,23,135
+Miguel Magalhães,pt POR,"ZG,LT",Vitória,20,22,8,0,0,0,0,2,0,0.6,0.4,11,36,46
+Magrão,br BRA,G,Rio Ave,23,7,7,0,0,0,0,0,0,0.0,0.0,0,0,0
+Gaius Makouta,cg CGO,LT,Boavista,26,30,27,2,2,0,0,9,0,2.1,1.1,51,102,83
+Pedro Malheiro,pt POR,"ZG,LT",Boavista,22,23,23,2,2,0,0,9,1,0.5,2.7,33,66,53
+Eliaquim Mangala,fr FRA,ZG,Estoril,32,17,12,1,0,0,0,3,0,0.9,0.1,2,26,0
+Ricardo Mangas,pt POR,"LT,ZG",Vitória,25,23,21,1,3,0,0,2,0,2.0,3.1,46,56,154
+Mansur,br BRA,ZG,Estrela,30,20,15,0,1,0,0,6,2,0.3,1.2,17,58,13
+Manuel Manu,pt POR,"ZG,LT",Vitória,22,23,19,2,0,0,0,5,0,1.3,0.5,8,70,5
+Zé Manuel,pt POR,"AT,LT",Rio Ave,32,24,3,2,0,0,0,2,0,1.7,0.6,7,17,28
+Maracás,br BRA,ZG,Moreirense,29,29,29,3,0,0,0,6,1,1.8,0.1,3,53,0
+Iván Marcano,es ESP,ZG,Porto,36,5,5,2,0,0,0,1,0,1.3,0.1,6,45,0
+Adrián Marín,es ESP,ZG,Braga,26,8,3,0,0,0,0,0,0,0.2,0.3,8,21,19
+João Mário,pt POR,"AT,LT",Benfica,30,31,29,3,1,1,1,4,0,7.0,2.5,69,192,186
+João Mário Lopes,pt POR,ZG,Porto,23,27,25,2,1,0,0,5,0,1.2,2.6,99,129,190
+Marlon,br BRA,"AT,LT",Gil Vicente FC,25,13,4,0,0,0,0,2,0,0.1,0.4,14,15,37
+Uladzislaŭ Marozaŭ,by BLR,"AT,LT",Arouca,22,3,2,0,0,0,0,0,0,0.2,0.0,3,0,6
+Alejandro Marqués,ve VEN,AT,Estoril,22,31,13,9,1,1,1,3,0,7.1,0.7,5,16,39
+Gustavo Marques,br BRA,ZG,Benfica,21,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Igor Marques,br BRA,"ZG,LT",Portimonense,24,27,16,1,1,0,0,5,0,0.2,1.5,37,57,59
+João Marques,pt POR,"LT,AT",Estoril,21,32,22,5,5,0,0,8,0,4.1,2.5,40,73,94
+Toni Martínez,es ESP,AT,Porto,26,20,5,4,0,0,0,3,0,2.6,0.6,4,5,36
+Rafael Martins,br BRA,LT,Casa Pia,34,2,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Rodrigo Martins,pt POR,"ZG,AT",Estoril,24,2,0,0,0,0,0,0,0,0.0,0.0,1,0,0
+Rodrigo Martins,pt POR,AT,Portimonense,24,9,2,0,0,0,0,1,0,0.6,0.2,11,7,14
+Matheus,br BRA,G,Braga,31,34,34,0,0,0,0,3,0,0.0,0.0,0,3,0
+Marco Matias,pt POR,"AT,LT",Farense,34,33,29,2,5,0,0,4,0,5.9,3.2,44,54,118
+Nuno Matos,pt POR,ZG,Braga,18,1,0,0,0,0,0,0,0,0.0,0.0,1,0,1
+Maurício,br BRA,LT,Portimonense,34,7,6,0,0,0,0,1,0,0.7,0.0,2,16,4
+Rodrigo Melro,pt POR,ZG,Chaves,19,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+João Mendes,pt POR,"AT,LT",Vitória,28,26,18,7,3,0,0,4,1,5.6,3.4,38,82,106
+Joe Mendes,se SWE,ZG,Braga,20,17,11,0,2,0,0,1,0,0.0,2.4,38,35,72
+Pedro Mendes,pt POR,ZG,Estrela,32,13,11,0,0,0,0,1,0,0.2,0.0,0,13,0
+Alexis Méndez,us USA,"LT,AT",Vizela,22,12,3,0,1,0,0,1,0,0.3,1.0,5,28,18
+Miguel Menino,pt POR,LT,Sporting CP,20,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Benji Michel,us USA,"AT,LT",Arouca,25,5,0,0,0,0,0,0,0,0.1,0.1,2,3,4
+João Miguel,pt POR,ZG,Porto,23,5,3,0,1,0,0,0,0,0.1,0.5,11,21,26
+Enea Mihaj,al ALB,ZG,Famalicão,25,18,18,0,0,0,0,5,0,0.7,0.1,4,39,0
+Mika,pt POR,G,Moreirense,32,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Bogdan Milovanov,ua UKR,ZG,Arouca,25,22,12,0,0,0,0,4,1,0.2,0.4,22,42,51
+Vinicius Mingotti,br BRA,AT,Moreirense,23,16,6,1,0,0,0,2,0,1.3,0.7,1,4,16
+Miro,ao ANG,"AT,LT",Gil Vicente FC,20,5,1,0,0,0,0,0,0,0.1,0.0,1,3,4
+Cezary Miszta,pl POL,G,Rio Ave,21,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Miguel Monteiro,pt POR,AT,Gil Vicente FC,20,9,1,1,1,0,0,0,0,1.0,0.2,4,1,9
+Francisco Montero,es ESP,ZG,Arouca,24,29,29,1,1,0,0,9,0,0.8,0.5,20,107,5
+Morato,br BRA,ZG,Benfica,22,21,17,0,1,0,0,2,0,0.6,2.0,28,65,61
+Hélder Morim,pt POR,"LT,ZG",Chaves,22,18,5,1,0,0,0,2,0,0.7,0.6,3,23,14
+Hidemasa Morita,jp JPN,LT,Sporting CP,28,29,24,2,4,0,0,3,0,3.2,2.6,19,147,53
+Mosquito,br BRA,G,Arouca,27,2,2,0,0,0,0,0,0,0.0,0.0,0,0,0
+Moura,pt POR,ZG,Famalicão,23,33,33,1,4,0,0,7,0,0.4,6.8,64,127,191
+João Moutinho,pt POR,LT,Braga,36,30,23,1,1,0,1,8,0,1.1,3.3,29,216,32
+Rafa Mújica,es ESP,AT,Arouca,24,30,29,20,3,0,0,4,1,16.3,2.0,50,21,171
+Petar Musa,hr CRO,AT,Benfica,25,14,6,5,2,0,0,1,1,3.8,1.2,8,11,29
+Zach Muscat,mt MLT,ZG,Farense,29,22,19,2,0,0,0,5,1,2.2,0.1,2,25,2
+Almoatasem Al Musrati,ly LBY,LT,Braga,27,11,9,3,0,2,2,1,0,2.5,0.3,4,77,6
+Steve Mvoué,cm CMR,LT,Portimonense,21,3,1,0,0,0,0,0,0,0.8,0.2,0,2,2
+Kosuke Nakamura,jp JPN,G,Portimonense,28,20,20,0,0,0,0,1,0,0.0,0.0,0,0,0
+Nuno Namora,pt POR,"ZG,LT",Rio Ave,25,4,0,0,0,0,0,0,0,0.0,0.0,3,8,2
+Davis Nascimento,br BRA,LT,Portimonense,20,1,0,0,0,0,0,1,0,0.1,0.0,0,0,1
+Diogo Nascimento,pt POR,LT,Vizela,20,34,22,0,1,0,0,4,0,1.3,0.8,27,144,66
+Rodrigo Nascimento,br BRA,G,Chaves,27,7,7,0,0,0,0,0,0,0.0,0.0,0,0,0
+Nathan,br BRA,ZG,Famalicão,21,28,21,0,0,0,0,8,0,0.3,0.9,57,47,58
+Fran Navarro,es ESP,"AT,LT",Porto,25,6,1,0,0,0,0,0,0,1.2,0.2,1,3,6
+Mor Ndiaye,sn SEN,LT,Estoril,22,8,3,0,0,0,0,2,0,0.1,0.0,0,6,0
+Alioune Ndour,sn SEN,"AT,LT",Estrela,22,9,0,0,1,0,0,1,0,1.1,0.6,6,5,18
+Cher Ndour,it ITA,LT,Braga,19,9,1,1,0,0,0,1,0,0.3,0.1,4,11,7
+Nelson,ao ANG,"ZG,AT",Vitória,25,15,2,1,0,0,0,1,0,0.7,0.1,9,21,41
+David Neres,br BRA,AT,Benfica,26,24,12,5,7,0,0,1,0,4.4,5.1,65,50,119
+Neto,br BRA,LT,Casa Pia,31,31,27,1,1,0,0,13,0,0.4,1.2,11,122,18
+Luís Neto,pt POR,ZG,Sporting CP,35,7,2,0,0,0,0,4,0,0.2,0.0,3,13,2
+João Neves,pt POR,LT,Benfica,18,33,27,3,1,0,0,3,0,1.8,2.3,43,171,53
+Sikou Niakaté,ml MLI,ZG,Braga,24,19,16,0,0,0,0,4,1,0.8,0.3,9,44,1
+Miguel Nóbrega,pt POR,ZG,Rio Ave,23,22,19,1,0,0,0,8,0,1.5,0.7,21,67,19
+Gonçalo Nogueira,pt POR,LT,Vitória,19,1,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Ygor Nogueira,br BRA,ZG,Chaves,28,21,20,0,0,0,0,8,3,0.8,0.5,10,36,2
+Nonoca,br BRA,LT,Portimonense,25,28,22,1,1,0,0,7,0,1.2,1.2,8,35,7
+João Nunes,pt POR,ZG,Casa Pia,27,19,15,1,0,0,0,1,0,0.3,0.3,12,44,4
+Kelechi Nwakali,ng NGA,LT,Chaves,25,32,25,1,4,0,0,3,0,0.9,4.3,30,151,42
+Régis N’Do,bf BFA,"AT,LT",Estrela,22,23,8,1,1,0,0,7,1,2.4,1.1,28,38,84
+Tashan Oakley-Boothe,eng ENG,"LT,ZG",Estrela,23,2,0,0,0,0,0,0,0,0.0,0.1,0,3,0
+Lawrence Ofori,gh GHA,LT,Moreirense,25,31,29,1,1,0,0,9,0,0.4,1.2,37,153,25
+Hugo Oliveira,pt POR,"ZG,LT",Vizela,21,14,4,1,3,0,0,0,0,0.2,0.9,13,15,24
+Mattheus Oliveira,br BRA,LT,Farense,29,32,28,5,1,1,2,5,1,5.1,5.0,29,115,56
+Nélson Oliveira,pt POR,AT,Vitória,31,15,6,2,2,0,0,5,0,1.6,0.7,6,17,51
+Paulo Oliveira,pt POR,ZG,Braga,31,20,19,0,2,0,0,6,0,0.2,0.3,2,55,3
+Talys Oliveira,br BRA,ZG,Farense,24,13,11,0,0,0,0,0,0,0.1,0.8,18,20,28
+Joneston Omurwa,ke KEN,ZG,Estrela,24,15,13,0,0,0,0,3,0,0.4,0.0,12,36,0
+Bruno Onyemaechi,ng NGA,"ZG,LT",Boavista,24,24,23,0,1,0,0,3,0,1.5,2.2,56,52,81
+Jerome Opoku,gh GHA,ZG,Arouca,24,2,1,0,0,0,0,0,0,0.0,0.0,0,1,1
+Pedro Ortiz,es ESP,LT,Vizela,22,15,11,0,0,0,0,7,0,0.0,0.2,6,46,2
+Nicolás Otamendi,ar ARG,ZG,Benfica,35,31,31,2,1,0,0,11,1,3.4,1.4,40,139,22
+Otávio,pt POR,"LT,AT",Porto,28,1,1,0,0,0,0,1,0,0.0,0.1,1,4,3
+João Othavio Basso,br BRA,ZG,Estoril,26,14,13,1,0,0,0,2,0,1.3,0.0,10,53,7
+Amine Oudrhiri,ma MAR,LT,Rio Ave,30,29,28,1,0,0,0,7,0,0.3,0.5,12,108,21
+Pablo,br BRA,"AT,LT",Famalicão,19,8,2,0,0,0,0,3,1,0.2,0.2,2,3,9
+Lucas Paes,br BRA,G,Casa Pia,25,4,3,0,0,0,0,1,0,0.0,0.0,0,0,0
+Renato Pantalon,hr CRO,ZG,Rio Ave,25,19,14,1,0,0,0,7,1,0.2,0.1,13,43,5
+Raúl Parra,es ESP,ZG,Estoril,23,13,7,1,0,0,0,1,0,0.1,0.2,2,24,14
+David Pastor,br BRA,ZG,Farense,23,30,28,0,2,0,0,9,1,0.3,1.8,47,90,63
+Patrick,br BRA,ZG,Rio Ave,26,20,12,0,0,0,0,5,0,0.6,0.5,12,30,8
+Paulinho,pt POR,"AT,LT",Portimonense,23,8,2,0,0,0,0,0,0,0.6,0.0,1,0,5
+Paulinho,pt POR,"AT,LT",Sporting CP,30,31,11,15,5,0,0,1,0,9.3,2.8,23,53,102
+Ivan Pavlic,be BEL,LT,Estoril,21,5,3,0,0,0,0,0,0,0.0,0.1,4,6,5
+Pedrão,br BRA,ZG,Portimonense,26,30,29,3,1,1,1,8,1,2.5,0.6,30,112,10
+Zé Pedro Figueiredo,pt POR,ZG,Porto,26,12,9,2,0,0,0,1,0,1.1,0.8,9,67,7
+João Pedro,pt POR,LT,Chaves,30,13,4,0,0,0,0,1,0,0.3,0.1,3,17,7
+Pepe,pt POR,ZG,Porto,40,22,22,1,1,0,0,4,2,1.7,0.5,16,138,5
+Pepê,br BRA,"LT,ZG",Porto,26,34,32,4,6,0,0,4,1,5.6,5.2,85,192,214
+André Pereira,pt POR,AT,Rio Ave,28,11,7,1,0,0,0,3,0,1.0,0.2,6,14,31
+Gabriel Pereira,br BRA,ZG,Gil Vicente FC,23,31,31,4,0,0,0,8,1,2.9,0.5,10,79,5
+Hildeberto Pereira,pt POR,AT,Portimonense,27,16,10,2,2,0,0,3,0,1.9,0.6,14,14,52
+Matheus Pereira,br BRA,"ZG,AT",Vizela,22,30,22,3,2,0,0,10,0,2.1,2.6,54,77,111
+Sebastián Pérez Cardona,co COL,LT,Boavista,30,28,28,0,0,0,0,15,2,0.8,0.3,13,114,23
+Sava Petrov,rs SRB,"AT,LT",Vizela,25,9,6,2,0,0,0,2,1,2.1,0.1,18,8,34
+Thibang Phete,za RSA,"ZG,LT",Chaves,29,9,6,0,0,0,0,3,0,0.2,0.0,0,8,1
+Wagner Pina,,"LT,ZG",Estoril,20,22,11,0,0,0,0,3,0,0.6,0.3,17,24,74
+Pedro Pinho,pt POR,LT,Chaves,23,10,1,1,0,0,0,1,0,0.2,0.0,2,9,2
+Rodrigo Pinho,br BRA,AT,Estrela,32,8,4,1,1,0,0,2,0,0.7,0.8,1,9,7
+Alexandre Pinto,pt POR,ZG,Gil Vicente FC,25,14,13,0,0,0,0,2,0,0.3,0.5,18,33,42
+Dinis Pinto,pt POR,ZG,Moreirense,22,13,11,0,2,0,0,3,0,0.0,0.4,13,30,28
+Diogo Pinto,pt POR,LT,Casa Pia,24,1,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Diogo Pinto,pt POR,G,Sporting CP,19,2,2,0,0,0,0,0,0,0.0,0.0,0,0,0
+Junior Pius,ng NGA,ZG,Chaves,27,15,15,0,0,0,0,6,2,0.2,0.6,13,37,8
+Pizzi,pt POR,"LT,AT",Braga,33,29,12,1,3,0,0,1,0,1.7,2.2,14,89,72
+Carlos Ponck,cv CPV,ZG,Moreirense,28,15,11,0,0,0,0,2,0,0.3,0.3,4,27,0
+Cristian Ponde,pt POR,"LT,AT",Farense,28,14,0,1,1,0,0,0,0,0.8,0.3,4,10,18
+Rafael Pontelo,br BRA,ZG,Sporting CP,20,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Gianluca Prestianni,ar ARG,LT,Benfica,17,1,0,0,0,0,0,0,0,0.1,0.0,0,0,1
+Miguel Puche García,es ESP,"AT,LT",Arouca,22,23,0,0,0,0,0,0,0,0.3,0.6,13,8,32
+Quaresma,br BRA,ZG,Arouca,26,6,3,0,1,0,0,1,0,0.2,0.6,9,15,16
+Eduardo Quaresma,pt POR,ZG,Sporting CP,21,20,9,1,0,0,0,2,0,0.5,0.6,8,53,5
+João Queirós,pt POR,ZG,Chaves,25,5,2,0,0,0,0,0,0,0.2,0.0,0,8,1
+Domingos Quina,pt POR,"AT,LT",Vizela,23,13,10,0,3,0,0,3,0,0.7,1.4,16,34,46
+Cláudio Ramos,pt POR,G,Porto,31,2,1,0,0,0,0,0,0,0.0,0.1,0,1,0
+Rúben Ramos,pt POR,LT,Moreirense,24,18,5,0,0,0,0,5,0,0.0,0.0,5,16,4
+Osama Rashid,iq IRQ,"LT,AT",Vizela,31,7,0,0,0,0,0,0,0,0.0,0.0,0,3,0
+Miguel Rebelo,pt POR,LT,Moreirense,19,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+João Reis,pt POR,"ZG,LT",Estrela,31,19,16,0,0,0,0,3,0,0.1,0.2,10,66,57
+Matheus Reis,br BRA,"ZG,LT",Sporting CP,28,27,15,0,4,0,0,2,0,0.1,2.0,54,119,74
+Miguel Reisinho,pt POR,LT,Boavista,24,31,26,3,2,1,1,8,0,2.2,1.3,16,55,55
+Filipe Relvas,pt POR,ZG,Portimonense,23,32,32,2,3,0,0,4,1,1.2,1.4,10,85,18
+Rúben Tiago Rodrigues Ribeiro,pt POR,"AT,LT",Chaves,35,23,19,1,1,0,0,7,1,1.5,1.7,33,56,105
+Tomás Ribeiro,pt POR,ZG,Vitória,24,29,28,1,1,0,0,8,0,1.9,0.4,11,102,14
+Riccieli,br BRA,ZG,Famalicão,24,24,20,1,1,0,0,7,2,0.8,0.6,4,32,1
+Rildo,br BRA,"AT,LT",Portimonense,23,11,5,0,1,0,1,3,0,1.4,0.7,6,9,35
+Mihailo Ristić,rs SRB,ZG,Benfica,27,1,0,0,0,0,0,0,0,0.0,0.1,1,2,4
+Pablo Roberto,br BRA,"LT,AT",Casa Pia,23,29,20,3,6,0,0,6,1,1.8,3.0,35,99,65
+Matí­as Rocha,uy URU,ZG,Arouca,22,11,8,1,0,0,0,1,1,0.9,0.0,1,15,1
+Afonso Rodrigues,pt POR,"AT,LT",Famalicão,20,8,1,1,0,0,0,1,0,0.6,0.1,6,3,15
+Bruno Rodrigues,pt POR,ZG,Chaves,22,17,16,0,0,0,0,4,0,0.6,0.0,10,33,2
+Gonçalo Rodrigues,pt POR,LT,Rio Ave,26,15,15,1,0,0,0,2,0,1.9,1.3,29,71,37
+Benjamín Rollheiser,ar ARG,AT,Benfica,23,9,1,1,0,0,0,1,0,0.7,0.2,10,12,19
+Ronald,br BRA,"LT,AT",Estrela,22,17,16,1,2,0,0,4,0,2.0,2.8,33,33,98
+Igor Rossi Branco,br BRA,ZG,Farense,34,13,11,0,0,0,0,4,0,0.3,0.5,3,16,1
+Francesco Ruberto,ch SUI,G,Vizela,30,7,7,0,0,0,0,2,0,0.0,0.0,0,1,0
+Abel Ruiz,es ESP,"AT,LT",Braga,23,30,19,6,2,0,0,5,0,6.3,1.5,24,35,152
+Leonardo Ruíz,co COL,AT,Rio Ave,27,14,8,2,0,1,1,1,0,3.9,0.1,5,10,35
+Gustavo sá,pt POR,LT,Famalicão,18,28,24,3,5,0,0,6,0,2.3,3.1,40,84,77
+Helder Sá,pt POR,"ZG,LT",Rio Ave,20,4,0,0,1,0,0,0,0,0.0,0.1,1,2,1
+Josué Sá,pt POR,ZG,Rio Ave,31,24,23,0,1,0,0,6,0,0.2,1.1,27,83,9
+Pedro Sá,pt POR,LT,Estrela,29,18,5,0,0,0,0,1,0,0.1,0.3,1,35,7
+Serdar Saatçı,tr TUR,ZG,Braga,20,17,17,0,2,0,0,6,0,0.7,0.4,13,48,3
+Safira,br BRA,AT,Vitória,28,8,0,1,0,1,1,0,0,1.9,0.7,4,4,13
+Dylan Saint-Louis,cg CGO,"AT,LT",Vizela,28,15,0,1,0,0,0,1,0,0.5,0.3,6,15,35
+Samu,pt POR,LT,Vizela,27,32,32,4,2,2,3,7,0,6.3,4.1,26,215,112
+Leandro Sanca,gw GNB,"AT,LT",Chaves,23,31,13,0,3,0,0,3,0,2.3,2.7,62,38,117
+Aderlan Santos,br BRA,ZG,Rio Ave,34,32,32,3,0,0,0,8,1,1.3,0.7,4,71,4
+Hevertton Santos,br BRA,"ZG,LT",Estrela,22,29,23,0,1,0,0,3,1,0.9,3.1,23,90,80
+Luís Santos,pt POR,"ZG,AT",Boavista,23,19,4,0,1,0,0,3,0,0.1,0.9,14,19,44
+Nuno Santos,pt POR,"AT,LT",Vitória,24,27,9,2,4,0,0,5,1,1.8,2.7,24,72,75
+Nuno Santos,pt POR,"LT,ZG",Sporting CP,28,31,24,4,10,0,0,6,0,4.0,6.8,68,125,262
+Pedro Santos,pt POR,LT,Arouca,22,28,16,1,0,0,0,7,0,0.6,0.9,29,124,37
+Wagner Santos,br BRA,G,Estrela,25,5,5,0,0,0,0,0,1,0.0,0.0,0,0,0
+Zaidu Sanusi,ng NGA,ZG,Porto,26,5,5,1,0,0,0,0,0,0.2,0.2,8,7,17
+Vincent Sasso,fr FRA,ZG,Boavista,32,17,13,2,0,0,0,3,0,1.9,0.8,8,21,7
+Savio,br BRA,"ZG,LT",Rio Ave,28,7,2,0,1,0,0,1,0,0.0,0.9,4,25,4
+Caio Secco,br BRA,G,Moreirense,32,4,4,0,1,0,0,0,0,0.0,0.0,0,0,0
+Moustapha Seck,sn SEN,"ZG,LT",Portimonense,27,19,10,0,0,0,0,2,0,0.3,0.3,15,19,22
+Telasco Segovia,ve VEN,LT,Casa Pia,20,16,8,0,1,0,0,4,0,0.5,0.4,6,30,19
+João Seno,pt POR,LT,Benfica,18,1,0,0,0,0,0,0,0,0.2,0.0,1,0,1
+Artur Serobyan,am ARM,LT,Casa Pia,20,2,1,0,0,0,0,1,0,0.0,0.0,1,1,3
+André Seruca,pt POR,LT,Farense,22,6,0,0,0,0,0,0,0,0.0,0.0,0,2,0
+Nkanyiso Shinga,za RSA,"ZG,LT",Estrela,23,10,6,0,0,0,0,0,0,0.0,0.1,4,17,14
+Adrien Silva,pt POR,LT,Rio Ave,34,10,3,0,0,0,1,2,0,0.8,0.2,0,27,6
+André Silva,br BRA,AT,Vitória,26,22,21,10,2,0,1,3,0,6.7,2.3,15,56,115
+António Silva,pt POR,ZG,Benfica,19,30,29,2,0,0,0,6,0,2.1,0.1,27,134,3
+Francisco Silva,pt POR,G,Sporting CP,17,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Gonçalo Silva,pt POR,ZG,Farense,32,33,33,1,0,0,0,3,1,1.0,0.0,4,51,4
+Joel silva,pt POR,LT,Boavista,20,14,2,1,0,0,0,1,0,0.4,0.2,1,11,9
+Jota Silva,pt POR,"AT,LT",Vitória,23,33,32,11,5,0,0,7,0,8.0,4.1,84,67,261
+Felipe Silva Lipe,br BRA,ZG,Gil Vicente FC,21,6,3,0,1,0,0,0,0,0.2,0.9,2,8,0
+Pedro Manuel da Silva Moreira,pt POR,LT,Arouca,34,5,0,0,0,0,0,1,0,0.0,0.0,0,2,0
+Rafa Silva,pt POR,"LT,AT",Benfica,30,30,29,14,12,0,0,3,0,15.2,10.6,121,167,268
+Tiago Silva,pt POR,LT,Vitória,30,29,28,5,5,4,5,8,0,5.2,4.7,26,204,45
+Vinicius Silvestre,br BRA,G,Portimonense,29,14,14,0,0,0,0,1,0,0.0,0.0,0,0,0
+David Simão,pt POR,LT,Arouca,33,32,31,0,7,0,0,9,1,0.3,3.9,17,218,41
+André Simões,pt POR,AT,Gil Vicente FC,19,1,0,0,0,0,0,0,0,0.0,0.0,1,1,0
+Alexandre Miguel Barros Soares,pt POR,LT,Estoril,32,6,2,0,0,0,0,0,0,0.0,0.1,3,5,10
+Filipe Soares,pt POR,LT,Famalicão,24,8,0,0,1,0,0,2,0,0.0,0.4,3,12,2
+Samuel Soares,pt POR,G,Benfica,21,5,5,0,0,0,0,0,0,0.0,0.0,0,0,0
+Yuki Soma,jp JPN,"AT,LT",Casa Pia,26,32,22,5,3,0,0,3,0,2.9,2.8,59,29,133
+Alberto Soro,es ESP,"AT,LT",Vizela,24,21,9,4,1,0,0,3,0,2.9,2.3,15,45,64
+Gonçalo Sousa,pt POR,AT,Porto,17,1,0,0,0,0,0,0,0,0.0,0.0,2,2,2
+Aloísio Souza Genézio,br BRA,LT,Estrela,27,24,19,0,1,0,0,6,0,0.6,0.7,2,75,15
+Hugo Souza,br BRA,G,Chaves,24,26,26,0,0,0,0,5,0,0.0,0.1,0,0,0
+Jose Souza,pt POR,LT,Portimonense,22,2,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Diogo Spencer,pt POR,ZG,Benfica,19,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Jerry St. Juste,nl NED,ZG,Sporting CP,26,11,5,0,0,0,0,4,0,0.1,0.1,11,33,4
+Harouna Sy,fr FRA,AT,Estoril,27,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Habib sylla,ci CIV,ZG,Chaves,24,7,4,0,0,0,0,2,0,0.0,0.3,6,5,16
+Morlaye Sylla,gn GUI,"LT,AT",Arouca,25,32,32,3,5,0,1,8,0,4.4,3.0,65,145,122
+Talocha,pt POR,ZG,Farense,33,26,23,0,1,0,0,3,0,0.3,1.5,26,82,69
+Tamble,pt POR,AT,Portimonense,22,5,4,1,0,0,0,1,0,1.1,0.1,1,4,14
+Mateo Tanlongo,ar ARG,LT,Rio Ave,19,12,7,0,1,0,0,5,0,0.0,0.4,3,13,4
+Mehdi Taremi,ir IRN,"AT,LT",Porto,31,23,15,6,4,2,3,3,0,7.9,2.7,28,51,101
+Heriberto Tavares,pt POR,"AT,LT",Estoril,26,32,15,2,0,0,0,5,0,1.8,1.1,38,37,98
+Martim Tavares,pt POR,"AT,LT",Boavista,19,22,4,1,2,0,0,1,0,1.4,0.3,3,4,21
+Ronaldo Tavares,pt POR,AT,Estrela,26,24,13,3,0,0,0,2,0,5.9,0.7,27,13,80
+Duplexe Tchamba,cm CMR,ZG,Casa Pia,25,16,14,1,1,0,0,6,1,1.8,0.1,6,27,5
+João Teixeira,pt POR,"LT,AT",Rio Ave,29,13,9,1,2,0,0,2,0,0.7,0.9,14,35,32
+Casper Tengstedt,dk DEN,AT,Benfica,23,17,8,4,2,0,0,2,0,4.7,1.9,24,9,53
+Pedro Tiba,pt POR,LT,Gil Vicente FC,34,25,18,3,2,1,2,7,0,2.2,1.7,23,95,25
+Mirko Topić,rs SRB,LT,Famalicão,22,32,26,0,2,0,0,6,0,1.1,0.8,37,113,23
+Alfonso Trezza,uy URU,"AT,LT",Arouca,24,24,8,0,0,0,0,6,0,1.6,0.6,17,29,65
+Francisco Trincão,pt POR,"AT,LT",Sporting CP,23,31,18,9,6,0,0,1,0,6.2,5.0,58,102,128
+Anatolii Trubin,ua UKR,G,Benfica,21,28,28,0,0,0,0,1,0,0.0,0.0,0,0,0
+Ukra,pt POR,"AT,LT",Rio Ave,35,6,1,0,0,0,0,1,0,0.0,0.0,2,2,6
+Iker Unzueta,es ESP,AT,Vizela,24,2,0,0,0,0,0,0,0,0.0,0.0,0,2,5
+João Valido,pt POR,G,Arouca,23,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Alan Varela,ar ARG,LT,Porto,22,30,28,2,3,0,0,8,0,1.7,2.4,30,179,22
+Bruno Varela,cv CPV,G,Vitória,28,27,27,0,0,0,0,2,0,0.0,0.0,0,0,0
+Fernando Varela,cv CPV,ZG,Casa Pia,35,24,23,0,1,0,0,2,0,0.1,0.3,2,35,4
+Gustavo Varela,pt POR,AT,Benfica,18,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Hélio Varela,cv CPV,"AT,LT",Portimonense,21,33,31,6,3,0,0,7,0,4.9,3.5,134,71,239
+Nilton Varela,pt POR,"ZG,LT",Estrela,22,12,6,0,0,0,0,2,0,0.1,0.1,5,14,26
+Jhon Velásquez,co COL,"AT,LT",Farense,28,2,0,0,0,0,0,0,0,0.0,0.0,0,1,3
+Ricardo Velho,pt POR,G,Farense,24,32,32,0,0,0,0,2,0,0.0,0.1,0,0,0
+Bruno Ventura,pt POR,"AT,LT",Rio Ave,22,13,5,0,0,0,0,1,0,0.9,2.1,6,12,36
+João Victor,br BRA,ZG,Benfica,25,2,0,0,0,0,0,0,0,0.0,0.0,0,1,6
+Paulo Victor,br BRA,"AT,LT",Chaves,22,22,7,1,1,0,0,8,0,1.5,0.8,19,16,52
+Kiko Vilas Boas,pt POR,ZG,Gil Vicente FC,23,10,7,0,0,0,0,1,0,0.0,0.6,11,8,23
+Mikel Villanueva,ve VEN,ZG,Vitória,30,6,5,0,0,0,0,1,0,0.3,0.0,6,23,0
+Marcos Vinicios Sorriso,br BRA,"AT,LT",Famalicão,22,15,9,1,2,0,0,1,0,1.8,1.0,23,25,51
+Bernardo Vital,pt POR,ZG,Estoril,22,29,29,1,0,0,0,5,1,0.5,0.2,13,82,4
+Vitinho,br BRA,"AT,LT",Arouca,23,7,1,0,0,0,0,0,0,0.2,0.1,3,8,13
+Steven Vitória,ca CAN,ZG,Chaves,36,20,15,1,0,0,0,5,1,1.7,0.3,0,19,1
+Odisseas Vlachodimos,gr GRE,G,Benfica,29,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Marious Vrousai,gr GRE,"LT,ZG",Rio Ave,25,14,6,1,0,0,0,0,0,0.7,0.5,9,18,33
+Ilija Vukotić,me MNE,LT,Boavista,24,28,10,1,0,0,0,5,0,0.2,0.9,8,47,12
+Masaki Watai,jp JPN,"AT,LT",Boavista,24,13,3,0,0,0,0,0,0,0.1,0.0,5,25,33
+Wendell,br BRA,ZG,Porto,30,25,23,4,2,0,0,11,1,1.5,2.2,72,158,166
+Weverson,br BRA,ZG,Arouca,23,26,24,1,1,0,0,4,0,0.5,2.0,27,67,105
+Bruno Wilson,pt POR,ZG,Vizela,26,16,16,0,0,0,0,1,1,1.3,0.0,5,55,8
+Roan Wilson,cr CRC,"LT,ZG",Gil Vicente FC,21,9,1,1,0,0,0,0,0,1.1,0.0,0,3,0
+Frederik Winther,dk DEN,ZG,Estoril,22,2,1,0,0,0,0,0,0,0.0,0.0,1,6,0
+Abdul-Aziz Yakubu,gh GHA,AT,Rio Ave,24,16,13,6,2,4,4,0,0,4.2,0.9,9,18,58
+Moses Yaw,gh GHA,"ZG,LT",Arouca,24,3,0,0,0,0,0,0,0,0.0,0.0,3,2,0
+Zaydou Youssouf,fr FRA,LT,Famalicão,24,32,32,2,1,0,1,10,1,1.9,2.5,36,146,15
+Rodrigo Zalazar,uy URU,LT,Braga,23,32,21,6,6,0,0,4,0,4.2,6.3,63,158,81
+Vinícius Zanocelo,br BRA,LT,Estoril,22,15,12,1,0,0,0,3,0,0.4,0.5,5,43,8
+Zinho,br BRA,"AT,LT",Portimonense,20,12,0,0,0,0,0,1,0,0.0,0.4,8,4,13
+Ivan Zlobin,ru RUS,G,Famalicão,26,1,1,0,0,0,0,1,0,0.0,0.0,0,0,0
+Nermin Zolotić,ba BIH,ZG,Casa Pia,30,31,30,1,0,0,0,3,0,0.7,0.3,19,81,5

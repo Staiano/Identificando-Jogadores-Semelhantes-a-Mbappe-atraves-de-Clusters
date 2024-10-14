@@ -1,0 +1,526 @@
+Jogador,Nacao,Posicao,Equipe,Idade,Jogos_disputados,Jogos_iniciados,Gols,Assistencias,Penaltis_batidos,Penaltis_convertidos,Amarelos,Vermelhos,Xg,Xag,Carregadas_progressivas,Passes_progressivos,Passes_progressivos_recebidos
+Patrick van Aanholt,nl NED,ZG,PSV Eindhoven,32,24,9,1,1,0,0,0,0,2.1,2.3,40,65,98
+Paxten Aaronson,us USA,LT,Vitesse,19,14,14,4,0,0,0,4,0,5.0,1.7,34,43,61
+Jayden Addai,nl NED,AT,AZ Alkmaar,17,8,2,0,0,0,0,1,0,0.2,0.1,11,8,29
+Bobby Adekanye,nl NED,AT,Go Ahead Eag,24,28,23,0,5,0,0,4,1,2.6,5.7,67,51,114
+Shawn Adewoye,be BEL,ZG,RKC Waalwijk,23,29,26,1,0,0,0,1,1,1.3,0.4,26,97,3
+Nikolas Agrafiotis,nl NED,AT,Excelsior,23,18,10,5,2,0,0,0,0,4.0,1.3,7,12,44
+Chuba Akpom,eng ENG,"AT,LT",Ajax,27,25,8,11,3,0,0,0,0,9.0,1.9,23,38,74
+Hamdi Akujobi,nl NED,"ZG,AT",Almere City,23,23,16,0,2,0,0,4,0,1.0,1.4,29,50,64
+Hussein Ali,iq IRQ,"ZG,AT",Heerenveen,21,15,8,0,0,0,0,0,0,0.4,0.7,13,16,34
+Jordi Altena,nl NED,LT,Vitesse,19,2,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Jaydon Amauri Banel,nl NED,"AT,LT",Ajax,18,5,1,0,1,0,0,0,0,0.4,0.2,3,1,5
+Pelle van Amersfoort,nl NED,AT,Heerenveen,27,31,26,10,1,0,0,3,0,10.1,1.8,23,37,82
+Jamal Amofa,nl NED,ZG,Go Ahead Eag,24,22,20,1,0,0,0,7,1,0.3,0.3,25,71,4
+Silas Andersen,dk DEN,AT,Utrecht,19,1,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Augustin Anello,be BEL,"AT,LT",Sparta R'dam,21,8,1,0,0,0,0,0,0,0.3,0.1,5,5,23
+Joey Antonioli,nl NED,LT,Volendam,19,3,1,0,0,0,0,0,0,0.0,0.0,0,1,5
+Carlens Arcus,ht HAI,ZG,Vitesse,27,30,25,0,4,0,0,4,0,0.2,3.2,40,143,103
+D'Leanu Arts,nl NED,ZG,NEC Nijmegen,20,3,0,0,0,0,0,1,0,0.0,0.0,0,3,0
+Gastón Ávila,ar ARG,ZG,Ajax,21,5,4,0,0,0,0,1,0,0.2,0.6,6,26,4
+Marouan Azarkan,nl NED,AT,Utrecht,21,18,9,0,1,0,0,3,0,0.3,1.2,31,45,71
+Anouar El Azzouzi,nl NED,LT,Zwolle,22,22,14,0,0,0,0,5,1,0.8,0.7,16,67,12
+Julian Baas,nl NED,LT,Excelsior,21,33,33,2,2,1,1,8,0,1.7,3.4,20,95,46
+Youri Baas,nl NED,"ZG,AT",NEC Nijmegen,20,27,18,3,3,0,0,4,0,2.1,2.2,38,52,92
+Isaac Babadi,nl NED,LT,PSV Eindhoven,18,16,3,1,0,0,0,1,0,1.2,0.2,14,30,18
+Mio Backhaus,de GER,G,Volendam,19,33,32,0,0,0,0,3,0,0.0,0.0,0,2,0
+Thibo Baeten,be BEL,"AT,LT",Go Ahead Eag,21,26,8,0,2,0,0,3,0,1.1,2.2,19,21,67
+Saïd Bakari,km COM,ZG,Sparta R'dam,28,33,32,0,2,0,0,3,1,1.1,2.0,45,93,135
+Johan Bakayoko,be BEL,AT,PSV Eindhoven,20,33,29,12,9,0,0,1,0,8.7,8.0,197,97,434
+Navajo Bakboord,nl NED,ZG,Heracles Almelo,24,22,20,0,1,0,0,4,0,0.7,1.7,32,69,58
+Zakaria Bakkali,be BEL,"LT,AT",RKC Waalwijk,27,18,8,0,0,0,0,0,0,1.4,0.8,32,21,71
+Nordin Bakker,nl NED,G,Almere City,25,29,29,0,0,0,0,0,0,0.0,0.0,0,0,0
+Jesse Bal,nl NED,LT,Sparta R'dam,16,2,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Théo Barbet,fr FRA,ZG,Almere City,22,29,19,0,1,0,0,4,0,0.6,1.3,14,58,3
+Vasilios Barkas,gr GRE,G,Utrecht,29,29,29,0,0,0,0,2,0,0.0,0.4,0,1,0
+Riechedly Bazoer,nl NED,ZG,AZ Alkmaar,26,30,29,0,1,0,0,5,0,0.3,1.0,39,167,3
+Sven van Beek,nl NED,ZG,Heerenveen,29,30,30,1,1,0,0,3,0,1.1,0.8,25,122,10
+Thomas Beelen,nl NED,ZG,Feyenoord,22,20,14,0,0,0,0,1,0,0.8,0.4,26,120,4
+Kristijan Belic,rs SRB,LT,AZ Alkmaar,22,14,13,0,1,0,0,6,0,0.9,0.4,13,64,17
+Mouhamed Belkheir,fr FRA,"AT,LT",Fortuna Sittard,24,15,1,1,0,0,1,1,1,2.1,0.0,4,8,22
+Armel Bella Kotchap,de GER,ZG,PSV Eindhoven,21,4,2,0,0,0,0,0,0,0.7,0.0,3,13,0
+Benaissa Benamar,ma MAR,ZG,Volendam,26,31,27,4,0,0,0,7,1,2.6,0.1,29,107,7
+Mimeirhel Benita,nl NED,ZG,Excelsior,19,20,9,0,1,0,0,2,0,0.2,0.5,7,29,40
+Walter Benítez,ar ARG,G,PSV Eindhoven,30,33,33,0,0,0,0,1,0,0.0,0.0,0,0,0
+Mitchell van Bergen,nl NED,AT,Twente,23,21,2,0,1,0,0,0,0,1.2,1.4,46,26,84
+Steven Berghuis,nl NED,"AT,LT",Ajax,31,20,16,5,8,0,0,1,0,3.8,6.8,55,140,176
+Steven Bergwijn,nl NED,"AT,LT",Ajax,25,24,23,12,4,5,5,5,1,10.0,6.4,75,109,171
+Gijs Besselink,nl NED,"AT,LT",Twente,19,8,0,0,0,0,0,0,0,0.0,0.0,1,5,1
+Justin Bijlow,nl NED,G,Feyenoord,25,17,17,0,0,0,0,1,0,0.0,0.0,0,4,0
+Daan Bisschops,nl NED,LT,Fortuna Sittard,18,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Adrian Blake,eng ENG,"AT,LT",Utrecht,18,5,0,1,1,0,0,0,0,0.5,0.1,3,2,6
+Xander Blomme,be BEL,LT,Go Ahead Eag,21,12,8,0,0,0,0,3,0,0.1,0.1,1,44,2
+Myron Boadu,nl NED,"AT,LT",Twente,22,11,2,3,0,0,0,1,0,4.1,0.1,7,7,27
+Paweł Bochniewicz,pl POL,ZG,Heerenveen,27,29,26,3,1,0,0,2,0,1.4,0.4,28,122,10
+Ruben van Bommel,nl NED,AT,AZ Alkmaar,18,29,21,6,1,0,0,2,0,3.7,2.7,53,66,176
+Taylor Booth,us USA,AT,Utrecht,22,17,13,5,0,0,0,0,0,2.0,0.7,37,21,81
+Zach Booth,us USA,"LT,AT",Volendam,19,27,16,2,2,0,0,0,0,3.8,1.6,42,21,78
+Yvandro Borges Sanches,lu LUX,"AT,LT",NEC Nijmegen,19,8,1,0,0,0,0,0,0,0.6,0.4,10,10,26
+Olivier Boscagli,fr FRA,ZG,PSV Eindhoven,25,33,32,3,3,0,0,3,0,2.1,3.1,52,374,12
+Othman Boussaid,be BEL,AT,Utrecht,23,29,23,4,3,0,0,2,0,3.0,4.2,71,156,154
+Amine Boutrah,fr FRA,AT,Vitesse,22,29,20,3,2,0,0,3,0,2.9,1.5,85,63,182
+Can Bozdogan,de GER,LT,Utrecht,22,31,21,3,1,0,0,4,0,1.6,1.7,30,86,60
+Jayden Braaf,nl NED,"AT,LT",Fortuna Sittard,20,6,0,0,0,0,0,0,0,0.2,0.0,0,0,5
+Mattijs Branderhorst,nl NED,G,Utrecht,29,5,5,0,0,0,0,0,0,0.0,0.0,0,0,0
+Oliver Braude,no NOR,ZG,Heerenveen,19,28,24,0,2,0,0,6,1,0.2,0.8,33,78,85
+Myron van Brederode,nl NED,AT,AZ Alkmaar,20,29,13,2,4,0,0,1,0,1.7,3.2,64,82,146
+Joshua Brenet,nl NED,ZG,Twente,29,15,13,2,2,0,0,1,0,1.3,1.4,31,64,62
+Jakob Breum,dk DEN,AT,Go Ahead Eag,19,32,15,3,2,0,0,2,0,4.6,3.0,49,60,122
+Brian Brobbey,nl NED,AT,Ajax,21,30,29,18,8,0,1,4,0,19.8,6.3,53,30,211
+Michael Brouwer,nl NED,G,Heracles Almelo,30,34,34,0,1,0,0,0,0,0.0,0.3,0,0,0
+Luuk Brouwers,nl NED,LT,Heerenveen,25,26,25,6,1,0,0,4,0,2.5,4.1,22,79,92
+Damian van Bruggen,nl NED,ZG,Almere City,27,31,30,0,0,0,0,8,1,0.4,0.6,0,58,3
+Jordy Bruijn,nl NED,LT,Heracles Almelo,27,14,11,1,2,0,0,1,0,1.2,0.8,6,14,22
+Jeffrey Bruma,nl NED,ZG,RKC Waalwijk,31,12,3,0,0,0,0,2,1,0.2,0.1,5,24,1
+Max Bruns,nl NED,ZG,Twente,20,12,5,0,0,0,0,0,1,0.4,0.0,5,30,0
+Thomas Bruns,nl NED,"LT,AT",Heracles Almelo,31,24,8,0,2,0,0,10,0,1.0,2.2,15,54,55
+Charles-Andréas Brym,ca CAN,"AT,LT",Sparta R'dam,24,31,12,4,2,0,0,1,0,4.1,2.3,37,40,94
+Thomas Buitink,nl NED,AT,Vitesse,23,13,5,1,3,0,0,0,0,0.4,1.6,7,10,30
+Stijn Bultman,nl NED,ZG,Heracles Almelo,18,14,11,0,1,0,0,1,0,0.1,0.9,4,18,3
+Oskar Buur,dk DEN,ZG,Volendam,25,24,20,0,0,0,0,3,0,0.3,1.6,37,49,78
+Zico Buurmeester,nl NED,LT,Zwolle,21,17,15,0,2,0,0,1,1,0.7,0.9,9,60,29
+Yoann Cathline,fr FRA,"ZG,AT",Almere City,21,28,19,4,2,0,0,2,0,2.8,1.6,72,42,141
+Sava Cestic,rs SRB,ZG,Heracles Almelo,22,6,2,0,0,0,0,1,0,0.1,0.0,1,7,1
+Tjaronn Chery,sr SUR,"LT,AT",NEC Nijmegen,35,14,12,5,2,0,0,0,0,3.2,2.4,27,65,57
+Jasper Cillessen,nl NED,G,NEC Nijmegen,34,30,30,0,0,0,0,1,0,0.0,0.1,0,0,0
+Jordy Clasie,nl NED,LT,AZ Alkmaar,32,28,28,2,3,0,0,4,0,0.9,2.2,28,211,41
+Pelle Clement,nl NED,"LT,AT",Sparta R'dam,27,29,21,2,4,0,0,4,0,2.3,2.5,34,89,86
+Denilho Cleonise,nl NED,"AT,LT",RKC Waalwijk,21,33,24,1,4,0,0,0,0,3.4,3.3,99,38,145
+Iñigo Córdoba,es ESP,"AT,LT",Fortuna Sittard,26,33,31,4,2,0,0,2,0,6.2,3.6,112,103,221
+Enzo Cornelisse,nl NED,"ZG,LT",Vitesse,20,27,12,0,0,0,0,2,0,0.1,0.8,7,44,32
+Milan Corryn,be BEL,"LT,AT",Almere City,24,7,1,0,1,0,0,0,0,0.1,0.3,2,5,5
+George Cox,eng ENG,"ZG,LT",Volendam,25,23,23,0,1,0,0,3,0,0.4,2.5,39,75,56
+Vito van Crooy,nl NED,AT,Sparta R'dam,27,3,3,0,1,0,0,1,0,0.3,0.7,7,10,13
+Alessio da Cruz,,"AT,LT",Fortuna Sittard,26,15,3,1,1,0,0,0,0,0.1,1.7,8,6,26
+Lennart-Marten Czyborra,de GER,ZG,Zwolle,24,5,2,0,0,0,0,1,0,0.0,0.0,5,5,11
+Tiago Dantas,pt POR,LT,AZ Alkmaar,22,20,6,1,1,0,0,0,0,1.4,0.8,13,64,14
+Brian De Keersmaecker,be BEL,LT,Heracles Almelo,23,33,33,2,2,0,0,6,0,1.0,2.4,33,133,38
+Jeffrey De Lange,nl NED,G,Go Ahead Eag,25,34,34,0,0,0,0,2,0,0.1,0.0,0,0,1
+Mats Deijl,nl NED,ZG,Go Ahead Eag,26,32,32,1,2,1,1,2,0,1.6,1.6,15,96,85
+Maxim Dekker,nl NED,ZG,AZ Alkmaar,19,5,0,0,0,0,0,0,0,0.0,0.0,1,1,1
+Caner Demircioglu,nl NED,AT,Volendam,21,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Thomas van den Belt,nl NED,LT,Feyenoord,22,9,3,0,0,0,0,0,0,0.5,0.2,6,10,21
+Branco van den Boomen,nl NED,LT,Ajax,28,21,11,2,1,0,0,1,0,0.9,2.2,29,135,24
+Damian van der Haar,,ZG,Zwolle,,16,2,0,0,0,0,1,0,0.1,0.1,1,11,3
+Mickey van der Hart,nl NED,G,Heerenveen,29,12,12,0,0,0,0,1,0,0.0,0.1,0,0,0
+Mike van der Hoorn,nl NED,ZG,Utrecht,30,21,20,1,0,0,0,5,0,0.7,0.4,8,100,4
+Djevencio van der Kust,sr SUR,ZG,Sparta R'dam,22,30,27,1,6,0,0,4,0,0.6,3.4,57,108,113
+Mark van der Maarel,nl NED,ZG,Utrecht,33,14,9,0,0,0,0,2,0,0.8,0.6,4,32,2
+Silvester van der Water,nl NED,"AT,LT",Zwolle,26,12,6,1,0,0,0,0,0,1.4,0.5,15,9,50
+Anthony Descotte,be BEL,AT,Utrecht,19,6,2,0,0,0,0,1,0,0.6,0.7,4,5,19
+Sergiño Dest,us USA,ZG,PSV Eindhoven,22,25,25,2,6,0,0,1,0,2.0,3.7,124,110,169
+Mitchell Dijks,nl NED,ZG,Fortuna Sittard,30,31,27,0,2,0,0,4,0,0.4,1.6,49,95,46
+Javairô Dilrosun,nl NED,"AT,LT",Feyenoord,25,8,3,1,1,0,0,0,0,0.4,0.9,23,16,43
+Toni Domgjoni,xk KVX,LT,Vitesse,24,15,6,0,0,0,0,2,0,0.0,0.2,6,29,13
+Bas Dost,nl NED,AT,NEC Nijmegen,34,8,5,3,2,1,1,1,0,2.0,1.5,0,12,26
+Achraf Douiri,nl NED,"ZG,AT",Volendam,23,11,2,0,2,0,0,1,0,0.2,0.7,19,9,27
+Anastasios Douvikas,gr GRE,AT,Utrecht,23,2,2,0,0,0,0,0,0,0.4,0.3,6,3,13
+Bram van Driel,nl NED,LT,Volendam,18,8,2,0,0,0,0,0,0,0.2,0.1,0,5,4
+Couhaib Driouech,ma MAR,"AT,LT",Excelsior,21,26,24,6,6,0,0,4,0,4.3,5.7,123,64,147
+Joel Drommel,nl NED,G,PSV Eindhoven,26,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Ferdy Druijf,nl NED,"AT,LT",Zwolle,25,15,11,5,2,2,2,2,0,4.6,1.7,4,31,57
+Deroy Duarte,cv CPV,LT,Fortuna Sittard,24,28,27,2,0,0,0,4,0,0.7,1.3,15,84,30
+Lance Duijvestijn,nl NED,"LT,AT",Almere City,24,14,3,0,2,0,0,1,0,0.6,1.6,8,27,38
+Lance Duijvestijn,nl NED,"LT,AT",Excelsior,24,14,13,4,5,0,0,1,0,2.6,3.3,16,53,73
+Mike van Duinen,nl NED,"AT,LT",Excelsior,31,7,0,0,0,0,0,1,0,0.1,0.0,2,1,3
+Oliver Edvardsen,no NOR,"AT,LT",Go Ahead Eag,24,33,30,7,1,0,0,0,0,7.4,2.8,57,74,167
+Victor Edvardsen,se SWE,AT,Go Ahead Eag,27,32,21,6,1,2,3,1,0,10.5,1.3,28,31,106
+Espen van Ee,nl NED,"LT,AT",Heerenveen,20,18,2,0,0,0,0,0,1,0.6,0.3,5,13,20
+Mike Eerdhuijzen,nl NED,ZG,Sparta R'dam,23,19,15,1,0,0,0,1,0,0.7,0.4,15,69,6
+Mats Egbring,nl NED,ZG,Vitesse,16,4,0,0,0,0,0,0,0,0.0,0.0,1,2,2
+Carel Eiting,nl NED,LT,Twente,25,23,7,0,3,0,0,2,0,0.7,1.8,15,54,28
+Hamza el Dahri,nl NED,"LT,AT",Sparta R'dam,18,5,0,0,0,0,0,1,0,0.0,0.0,0,1,1
+Mario Engels,de GER,"AT,LT",Heracles Almelo,29,34,15,5,3,0,0,4,0,4.1,2.9,25,20,95
+Marcelencio Esajas,nl NED,"LT,AT",Almere City,21,1,0,0,1,0,0,1,0,0.0,0.0,1,0,1
+Luca Everink,nl NED,ZG,Go Ahead Eag,22,7,2,0,0,0,0,0,0,0.1,0.3,3,12,9
+Kevin Felida,cw CUW,LT,RKC Waalwijk,23,17,8,1,0,0,0,2,0,0.1,0.2,6,22,10
+Arianit Ferati,xk KVX,"LT,ZG",Fortuna Sittard,25,16,9,0,1,0,0,0,0,0.7,0.4,8,39,29
+Derensili Fernandes,nl NED,"AT,LT",Excelsior,22,30,16,2,0,0,0,0,0,1.8,3.5,44,45,107
+Rashaan Fernandes,nl NED,"AT,LT",Go Ahead Eag,24,6,0,0,0,0,0,0,0,0.1,0.1,4,4,4
+Nick Fichtinger,,LT,Zwolle,,6,4,0,0,0,0,2,0,0.2,0.2,3,16,2
+Ezechiel Fiemawhle,,"LT,AT",Volendam,,2,0,0,0,0,0,0,0,0.0,0.0,0,0,2
+Kian Fitz-Jim,nl NED,"LT,AT",Ajax,20,2,0,0,0,0,0,0,0,0.1,0.4,0,1,7
+Kian Fitz-Jim,nl NED,LT,Excelsior,20,10,3,0,1,0,0,1,0,0.6,0.6,11,21,11
+Ryan Flamingo,nl NED,"LT,ZG",Utrecht,20,32,30,2,1,0,0,4,0,2.6,0.6,23,142,28
+Josh Flint,eng ENG,ZG,Volendam,22,28,23,1,1,0,0,4,0,1.6,0.7,18,91,18
+Sherel Floranus,cw CUW,ZG,Almere City,24,29,28,0,1,0,0,7,0,0.1,1.5,19,76,52
+Fodé Fofana,nl NED,AT,Vitesse,20,3,2,0,0,0,0,0,0,0.0,0.3,2,2,4
+Sadik Fofana,tg TOG,ZG,Fortuna Sittard,20,11,6,0,0,0,0,0,0,0.0,0.1,6,22,1
+Anthony Fontana,us USA,"LT,AT",Zwolle,23,4,0,0,0,0,0,0,0,0.0,0.0,1,1,1
+Carlos Forbs,pt POR,AT,Ajax,19,21,8,2,3,0,0,0,0,2.1,2.1,50,33,120
+Oscar Fraulo,dk DEN,LT,Utrecht,19,32,24,2,4,0,0,4,0,2.6,2.8,47,94,67
+Anton Gaaei,dk DEN,ZG,Ajax,20,25,12,1,2,0,0,1,0,0.4,4.6,36,57,106
+Juriën Gaari,cw CUW,ZG,RKC Waalwijk,29,29,16,1,0,0,0,5,0,0.5,0.4,22,64,25
+Anselmo García MacNulty,ie IRL,ZG,Zwolle,20,31,30,2,2,0,0,9,0,1.5,1.7,43,117,98
+Stijn van Gassel,nl NED,G,Excelsior,26,34,34,0,0,0,0,0,0,0.1,0.1,0,0,1
+Lutsharel Geertruida,nl NED,ZG,Feyenoord,23,34,34,8,5,1,1,2,0,8.3,4.8,86,268,91
+Anwar El Ghazi,nl NED,AT,PSV Eindhoven,28,1,0,0,0,0,0,0,0,0.1,0.0,1,1,2
+Teun Gijselhart,nl NED,LT,Zwolle,18,1,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Santiago Giménez,mx MEX,AT,Feyenoord,22,30,29,23,6,2,4,3,0,22.8,5.0,47,37,211
+Marco van Ginkel,nl NED,"LT,AT",Vitesse,30,30,23,7,2,1,1,2,1,8.2,1.4,21,84,66
+Paul Gladon,nl NED,AT,Fortuna Sittard,31,2,2,0,0,0,0,0,0,0.9,0.2,1,3,4
+Mika Godts,be BEL,"AT,LT",Ajax,18,13,7,0,2,0,0,0,0,0.4,0.7,35,22,64
+Wouter Goes,nl NED,ZG,AZ Alkmaar,19,15,13,0,0,0,0,2,0,0.2,0.4,20,58,6
+Roberto González,es ESP,"AT,LT",NEC Nijmegen,22,29,15,6,3,0,0,2,0,4.6,3.2,34,31,87
+Tristan Gooijer,nl NED,"ZG,LT",Ajax,18,9,7,0,1,0,0,0,0,0.2,0.3,24,27,38
+Jay Gorter,nl NED,G,Ajax,23,8,7,0,0,0,0,0,0,0.0,0.0,0,2,0
+Kenzo Goudmijn,nl NED,LT,AZ Alkmaar,21,8,1,0,0,0,0,1,0,0.0,0.2,6,23,3
+Kenzo Goudmijn,nl NED,"LT,AT",Excelsior,21,18,18,0,2,0,0,2,0,0.9,2.1,54,155,39
+Iman Griffith,nl NED,"AT,LT",Fortuna Sittard,21,12,2,0,0,0,0,0,0,0.1,0.0,10,5,18
+Axel Guessand,fr FRA,ZG,Volendam,18,2,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Rodrigo Guth,br BRA,ZG,Fortuna Sittard,22,32,32,3,2,0,0,8,1,2.0,1.4,26,91,16
+Jonathan de Guzmán,nl NED,LT,Sparta R'dam,35,31,25,1,2,0,0,6,0,1.3,2.4,30,128,18
+Milan de Haan,nl NED,LT,Volendam,19,27,26,3,0,0,0,3,0,2.9,0.5,16,45,37
+Jesse van de Haar,nl NED,AT,Utrecht,18,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Anis Hadj Moussa,dz ALG,AT,Vitesse,21,14,9,1,2,0,0,3,0,2.2,2.4,62,45,108
+Alen Halilović,hr CRO,"LT,AT",Fortuna Sittard,27,31,25,4,2,1,2,1,0,5.7,3.4,39,108,69
+Denzel Hall,nl NED,ZG,Heerenveen,22,11,4,0,0,0,0,1,0,0.0,0.2,5,15,7
+Saïd Hamulic,ba BIH,AT,Vitesse,22,13,8,0,1,0,0,2,0,1.2,0.5,8,6,25
+Dávid Hancko,sk SVK,ZG,Feyenoord,25,34,34,5,2,1,1,2,0,5.6,3.8,91,272,65
+Tim Handwerker,de GER,"AT,ZG",Utrecht,25,2,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Kornelius Hansen,no NOR,AT,Almere City,22,26,17,4,1,0,0,2,0,4.0,1.8,47,41,131
+Sontje Hansen,nl NED,AT,NEC Nijmegen,21,33,25,6,4,0,0,3,0,3.7,4.4,88,42,190
+Emil Hansson,se SWE,"AT,LT",Heracles Almelo,25,24,24,5,6,2,3,2,0,3.8,3.1,119,69,152
+Lennard Hartjes,nl NED,LT,Excelsior,20,1,1,0,0,0,0,0,0,0.0,0.0,1,6,3
+Quilindschy Hartman,nl NED,ZG,Feyenoord,21,26,26,0,5,0,0,3,0,1.4,5.5,45,152,116
+Jorrel Hato,nl NED,ZG,Ajax,17,33,33,1,2,0,0,5,0,1.0,1.3,39,156,32
+Pantelis Hatzidiakos,gr GRE,ZG,AZ Alkmaar,26,2,2,0,0,0,0,1,0,0.1,0.3,2,10,2
+Mike Hauptmeijer,nl NED,G,Zwolle,26,2,2,0,0,0,0,0,0,0.0,0.0,0,0,0
+Thom Haye,id IDN,LT,Heerenveen,28,32,29,4,4,3,4,4,1,4.6,3.2,50,241,45
+Nazjir Held,cw CUW,ZG,Utrecht,17,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Jordan Henderson,eng ENG,LT,Ajax,33,9,9,0,3,0,0,0,0,0.2,1.9,11,70,20
+Ramon Hendriks,nl NED,ZG,Vitesse,22,31,29,0,0,0,0,7,0,0.2,0.6,26,102,15
+Tom Hendriks,nl NED,G,Fortuna Sittard,21,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Sjors Hermsen,,"AT,LT",Fortuna Sittard,,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Mees Hilgers,nl NED,ZG,Twente,22,28,27,0,0,0,0,5,1,0.6,0.3,37,106,12
+Bart van Hintum,nl NED,ZG,Zwolle,36,3,2,0,0,0,0,1,0,0.0,0.5,3,22,4
+Mees Hoedemakers,nl NED,LT,NEC Nijmegen,25,30,23,1,7,0,0,2,1,1.5,2.1,23,130,43
+Quincy Hoeve,bq BOE,"AT,LT",Volendam,20,17,0,0,1,0,0,3,0,1.1,0.8,1,1,18
+Justin Hoogma,nl NED,ZG,Heracles Almelo,25,30,30,2,2,0,0,6,1,1.0,1.1,59,164,5
+Siebe Horemans,be BEL,ZG,Excelsior,25,34,34,3,4,0,0,5,1,2.0,4.0,46,100,91
+Jizz Hornkamp,nl NED,AT,Heracles Almelo,25,17,15,10,2,3,3,2,0,7.8,1.3,9,28,49
+Jeroen Houwen,nl NED,G,RKC Waalwijk,27,4,3,0,0,0,0,0,0,0.0,0.2,0,0,0
+Ajdin Hrustic,au AUS,"LT,AT",Heracles Almelo,27,14,14,1,0,0,0,3,0,1.1,1.7,21,62,33
+Dean Huiberts,nl NED,"LT,ZG",Zwolle,23,5,1,0,0,0,0,0,0,0.6,0.0,1,1,4
+Daan Huisman,nl NED,AT,Vitesse,21,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Younes Taha El Idrissi,ma MAR,"AT,LT",Twente,,20,2,3,1,0,0,2,0,1.9,2.8,32,20,82
+Zidane Iqbal,iq IRQ,"LT,ZG",Utrecht,20,17,4,0,0,0,0,0,0,0.2,0.2,19,56,15
+Nicolas Isimat-Mirin,fr FRA,ZG,Vitesse,31,27,24,1,1,0,0,3,1,0.3,1.4,11,79,4
+Amir Ismaïl,nl NED,AT,Heerenveen,18,1,0,0,0,0,0,0,0,,,,,
+Luka Ivanušec,hr CRO,AT,Feyenoord,24,24,14,3,5,0,0,0,0,3.1,6.3,55,74,178
+Joey Jacobs,nl NED,ZG,Almere City,23,27,23,2,0,0,0,7,0,1.9,0.5,13,102,9
+Alireza Jahanbakhsh,ir IRN,"AT,LT",Feyenoord,29,16,3,0,2,0,0,1,0,1.3,1.9,20,34,91
+Dean James,nl NED,"ZG,AT",Go Ahead Eag,23,5,1,0,0,0,0,0,0,0.1,0.0,3,3,3
+Victor Jensen,dk DEN,"LT,AT",Utrecht,23,28,16,7,3,0,0,2,0,6.1,1.5,29,42,91
+Divaio Jhaïr-Bobson,nl NED,"ZG,AT",Zwolle,19,3,0,0,0,0,0,0,0,0.0,0.0,2,0,4
+Darius Johnson,gd GRN,"AT,LT",Volendam,23,25,14,1,2,0,0,2,0,1.4,1.9,35,18,97
+Miliano Jonathans,nl NED,"LT,AT",Vitesse,19,6,0,0,0,0,0,0,0,0.4,0.1,7,5,7
+Luuk de Jong,nl NED,AT,PSV Eindhoven,32,34,34,29,15,6,8,3,0,27.8,9.8,12,61,224
+Mauro Júnior,br BRA,"LT,ZG",PSV Eindhoven,24,16,9,1,0,0,0,0,0,0.6,0.9,22,44,69
+Ibrahim El Kadiri,nl NED,AT,Volendam,21,4,0,0,0,0,0,0,0,0.1,0.2,7,4,10
+Jochem van de Kamp,nl NED,"ZG,LT",Almere City,19,30,24,2,1,0,0,1,0,1.9,2.0,18,80,76
+Ahmetcan Kaplan,tr TUR,ZG,Ajax,20,11,10,0,1,0,0,3,1,0.4,0.2,8,48,3
+Safouane Karim,nl NED,"LT,AT",Volendam,19,10,0,0,0,0,0,3,1,0.2,0.1,7,9,14
+Daniel Karlsbakk,no NOR,"AT,LT",Heerenveen,20,16,0,1,0,0,0,0,0,1.6,0.1,7,1,22
+Souffian El Karouani,ma MAR,ZG,Utrecht,22,29,26,0,3,0,0,4,0,0.5,4.1,64,106,170
+Denso Kasius,nl NED,ZG,AZ Alkmaar,20,16,3,0,1,0,0,0,1,0.4,0.5,20,20,40
+Sam Kersten,nl NED,ZG,Zwolle,25,34,34,0,2,0,0,3,0,0.5,2.0,29,115,9
+Yann Kitala,,AT,Almere City,25,15,5,2,0,0,0,3,0,1.0,0.2,9,6,34
+Joshua Kitolano,no NOR,LT,Sparta R'dam,21,24,24,5,2,2,2,2,0,3.7,2.6,28,97,50
+Mathias Kjølø,no NOR,LT,Twente,22,31,29,1,0,0,0,3,0,0.4,1.6,20,155,24
+Davy Klaassen,nl NED,LT,Ajax,30,2,0,1,0,0,0,0,0,0.5,0.0,0,2,3
+Sean Klaiber,sr SUR,ZG,Utrecht,29,2,1,0,0,0,0,0,0,0.0,0.0,2,13,7
+Flip Klomp,nl NED,LT,Volendam,21,2,0,0,0,0,0,0,0,0.0,0.0,1,1,2
+Mats Köhlert,de GER,ZG,Heerenveen,25,33,33,2,2,0,0,6,0,0.7,5.4,87,127,181
+Luuk Koopmans,nl NED,G,Fortuna Sittard,29,5,5,0,0,0,0,0,0,0.0,0.0,0,0,0
+Peer Koopmeiners,nl NED,LT,Almere City,23,31,31,0,9,0,0,7,1,0.6,5.7,18,144,38
+Kacper Kozłowski,pl POL,"LT,AT",Vitesse,19,30,27,3,5,0,0,4,0,3.7,4.6,53,62,120
+Joris Kramer,nl NED,ZG,Go Ahead Eag,26,30,29,2,0,0,0,2,0,1.6,0.1,14,79,8
+Michiel Kramer,nl NED,AT,RKC Waalwijk,34,29,20,8,0,4,4,4,0,9.7,0.8,7,27,60
+Filip Krastev,bg BUL,LT,Zwolle,21,14,10,2,1,0,0,2,0,1.5,1.1,35,58,34
+Mohammed Kudus,gh GHA,"AT,LT",Ajax,22,2,2,1,1,0,0,0,0,1.1,0.5,11,5,27
+Bas Kuipers,nl NED,ZG,Go Ahead Eag,28,33,33,5,4,0,0,6,0,3.9,4.6,71,120,187
+Garang Kuol,au AUS,"AT,LT",Volendam,18,15,8,1,1,0,0,1,0,1.2,0.8,17,8,48
+Dave Kwakman,nl NED,LT,AZ Alkmaar,18,3,1,0,0,0,0,0,0,0.1,0.0,2,13,0
+Rajiv van La Parra,nl NED,"AT,LT",Almere City,32,32,20,2,1,0,0,1,0,4.1,1.1,55,36,171
+Zakaria Labyad,ma MAR,"LT,AT",Utrecht,30,9,4,0,1,0,0,0,0,0.3,0.7,4,7,23
+Mayckel Lahdo,se SWE,AT,AZ Alkmaar,20,15,10,3,4,0,0,0,0,1.2,1.1,39,21,105
+Thomas Lam,fi FIN,ZG,Zwolle,29,31,31,2,0,0,0,6,0,3.1,0.6,12,84,8
+Sam Lammers,nl NED,AT,Utrecht,26,18,18,10,3,1,1,0,0,9.3,2.3,18,48,120
+Lazaros Lamprou,gr GRE,"AT,LT",Excelsior,25,28,20,6,5,0,0,4,1,7.6,3.6,68,45,114
+Tygo Land,nl NED,LT,PSV Eindhoven,17,3,0,0,1,0,0,0,0,0.0,0.3,0,2,1
+Noa Lang,nl NED,"AT,LT",PSV Eindhoven,24,11,8,4,1,0,0,0,0,2.7,2.9,42,46,71
+Tobias Lauritsen,no NOR,AT,Sparta R'dam,25,31,29,12,9,3,3,2,0,12.9,3.8,14,75,147
+Barry Lauwers,nl NED,G,Volendam,23,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Marko Lazetić,rs SRB,"AT,ZG",Fortuna Sittard,19,8,3,0,0,0,0,1,0,0.2,0.6,2,2,8
+Luke Le Roux,za RSA,LT,Volendam,23,14,8,1,0,0,0,3,0,0.1,0.0,1,25,7
+Richy Ledezma,us USA,LT,PSV Eindhoven,22,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Kelvin Leerdam,sr SUR,ZG,Heracles Almelo,33,12,10,0,1,0,0,0,0,0.1,0.5,2,27,0
+Yannick Leliendal,nl NED,ZG,Utrecht,21,8,6,0,0,0,0,1,0,0.1,0.1,6,17,16
+Julian Lelieveld,nl NED,ZG,RKC Waalwijk,25,34,29,0,3,0,0,4,0,0.4,5.6,42,149,129
+Isac Lidberg,se SWE,AT,Utrecht,24,20,11,4,3,0,0,1,0,4.1,1.2,14,7,66
+Anthony Limbombe,be BEL,AT,Almere City,29,3,3,0,0,0,0,0,0,0.2,1.0,8,1,12
+Bryan Limbombe,be BEL,"AT,LT",Heracles Almelo,22,31,20,2,0,0,0,2,1,2.3,1.5,61,41,108
+Ondřej Lingr,cz CZE,"LT,AT",Feyenoord,24,20,0,3,1,0,0,0,0,3.7,1.2,10,18,28
+Evert Linthorst,nl NED,LT,Go Ahead Eag,23,31,30,1,1,0,0,0,0,0.8,2.6,23,146,50
+Enric Llansana,nl NED,"LT,ZG",Go Ahead Eag,22,27,10,2,0,0,0,1,0,1.0,0.6,20,85,19
+Loizos Loizou,cy CYP,"AT,LT",Heerenveen,20,5,1,0,0,0,0,0,0,0.2,0.1,7,4,10
+Chris Lokesa,be BEL,"AT,LT",RKC Waalwijk,18,31,23,1,2,0,0,3,0,6.0,3.1,62,69,136
+Justin Lonwijk,nl NED,"AT,LT",Fortuna Sittard,23,15,13,3,2,1,1,3,0,3.1,1.5,13,31,49
+Marcos López,pe PER,ZG,Feyenoord,23,12,4,0,1,0,0,1,0,0.3,1.3,17,44,23
+Hirving Lozano,mx MEX,AT,PSV Eindhoven,28,24,17,6,3,0,0,2,0,9.1,5.0,84,65,227
+Thierry Lutonda,be BEL,ZG,RKC Waalwijk,22,13,7,0,0,0,0,0,0,0.0,0.3,6,21,29
+Christopher Mamengi,nl NED,"ZG,AT",Almere City,22,9,0,0,0,0,0,0,0,0.0,0.0,1,3,0
+Million Manhoef,nl NED,AT,Vitesse,21,18,17,4,0,0,0,0,1,2.8,1.7,78,43,123
+Sivert Mannsverk,no NOR,"LT,ZG",Ajax,21,13,12,0,0,0,0,4,0,0.4,0.3,14,56,7
+Richonell Margaret,nl NED,"AT,LT",RKC Waalwijk,22,24,5,4,1,0,0,2,0,2.3,2.3,39,26,88
+Nathan Markelo,cw CUW,ZG,Fortuna Sittard,24,3,1,0,0,0,0,1,0,0.0,0.0,1,3,0
+Pedro David Rosendo Marques,pt POR,AT,NEC Nijmegen,25,3,0,0,0,0,0,2,0,0.2,0.0,3,2,1
+Ar'jany Martha,nl NED,"ZG,AT",Ajax,19,9,8,0,1,0,0,0,0,0.1,1.4,29,37,51
+Bruno Martins Indi,nl NED,ZG,AZ Alkmaar,31,14,7,1,2,0,0,3,0,0.9,2.1,22,68,5
+Faiz Mattoir,km COM,"AT,LT",Almere City,23,4,0,0,0,0,0,0,0,0.0,0.0,3,2,6
+Magnus Mattsson,dk DEN,LT,NEC Nijmegen,24,19,19,11,4,2,2,1,0,7.4,2.7,25,69,88
+Myron Mau-Asam,nl NED,LT,Volendam,19,1,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Robin Maulun,fr FRA,LT,Volendam,26,14,10,0,1,0,0,1,0,0.2,1.3,4,26,15
+Adrian Mazilu,ro ROU,AT,Vitesse,17,3,0,0,0,0,0,0,0,0.0,0.0,0,2,5
+Loïc Mbe Soh,fr FRA,ZG,Almere City,22,20,13,1,1,0,0,2,0,0.3,0.3,5,48,2
+Xavier Mbuyamba,nl NED,ZG,Volendam,21,9,8,0,0,0,0,1,0,0.6,0.0,8,31,2
+Jakov Medić,hr CRO,ZG,Ajax,24,6,3,1,0,0,0,1,0,0.1,0.0,3,21,0
+Mexx Meerdink,nl NED,AT,Vitesse,20,7,7,0,0,0,0,0,0,2.3,0.3,7,22,35
+Mexx Meerdink,nl NED,"AT,LT",AZ Alkmaar,20,2,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Aaron Meijers,nl NED,ZG,RKC Waalwijk,35,28,27,0,6,0,0,7,0,0.3,3.5,66,119,87
+Rick Meijssen,nl NED,ZG,Sparta R'dam,21,21,8,0,0,0,0,0,0,0.3,0.2,16,34,3
+Raz Meir,il ISR,ZG,RKC Waalwijk,26,4,0,0,0,0,0,0,0,0.1,0.0,0,5,5
+Julien Mesbahi,nl NED,ZG,Twente,17,2,0,0,0,0,0,0,0,0.0,0.0,1,2,0
+Metinho,br BRA,LT,Sparta R'dam,20,24,13,2,1,0,0,3,0,0.8,1.5,20,72,14
+Melle Meulensteen,nl NED,LT,Vitesse,24,27,26,1,0,0,0,5,1,2.3,0.7,26,125,25
+Daryl van Mieghem,nl NED,LT,Volendam,33,2,2,1,0,0,0,0,0,0.3,0.1,0,8,4
+Djordje Mihailovic,us USA,LT,AZ Alkmaar,24,8,3,0,0,0,0,0,0,0.2,0.7,3,13,17
+Sven Mijnans,nl NED,"LT,AT",AZ Alkmaar,23,30,29,4,5,0,0,2,0,4.1,3.3,20,128,116
+Georges Mikautadze,ge GEO,"LT,AT",Ajax,22,6,2,0,0,0,0,0,0,0.4,0.1,5,7,20
+Antoni Milambo,nl NED,"LT,AT",Feyenoord,18,8,3,1,1,0,0,0,0,0.7,0.5,5,12,10
+David Min,nl NED,AT,RKC Waalwijk,24,29,19,10,1,1,1,3,0,8.4,1.7,26,21,100
+Yankuba Minteh,gm GAM,AT,Feyenoord,19,27,17,10,5,0,0,0,0,9.8,4.3,127,40,264
+Damon Mirani,nl NED,"LT,ZG",Volendam,27,34,34,3,1,0,0,3,0,2.4,2.1,21,117,21
+Shunsuke Mito,jp JPN,"AT,LT",Sparta R'dam,20,18,14,2,0,0,0,0,0,2.3,0.5,30,35,62
+Siem de Moes,nl NED,ZG,Excelsior,19,7,3,0,0,0,0,3,0,0.0,0.0,0,8,2
+Robert Mühren,nl NED,AT,Volendam,34,23,19,8,1,0,0,0,1,8.3,1.4,6,8,54
+Jeremy van Mullem,nl NED,LT,Sparta R'dam,24,3,0,0,0,0,0,1,0,0.0,0.0,2,3,0
+Derry Murkin,eng ENG,ZG,Volendam,24,2,2,0,0,0,0,1,0,0.3,0.1,16,11,10
+David Møller Wolfe,no NOR,ZG,AZ Alkmaar,21,34,29,1,2,0,0,4,0,2.1,2.8,68,83,137
+Adi Nalic,ba BIH,"AT,LT",Almere City,25,7,2,1,0,0,0,1,0,0.5,0.1,6,8,16
+Younes Namli,dk DEN,"AT,LT",Zwolle,29,30,30,4,7,0,0,5,0,3.1,7.6,109,153,186
+Abdenego Nankishi,de GER,AT,Heracles Almelo,21,10,2,3,1,0,0,0,0,1.7,0.9,7,1,20
+Gerrit Nauber,de GER,ZG,Go Ahead Eag,31,25,19,2,1,0,0,3,0,1.2,0.2,8,50,3
+Noah Naujoks,nl NED,"LT,AT",Excelsior,21,23,10,0,1,0,0,1,0,1.2,0.7,6,24,28
+Imran Nazih,ma MAR,LT,Volendam,17,3,1,0,0,0,0,0,0,0.0,0.0,1,0,2
+Camiel Neghli,nl NED,AT,Sparta R'dam,21,26,13,5,0,0,0,1,0,2.6,2.6,46,51,127
+Luc Netten,nl NED,ZG,NEC Nijmegen,19,1,0,0,0,0,0,1,0,0.0,0.0,1,1,0
+Ion Nicolaescu,md MDA,AT,Heerenveen,24,19,7,5,0,0,0,1,0,3.0,0.1,8,8,33
+Reuven Niemeijer,nl NED,"LT,AT",RKC Waalwijk,28,29,18,2,2,0,0,1,0,4.1,2.2,9,34,63
+Bart Nieuwkoop,nl NED,ZG,Feyenoord,27,21,9,1,1,0,0,2,1,1.8,1.8,13,54,52
+Sven Nieuwpoort,nl NED,ZG,Excelsior,30,22,17,1,0,0,0,2,0,0.1,0.0,1,22,0
+Kristian Nökkvi Hlynsson,is ISL,"LT,AT",Ajax,19,25,22,7,1,0,0,2,0,5.4,2.8,44,70,123
+Andries Noppert,nl NED,G,Heerenveen,29,22,22,0,0,0,0,0,0,0.0,0.0,0,1,1
+Tijjani Noslin,nl NED,AT,Fortuna Sittard,24,13,13,3,1,0,1,2,1,4.1,0.6,34,24,78
+Hugo Novoa,es ESP,"ZG,AT",Utrecht,20,5,2,0,0,0,0,2,1,0.0,0.1,8,9,6
+Ché Nunnely,nl NED,AT,Heerenveen,24,32,19,2,2,0,0,0,0,2.4,1.9,65,27,148
+Djenahro Nunumete,nl NED,ZG,Heerenveen,21,3,0,0,0,0,0,0,0,0.0,0.1,0,1,1
+Bram Nuytinck,nl NED,ZG,NEC Nijmegen,33,30,28,0,0,0,0,3,1,1.0,0.2,18,122,8
+Armando Obispo,nl NED,ZG,PSV Eindhoven,24,9,1,0,0,0,0,2,1,0.1,0.0,1,9,0
+Jens Odgaard,dk DEN,"AT,LT",AZ Alkmaar,24,17,4,1,2,0,0,0,0,2.1,1.2,14,19,43
+Kayne van Oevelen,nl NED,G,Volendam,19,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Koki Ogawa,jp JPN,AT,NEC Nijmegen,25,31,25,11,1,2,2,1,0,7.2,0.9,9,22,65
+Jeppe Okkels,dk DEN,"AT,ZG",Utrecht,24,5,0,0,1,0,0,0,0,0.2,0.8,10,7,17
+Lars Olden Larsen,no NOR,AT,NEC Nijmegen,24,19,7,1,0,0,0,0,0,1.4,0.3,15,10,49
+Nick Olij,nl NED,G,Sparta R'dam,27,34,34,0,0,0,0,0,0,0.0,0.0,0,1,0
+Simon Olsson,se SWE,"LT,AT",Heerenveen,25,34,32,2,3,0,0,3,0,2.6,3.0,35,125,65
+Richie Omorowa,se SWE,AT,Excelsior,19,22,2,2,2,0,0,1,0,2.6,1.2,1,5,29
+Diego van Oorschot,,"LT,AT",Heracles Almelo,,4,0,0,0,0,0,0,0,0.1,0.1,1,3,3
+Fredrik Oppegard,no NOR,ZG,Heracles Almelo,20,15,15,0,1,0,0,1,0,0.4,1.0,52,33,79
+Ragnar Oratmangoen,id IDN,"LT,AT",Fortuna Sittard,25,27,8,0,1,0,0,2,0,1.0,0.8,23,42,62
+Alois Oroz,hr CRO,ZG,Vitesse,22,27,23,1,0,0,0,9,0,1.0,0.4,5,64,17
+Anas Ouahim,de GER,"LT,AT",Heracles Almelo,25,18,16,2,1,0,0,4,0,1.5,1.0,23,43,40
+Mohamed Oukhattou,nl NED,"AT,LT",Zwolle,18,2,0,0,0,0,0,0,0,0.0,0.2,0,0,2
+Yassin Oukili,nl NED,LT,RKC Waalwijk,22,32,32,5,1,0,0,6,0,2.4,2.1,22,96,74
+Bilal Ould-Chikh,ma MAR,"AT,LT",Volendam,26,25,25,2,7,0,0,3,0,1.2,4.8,103,52,142
+Rome-Jayden Owusu-Oduro,nl NED,G,AZ Alkmaar,19,4,4,0,0,0,0,0,0,0.0,0.0,0,1,0
+Oğuzhan Özyakup,tr TUR,LT,Fortuna Sittard,30,22,10,1,1,0,0,3,0,1.5,1.5,12,51,29
+Igor Paixão,br BRA,AT,Feyenoord,23,31,25,9,3,0,0,3,0,7.5,6.3,84,57,250
+Ivor Pandur,hr CRO,G,Fortuna Sittard,23,16,16,0,0,0,0,1,0,0.0,0.0,0,0,0
+Troy Parrott,ie IRL,AT,Excelsior,21,25,18,10,4,0,0,2,1,9.5,3.3,38,22,82
+Vangelis Pavlidis,gr GRE,AT,AZ Alkmaar,24,34,34,29,4,1,1,2,0,23.8,6.2,70,79,253
+Deron Payne,nl NED,ZG,Volendam,20,15,10,0,1,0,0,2,0,0.1,1.5,13,27,42
+Álvaro Peña,es ESP,LT,Almere City,31,23,15,1,0,0,0,3,0,1.0,0.9,13,64,47
+Alexandre Penetra,pt POR,ZG,AZ Alkmaar,21,25,19,0,1,0,0,0,0,1.0,0.9,8,66,7
+Ricardo Pepi,us USA,"AT,LT",PSV Eindhoven,20,27,1,7,2,1,1,2,0,7.2,1.0,7,9,52
+Brayann Pereira,fr FRA,ZG,NEC Nijmegen,20,15,10,0,1,0,0,1,0,0.0,0.6,14,10,38
+Kristoffer Peterson,se SWE,"LT,AT",Fortuna Sittard,28,18,6,0,2,0,0,1,0,0.7,1.9,16,15,46
+Kik Pierie,nl NED,ZG,Excelsior,23,5,3,1,0,0,0,0,0,0.3,0.0,1,11,0
+Ivo Pinto,pt POR,ZG,Fortuna Sittard,33,32,32,0,4,0,0,6,0,0.3,3.6,79,121,129
+Michael Pinto,lu LUX,ZG,Vitesse,30,23,23,1,2,0,0,2,0,0.4,2.1,37,94,63
+Brian Plat,nl NED,ZG,Volendam,23,27,21,0,0,0,0,3,0,0.6,0.7,19,59,19
+Ernest Poku,nl NED,AT,AZ Alkmaar,19,21,5,1,3,0,0,1,0,2.2,1.5,39,9,76
+Bram van Polen,nl NED,ZG,Zwolle,37,31,31,0,2,0,0,6,0,2.4,1.7,30,77,97
+Danny Post,nl NED,"LT,ZG",Almere City,34,2,0,1,0,0,0,0,0,0.0,0.0,1,2,1
+Dirk Proper,nl NED,LT,NEC Nijmegen,21,27,27,5,4,0,0,4,0,2.6,1.1,25,125,36
+Davy Pröpper,nl NED,LT,Vitesse,31,2,1,0,0,0,0,0,0,0.0,0.0,1,3,0
+Robin Pröpper,nl NED,ZG,Twente,29,33,33,3,0,0,0,7,0,1.7,0.7,24,173,16
+Jeffrey Puriel,nl NED,AT,Almere City,20,1,0,0,0,0,0,0,0,0.0,0.1,1,0,1
+Diant Ramaj,de GER,G,Ajax,21,22,20,0,0,0,0,0,0,0.0,0.0,0,1,0
+André Ramalho,br BRA,ZG,PSV Eindhoven,31,33,29,3,1,0,0,5,0,2.3,0.7,29,230,4
+Bart Ramselaar,nl NED,"AT,LT",Utrecht,27,11,3,1,1,0,0,0,0,0.6,0.3,16,23,31
+Youri Regeer,nl NED,"ZG,LT",Twente,19,32,18,2,1,0,0,3,0,1.3,3.1,37,107,130
+Gyan de Regt,nl NED,"AT,LT",Vitesse,20,26,13,1,1,0,0,3,0,2.4,2.2,33,21,88
+Eliano Reijnders,nl NED,"AT,ZG",Zwolle,22,32,24,3,1,0,0,2,0,2.8,1.6,63,63,159
+Devyne Rensch,nl NED,ZG,Ajax,20,28,26,2,4,0,0,2,1,1.2,2.5,39,120,66
+Stije Resink,nl NED,LT,Almere City,20,32,28,1,1,0,0,8,0,2.1,1.2,32,152,37
+Francisco Reyes,do DOM,ZG,Volendam,17,1,0,0,0,0,0,0,0,0.0,0.0,0,2,1
+Julian Rijkhoff,nl NED,"AT,LT",Ajax,18,8,0,0,0,0,0,0,0,0.3,0.0,2,2,5
+Milan Robberechts,be BEL,"AT,LT",Fortuna Sittard,19,10,2,1,0,0,0,1,0,0.4,0.1,6,3,21
+Thomas Robinet,fr FRA,"AT,LT",Almere City,26,33,33,11,3,3,3,4,1,11.5,2.7,21,79,157
+Robin Roefs,nl NED,G,NEC Nijmegen,20,5,4,0,0,0,0,0,0,0.0,0.0,0,0,0
+Godfried Roemeratoe,cw CUW,LT,RKC Waalwijk,23,29,28,0,2,0,0,8,1,0.2,1.3,17,91,11
+Ole Romeny,nl NED,"AT,LT",Utrecht,23,15,4,1,0,0,0,0,0,1.5,0.2,17,14,46
+Philippe Rommens,be BEL,LT,Go Ahead Eag,25,20,20,5,4,1,1,1,0,2.5,2.8,17,120,39
+Bart van Rooij,nl NED,ZG,NEC Nijmegen,22,24,23,2,3,0,0,5,1,1.5,2.7,55,68,90
+Kaj de Rooij,nl NED,"AT,LT",Zwolle,22,5,1,0,0,0,0,1,0,0.3,0.5,4,5,15
+Eloy Room,cw CUW,G,Vitesse,34,34,34,0,0,0,0,1,0,0.0,0.2,0,0,0
+Ruben Roosken,nl NED,"ZG,AT",Heracles Almelo,23,23,14,0,2,0,0,2,0,0.1,1.9,27,44,100
+Sergi Rosanas,es ESP,ZG,Sparta R'dam,22,2,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Rayvien Rosario,cw CUW,"AT,ZG",Sparta R'dam,19,6,0,0,0,0,0,0,0,0.2,0.0,1,4,8
+Loreintz Rosier,fr FRA,LT,Fortuna Sittard,24,30,18,1,0,0,0,4,0,0.8,0.9,11,79,7
+Mathias Ross,dk DEN,ZG,NEC Nijmegen,22,20,9,2,0,0,0,3,0,0.9,0.3,6,24,1
+Nils Rossen,nl NED,"LT,AT",NEC Nijmegen,17,3,0,0,0,0,0,0,0,0.0,0.0,0,2,0
+Daan Rots,nl NED,AT,Twente,22,33,33,7,10,0,0,3,0,4.6,5.4,84,173,318
+Mats Rots,nl NED,ZG,Twente,17,1,1,0,0,0,0,0,0,0.0,0.0,7,3,1
+Manu Royo,es ESP,ZG,Almere City,29,12,8,0,0,0,0,2,0,0.1,1.0,21,28,40
+Gerónimo Rulli,ar ARG,G,Ajax,31,7,7,0,0,0,0,0,0,0.0,0.0,0,1,0
+Mathew Ryan,au AUS,G,AZ Alkmaar,31,29,29,0,0,0,0,0,0,0.0,0.0,0,2,0
+Pim Saathof,nl NED,ZG,Go Ahead Eag,19,4,0,0,0,0,0,0,0,0.0,0.0,1,3,1
+Michal Sadílek,cz CZE,LT,Twente,24,31,31,1,3,0,0,7,1,1.1,3.2,53,182,89
+Ibrahim Sadiq,gh GHA,"AT,LT",AZ Alkmaar,23,16,5,2,3,0,0,3,0,1.7,0.9,12,20,56
+Modibo Sagnan,ml MLI,ZG,Utrecht,24,13,10,1,0,0,0,1,0,0.5,0.0,4,37,1
+Samuel Şahin-Radlinger,at AUT,G,Almere City,30,6,5,0,0,0,0,0,0,0.0,0.0,0,0,0
+Osame Sahraoui,no NOR,AT,Heerenveen,22,32,28,8,4,0,0,0,0,6.8,4.0,166,108,293
+Ismael Saibari,ma MAR,LT,PSV Eindhoven,22,19,10,5,4,0,0,1,0,5.5,2.5,45,63,68
+Koki Saito,jp JPN,AT,Sparta R'dam,21,21,20,3,5,0,0,0,0,4.2,3.2,66,69,175
+Anass Salah-Eddine,nl NED,ZG,Ajax,21,6,2,0,1,0,0,0,0,0.1,0.5,6,17,23
+Anass Salah-Eddine,nl NED,"ZG,LT",Twente,21,6,0,0,1,0,0,0,0,0.0,0.5,6,12,12
+Shurandy Sambo,nl NED,ZG,PSV Eindhoven,21,11,1,0,0,0,0,0,0,0.0,0.2,4,6,9
+Alfons Sampsted,is ISL,ZG,Twente,25,24,18,0,2,0,0,1,0,0.5,1.2,24,65,46
+Philippe Sandler,nl NED,ZG,NEC Nijmegen,26,24,23,0,0,0,0,3,0,0.3,1.0,8,96,6
+Cisse Sandra,be BEL,LT,Excelsior,19,26,19,1,1,0,0,2,0,2.1,0.9,15,46,35
+Ibrahim Sangaré,ci CIV,LT,PSV Eindhoven,25,2,2,0,1,0,0,0,0,0.1,0.5,4,19,0
+Mohamed Sankoh,nl NED,AT,Heracles Almelo,19,28,12,6,0,0,0,2,0,9.0,0.4,13,13,55
+Kodai Sano,jp JPN,"AT,LT",NEC Nijmegen,19,24,17,4,2,0,0,3,0,3.2,1.3,39,56,96
+Antonio Satriano,it ITA,AT,Heracles Almelo,19,6,1,0,0,0,0,0,0,0.7,0.0,0,2,2
+Leo Sauer,sk SVK,"AT,LT",Feyenoord,17,13,0,2,3,0,0,1,0,1.3,2.3,26,17,73
+Jasper Schendelaar,nl NED,G,Zwolle,22,32,32,0,0,0,0,0,0,0.0,0.2,0,0,0
+Sem Scheperman,nl NED,"LT,ZG",Heracles Almelo,21,22,8,0,0,0,0,4,0,1.3,0.6,1,15,22
+Lasse Schöne,dk DEN,LT,NEC Nijmegen,37,23,13,1,3,1,1,2,0,1.0,1.7,16,82,25
+Jerdy Schouten,nl NED,"LT,ZG",PSV Eindhoven,26,29,28,4,0,0,0,3,0,3.0,1.0,22,171,45
+Daniel Schwaab,de GER,ZG,Heracles Almelo,34,11,6,1,1,0,0,2,0,,,,,
+Vivaldo Semedo,pt POR,AT,Volendam,18,13,7,1,0,0,0,1,0,3.1,0.4,5,9,20
+Nicolás Serrano,es ESP,"AT,LT",Zwolle,20,10,0,0,1,0,0,1,0,0.3,0.1,6,5,30
+Mats Seuntjens,nl NED,"AT,LT",Utrecht,31,15,11,1,1,0,0,2,0,3.8,2.2,20,33,36
+Mats Seuntjens,nl NED,"AT,LT",RKC Waalwijk,31,12,10,1,1,0,0,2,0,1.1,2.0,22,25,39
+José Pascual Alba Seva,es ESP,AT,Almere City,23,3,1,0,0,0,0,0,0,0.0,0.1,3,0,5
+Serano Seymor,nl NED,ZG,Excelsior,21,9,4,0,0,0,0,1,0,0.0,0.0,5,10,0
+Kaj Sierhuis,nl NED,AT,Fortuna Sittard,25,31,27,12,3,1,2,4,0,12.6,2.6,42,50,130
+Dimitris Siovas,gr GRE,ZG,Fortuna Sittard,34,27,27,0,0,0,0,6,0,0.7,0.2,9,67,8
+Gijs Smal,nl NED,ZG,Twente,25,26,24,0,3,0,0,3,0,1.2,3.4,69,144,144
+Ian Smeulers,nl NED,ZG,Excelsior,23,6,1,0,0,0,0,1,0,0.0,0.0,1,3,3
+Kees Smit,nl NED,LT,AZ Alkmaar,17,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Sven Sonnenberg,de GER,ZG,Heracles Almelo,24,25,18,1,0,0,0,3,0,1.4,0.2,14,48,4
+Borna Sosa,hr CRO,ZG,Ajax,25,16,10,0,4,0,0,1,0,0.1,1.4,23,49,53
+Sylla Sow,nl NED,AT,Go Ahead Eag,26,18,4,5,1,0,0,1,0,3.1,0.5,13,12,44
+Sylla Sow,nl NED,AT,NEC Nijmegen,26,15,4,2,1,0,0,1,0,2.3,0.5,10,5,24
+Mark Spenkelink,nl NED,G,RKC Waalwijk,26,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Finn Stam,nl NED,ZG,AZ Alkmaar,20,1,0,0,0,0,0,0,0,0.0,0.0,1,1,0
+Sem Steijn,nl NED,LT,Twente,21,34,32,17,3,1,1,1,0,12.9,2.2,28,100,143
+Calvin Stengs,nl NED,"LT,AT",Feyenoord,24,29,26,6,12,0,0,2,0,5.2,7.8,75,146,171
+Filip Stevanovic,rs SRB,"AT,LT",RKC Waalwijk,20,16,7,2,0,0,0,1,0,1.5,0.9,34,17,65
+Finn Stokkers,nl NED,AT,Go Ahead Eag,27,14,2,0,2,0,0,0,0,1.4,0.9,11,4,23
+Yukinari Sugawara,jp JPN,ZG,AZ Alkmaar,23,30,30,4,7,0,0,1,0,2.0,6.0,64,154,132
+Josip Šutalo,hr CRO,ZG,Ajax,23,23,22,1,0,0,0,2,0,1.3,0.2,14,67,4
+Anas Tahiri,be BEL,LT,Heerenveen,28,24,13,4,2,4,4,2,0,3.6,1.1,30,86,38
+Benjamin Tahirovic,ba BIH,LT,Ajax,20,26,18,2,4,0,0,5,0,1.1,1.7,16,99,20
+Ilias Takidine,be BEL,"AT,LT",RKC Waalwijk,22,8,0,0,0,0,0,0,0,0.8,0.0,4,2,12
+Elayis Tavsan,nl NED,AT,NEC Nijmegen,22,8,3,2,0,0,0,3,1,0.8,0.1,24,5,50
+Kenneth Taylor,nl NED,"LT,ZG",Ajax,21,34,31,5,5,0,0,3,0,5.4,4.9,78,185,157
+Søren Tengstedt,dk DEN,"LT,AT",Go Ahead Eag,23,14,2,0,2,0,0,0,0,0.9,0.9,13,11,25
+Hidde ter Avest,nl NED,ZG,Utrecht,26,27,24,0,1,0,0,2,0,1.3,2.6,16,85,117
+Jordan Teze,nl NED,ZG,PSV Eindhoven,23,30,29,2,9,0,0,4,0,1.2,6.7,66,240,163
+Ryan Thomas,nz NZL,LT,Zwolle,28,7,5,0,0,0,0,1,0,0.1,0.0,8,20,6
+Lennart Thy,de GER,"AT,LT",Zwolle,31,32,30,13,2,0,0,2,0,8.8,1.7,18,70,118
+Mathijs Tielemans,nl NED,LT,Vitesse,21,25,18,1,1,0,0,3,0,0.6,1.7,27,89,29
+Guus Til,nl NED,LT,PSV Eindhoven,25,30,23,10,5,0,0,0,0,11.1,4.9,49,93,194
+Malik Tillman,us USA,"AT,LT",PSV Eindhoven,21,28,17,9,10,0,0,2,0,6.8,8.7,55,84,150
+Quinten Timber,nl NED,LT,Feyenoord,22,31,31,7,9,0,0,4,0,6.8,7.1,60,187,173
+Nathan Tjoe-A-On,id IDN,"AT,ZG",Heerenveen,21,4,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Jens Toornstra,nl NED,"LT,AT",Utrecht,34,31,21,4,5,0,0,3,0,3.0,5.2,14,89,105
+Gernot Trauner,at AUT,ZG,Feyenoord,31,19,16,1,2,0,0,1,0,0.7,1.1,24,112,4
+Calvin Twigt,nl NED,LT,Volendam,20,26,22,2,0,1,1,4,0,1.9,2.3,36,105,60
+Przemysław Tytoń,pl POL,G,Twente,36,2,2,0,0,0,0,0,0,0.0,0.0,0,0,0
+Oscar Uddenäs,se SWE,"AT,LT",Excelsior,20,23,2,3,0,0,0,1,0,1.4,0.4,6,6,36
+Jeremy Udenhout,nl NED,ZG,Excelsior,20,2,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Ayase Ueda,jp JPN,"AT,LT",Feyenoord,24,26,5,5,2,0,1,0,0,8.3,2.5,10,21,80
+Manfred Ugalde,cr CRC,AT,Twente,21,18,17,7,6,0,0,3,0,7.9,4.4,20,30,89
+Jesper Uneken,nl NED,AT,PSV Eindhoven,18,1,0,1,0,0,0,0,0,0.4,0.0,0,0,0
+Lars Unnerstall,de GER,G,Twente,33,32,32,0,0,0,0,2,0,0.0,0.0,0,2,0
+Naci Ünüvar,nl NED,"AT,LT",Twente,20,19,2,3,3,0,0,0,0,2.5,1.4,16,38,54
+Etienne Vaessen,sr SUR,G,RKC Waalwijk,28,30,30,0,0,0,0,3,1,0.0,0.0,0,4,0
+Amourrichio Van Axel Dongen,nl NED,AT,Ajax,18,3,1,0,0,0,0,0,0,0.0,0.0,1,0,3
+Dave Van Den Berg,nl NED,LT,Zwolle,23,30,29,5,2,0,0,7,0,3.1,2.8,43,181,97
+Dario Van den Buijs,be BEL,ZG,RKC Waalwijk,27,30,30,0,3,0,0,4,0,1.0,2.1,36,201,9
+Jason Van Duiven,nl NED,"AT,LT",Almere City,18,13,1,0,0,0,0,1,0,0.4,0.1,2,5,15
+Alec Van Hoorenbeeck,be BEL,ZG,Twente,24,16,3,0,0,0,0,1,0,0.5,0.0,3,14,6
+Syb Van Ottele,nl NED,"ZG,LT",Heerenveen,21,26,15,0,1,0,0,1,0,1.0,0.7,26,72,8
+Joey Veerman,nl NED,LT,PSV Eindhoven,24,29,28,5,16,0,0,1,0,4.3,14.2,52,315,77
+Marko Vejinović,nl NED,LT,Heracles Almelo,33,14,7,0,0,0,0,5,0,0.6,1.0,3,85,18
+Odysseus Velanas,nl NED,"LT,AT",Zwolle,25,31,24,5,5,0,0,5,0,5.0,4.1,57,56,159
+Apostolos Vellios,gr GRE,"AT,LT",Zwolle,31,27,4,3,2,0,0,4,0,3.1,0.9,3,11,34
+Tijs Velthuis,nl NED,ZG,Sparta R'dam,21,25,19,0,0,0,0,2,0,1.0,0.1,10,65,2
+Calvin Verdonk,nl NED,ZG,NEC Nijmegen,26,33,32,2,2,0,0,5,0,1.4,2.2,67,167,101
+Hobie Verhulst,nl NED,G,AZ Alkmaar,30,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Michael Verrips,nl NED,G,Fortuna Sittard,26,12,12,0,0,0,0,0,0,0.0,0.1,0,0,0
+Arno Verschueren,be BEL,LT,Sparta R'dam,26,27,27,9,2,0,0,3,1,5.4,3.6,38,87,146
+Yorbe Vertessen,be BEL,AT,PSV Eindhoven,22,17,3,3,1,0,0,0,0,2.3,1.6,35,13,50
+Niklas Vesterlund,dk DEN,"ZG,AT",Utrecht,24,9,3,0,0,0,0,1,0,0.0,0.5,2,5,13
+Nick Viergever,nl NED,ZG,Utrecht,33,25,23,1,0,0,0,1,1,0.7,0.6,25,117,7
+Andy Visser,,AT,Vitesse,,9,2,0,0,0,0,0,0,1.2,0.1,2,3,8
+Rémy Vita,mg MAD,"ZG,LT",Fortuna Sittard,22,15,6,0,0,0,0,1,0,0.2,0.2,12,14,27
+Michel Vlap,nl NED,AT,Twente,26,29,24,2,6,0,0,2,0,4.6,4.1,51,95,155
+Joel Voelkerling Persson,se SWE,AT,Vitesse,20,9,2,0,0,0,0,1,0,0.2,0.0,1,1,17
+Siemen Voet,be BEL,ZG,Fortuna Sittard,23,21,9,0,0,0,0,2,0,0.5,0.4,9,30,7
+Silvano Vos,nl NED,LT,Ajax,18,11,3,0,0,0,0,3,0,0.2,0.1,1,8,2
+Bart Vriends,nl NED,ZG,Sparta R'dam,32,26,26,2,1,0,0,3,0,1.9,0.8,11,112,4
+Patrick Vroegh,nl NED,LT,RKC Waalwijk,23,3,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Patrik Wålemark,se SWE,AT,Heerenveen,21,24,16,3,2,0,0,2,0,3.6,1.5,34,24,101
+Django Warmerdam,nl NED,"ZG,AT",Sparta R'dam,27,15,11,0,0,0,0,1,0,0.6,0.4,11,29,36
+Boy Waterman,nl NED,G,PSV Eindhoven,39,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Charlie Webster,eng ENG,"LT,AT",Heerenveen,19,13,2,1,0,0,0,0,1,0.9,0.2,6,10,13
+Lasse Wehmeyer,de GER,AT,Heracles Almelo,20,7,2,0,0,0,0,0,0,0.4,0.2,1,5,13
+Daouda Weidmann,ci CIV,"LT,ZG",RKC Waalwijk,20,3,0,0,0,0,0,0,0,0.0,0.1,1,0,2
+Timon Wellenreuther,de GER,G,Feyenoord,27,19,17,0,0,0,0,3,0,0.0,0.5,0,6,0
+Sai van Wermeskerken,jp JPN,ZG,NEC Nijmegen,29,3,1,0,0,0,0,1,0,0.0,0.0,0,4,3
+Casper Widell,se SWE,ZG,Excelsior,20,30,27,1,0,0,0,1,0,1.0,0.1,6,59,1
+Jannes Wieckhoff,de GER,ZG,Heracles Almelo,22,18,15,0,1,0,0,3,0,1.0,0.9,30,35,55
+Mats Wieffer,nl NED,LT,Feyenoord,23,29,29,5,3,0,0,2,0,5.2,3.2,45,231,87
+Owen Wijndal,nl NED,ZG,Ajax,23,2,0,0,0,0,0,0,0,0.0,0.4,1,4,7
+Jetro Willems,nl NED,ZG,Heracles Almelo,29,20,11,0,0,0,0,2,0,0.3,0.8,17,50,40
+Dani de Wit,nl NED,LT,AZ Alkmaar,25,32,29,10,3,1,1,7,1,5.8,2.5,16,76,107
+Mees de Wit,nl NED,ZG,AZ Alkmaar,25,10,4,1,0,0,0,1,0,0.3,0.4,6,31,9
+Maximilian Wittek,de GER,ZG,Vitesse,27,1,1,0,0,0,0,0,0,0.1,0.2,0,7,7
+Melle Witteveen,nl NED,AT,Heerenveen,20,5,0,0,1,0,0,0,0,0.5,0.2,3,3,9
+Ricky van Wolfswinkel,nl NED,"AT,LT",Twente,34,32,17,16,1,2,2,4,0,10.3,3.9,18,48,120
+Redouan El Yaakoubi,nl NED,"ZG,LT",Excelsior,27,27,25,0,3,0,0,2,0,1.2,2.2,29,122,12
+Mehmet Yuksel,nl NED,"ZG,AT",Sparta R'dam,21,2,0,0,0,0,0,0,0,0.0,0.0,0,1,2
+Arthur Zagre,fr FRA,ZG,Excelsior,21,28,28,1,4,0,0,6,1,1.6,1.5,66,72,79
+Gjivai Zechiël,nl NED,"ZG,LT",Feyenoord,19,2,0,0,0,0,0,0,0,0.1,0.0,2,3,2
+Lequincio Zeefuik,nl NED,"LT,AT",AZ Alkmaar,18,6,0,0,1,0,0,0,0,0.2,0.3,2,3,5
+Lequincio Zeefuik,nl NED,"AT,LT",Volendam,18,16,8,3,1,0,0,3,0,1.9,0.9,9,9,28
+Ramiz Zerrouki,dz ALG,LT,Feyenoord,25,26,15,0,0,0,0,3,0,0.4,1.8,27,153,38
+Giovanni van Zwam,nl NED,ZG,Vitesse,19,12,3,0,0,0,0,2,1,0.2,0.0,3,17,2
+Willum Þór Willumsson,is ISL,LT,Go Ahead Eag,24,31,31,7,2,0,0,1,1,5.5,3.9,59,137,140

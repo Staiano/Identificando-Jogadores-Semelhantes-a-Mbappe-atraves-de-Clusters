@@ -1,0 +1,617 @@
+Jogador,Nacao,Posicao,Equipe,Idade,Jogos_disputados,Jogos_iniciados,Gols,Assistencias,Penaltis_batidos,Penaltis_convertidos,Amarelos,Vermelhos,Xg,Xag,Carregadas_progressivas,Passes_progressivos,Passes_progressivos_recebidos
+Tammy Abraham,eng ENG,AT,Roma,25,8,2,1,0,0,0,1,0,0.6,0.1,6,4,15
+Francesco Acerbi,it ITA,ZG,Inter,35,29,26,3,1,0,0,1,0,1.6,1.8,21,87,24
+Yacine Adli,fr FRA,LT,Milan,23,24,17,1,2,0,0,3,0,0.3,2.2,30,125,26
+Michel Aebischer,ch SUI,LT,Bologna,26,36,26,0,1,0,0,8,0,1.1,1.5,26,125,55
+Lucien Agoume,fr FRA,LT,Inter,21,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Marley Aké,fr FRA,AT,Udinese,22,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Ebenezer Akinsanmiro,ng NGA,LT,Inter,18,1,0,0,0,0,0,0,0,0.0,0.0,0,2,0
+Jean-Daniel Akpa-Akpro,ci CIV,LT,Monza,30,19,8,0,0,0,0,5,0,0.5,0.1,11,10,12
+David Akpan Ankeye,ng NGA,AT,Genoa,21,6,0,0,0,0,0,0,0,0.0,0.0,3,1,2
+Luis Alberto,es ESP,LT,Lazio,30,33,29,5,7,0,0,7,0,4.7,4.7,83,212,124
+Carlos Alcaraz,ar ARG,LT,Juventus,20,10,3,0,1,0,0,0,0,0.4,0.1,6,27,9
+Pontus Almqvist,se SWE,"AT,LT",Lecce,24,30,25,2,1,0,0,5,0,2.3,2.7,72,32,137
+Lorenzo Amatucci,it ITA,LT,Fiorentina,19,2,0,0,0,0,0,0,0,0.0,0.0,1,2,1
+Bruno Amione,ar ARG,ZG,Hellas Verona,21,10,7,0,0,0,0,2,0,0.3,0.0,2,17,2
+Felipe Anderson,br BRA,"AT,LT",Lazio,30,38,33,5,6,0,0,3,0,4.4,6.3,108,126,226
+Angeliño,es ESP,ZG,Roma,26,16,14,0,1,0,0,2,0,0.2,1.6,12,40,55
+Houssem Aouar,dz ALG,"LT,AT",Roma,25,16,9,4,0,0,0,3,0,2.3,0.5,17,26,59
+Simone Aresti,it ITA,G,Cagliari,37,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Marko Arnautović,at AUT,AT,Inter,34,27,5,5,3,0,0,0,0,5.0,2.6,12,20,77
+Kristjan Asllani,al ALB,LT,Inter,21,23,6,1,2,0,0,1,0,0.6,1.1,5,32,8
+Emil Audero,it ITA,G,Inter,26,4,4,0,0,0,0,0,0,0.0,0.0,0,0,0
+Tommaso Augello,it ITA,ZG,Cagliari,28,32,28,1,1,0,0,5,0,0.5,2.0,62,96,99
+Carlos Augusto,br BRA,ZG,Inter,24,37,14,0,3,0,0,1,0,1.0,2.8,42,54,88
+Yann Aurel Bisseck,de GER,ZG,Inter,22,16,9,2,0,0,0,0,0,0.9,0.5,24,30,20
+Sardar Azmoun,ir IRN,"AT,LT",Roma,28,23,3,3,0,0,0,4,0,2.9,1.4,5,14,35
+Paulo Azzi,br BRA,"ZG,LT",Cagliari,29,25,9,0,0,0,0,1,0,1.2,0.7,47,35,42
+Oussama El Azzouzi,ma MAR,LT,Bologna,22,18,5,2,2,0,0,4,0,0.5,0.6,4,19,8
+Milan Badelj,hr CRO,LT,Genoa,34,33,32,1,3,0,0,6,0,1.4,1.1,18,151,36
+Jaime Báez,uy URU,"AT,LT",Frosinone,28,11,6,1,0,0,0,1,0,0.5,0.5,12,29,39
+Nicola Bagnolini,it ITA,G,Bologna,19,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Nedim Bajrami,al ALB,"LT,AT",Sassuolo,24,28,15,2,2,0,0,0,0,2.5,2.2,51,49,70
+Mitchel Bakker,nl NED,ZG,Atalanta,23,14,3,1,0,0,0,1,0,0.2,0.1,12,10,20
+Tommaso Baldanzi,it ITA,"LT,AT",Empoli,20,14,8,2,0,0,0,1,0,2.1,1.0,20,30,40
+Tommaso Baldanzi,it ITA,"AT,LT",Roma,20,13,6,0,0,0,0,2,0,0.9,0.7,18,14,54
+Lameck Banda,zm ZAM,AT,Lecce,22,21,17,2,4,0,0,5,1,3.6,1.9,70,22,136
+Daniel Bandeira,pt POR,LT,Hellas Verona,23,14,3,0,0,0,0,2,0,0.1,0.2,9,34,8
+Mattia Bani,it ITA,ZG,Genoa,29,27,27,2,0,0,0,9,0,1.2,0.1,5,37,4
+Antonín Barák,cz CZE,"LT,AT",Fiorentina,28,21,8,2,3,0,0,2,0,1.5,2.2,17,33,64
+Nicolò Barella,it ITA,LT,Inter,26,37,34,2,3,0,0,7,0,5.1,3.4,68,278,144
+Enzo Barrenechea,ar ARG,LT,Frosinone,22,36,32,0,1,0,0,10,0,0.6,1.7,10,155,24
+Davide Bartesaghi,it ITA,"ZG,LT",Milan,17,6,0,0,0,0,0,0,0,0.0,0.0,1,3,4
+Federico Baschirotto,it ITA,ZG,Lecce,26,37,37,0,1,0,0,3,1,1.7,0.7,28,96,3
+Toma Bašić,hr CRO,LT,Salernitana,26,15,14,0,0,0,0,5,0,0.6,0.5,11,53,16
+Alessandro Bastoni,it ITA,ZG,Inter,24,28,28,1,3,0,0,5,0,1.2,3.4,63,142,77
+Simone Bastoni,it ITA,"LT,ZG",Empoli,26,16,9,1,0,0,0,3,0,0.4,0.5,12,31,26
+Reda Belahyane,fr FRA,LT,Hellas Verona,19,2,1,0,0,0,0,0,0,0.0,0.0,1,4,2
+Raoul Bellanova,it ITA,ZG,Torino,23,37,36,1,7,0,0,5,0,2.0,5.0,141,98,202
+Andrea Belotti,it ITA,AT,Fiorentina,29,15,11,3,0,0,0,0,0,3.7,0.7,10,15,60
+Andrea Belotti,it ITA,AT,Roma,29,14,6,3,2,0,0,1,0,2.4,1.2,15,8,49
+Lucas Beltrán,ar ARG,"AT,LT",Fiorentina,22,32,21,6,2,1,1,6,0,3.8,1.5,12,49,113
+Ismaël Bennacer,dz ALG,LT,Milan,25,20,13,2,2,1,1,2,0,1.7,2.5,24,68,33
+Domenico Berardi,it ITA,AT,Sassuolo,28,17,17,9,3,5,5,6,0,6.5,3.0,38,83,123
+Bartosz Bereszyński,pl POL,ZG,Empoli,31,24,22,0,1,0,0,3,0,0.1,0.3,15,69,18
+Etrit Berisha,al ALB,G,Empoli,34,14,14,0,0,0,0,0,0,0.0,0.0,0,0,0
+Medon Berisha,al ALB,"AT,LT",Lecce,19,6,2,0,0,0,0,0,0,0.2,0.2,3,7,3
+Victor Bernth Kristiansen,dk DEN,ZG,Bologna,20,32,26,0,3,0,0,4,0,0.3,2.4,23,123,74
+Beto,gw GNB,AT,Udinese,25,1,1,0,0,0,0,0,0,0.0,0.3,0,2,5
+Davide Bettella,it ITA,LT,Monza,23,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Sam Beukema,nl NED,ZG,Bologna,24,30,29,1,1,0,0,6,1,1.9,0.8,14,76,5
+Jaka Bijol,si SVN,ZG,Udinese,24,24,23,0,0,0,0,4,0,1.9,0.2,5,42,1
+El Bilal Touré,ml MLI,AT,Atalanta,21,11,3,2,0,0,0,2,0,1.2,0.8,16,11,39
+Cristiano Biraghi,it ITA,ZG,Fiorentina,30,29,27,2,5,0,1,8,0,1.6,3.6,55,129,109
+Davide Biraschi,it ITA,ZG,Genoa,29,1,1,1,0,0,0,0,0,0.1,0.0,0,5,4
+Samuele Birindelli,it ITA,ZG,Monza,24,35,22,0,2,0,0,7,0,1.1,2.9,63,70,122
+Alexis Blin,fr FRA,LT,Lecce,26,31,16,0,2,0,0,4,0,1.1,0.7,7,60,11
+Jérôme Boateng,de GER,ZG,Salernitana,34,7,4,0,0,0,0,0,0,0.0,0.1,0,9,1
+Emil Bohinen,no NOR,LT,Genoa,24,5,0,0,0,0,0,0,0,0.0,0.1,1,3,1
+Emil Bohinen,no NOR,LT,Salernitana,24,12,7,0,0,0,0,1,0,0.1,0.2,7,26,10
+Daniel Boloca,ro ROU,LT,Sassuolo,24,30,23,1,0,0,0,6,1,0.5,0.4,27,109,17
+Giacomo Bonaventura,it ITA,LT,Fiorentina,33,31,27,8,3,0,1,6,0,5.7,3.6,60,140,107
+Federico Bonazzoli,it ITA,"AT,LT",Hellas Verona,26,24,10,3,1,0,0,2,0,2.9,1.1,13,26,73
+Warren Bondo,fr FRA,LT,Monza,19,25,14,1,1,0,0,9,0,0.9,0.3,31,43,13
+Giovanni Bonfanti,it ITA,ZG,Atalanta,20,2,1,0,0,0,0,0,0,0.1,0.0,0,1,2
+Kevin Bonifazi,it ITA,ZG,Bologna,27,1,1,0,0,0,0,0,0,0.0,0.0,0,1,1
+Kevin Bonifazi,it ITA,ZG,Frosinone,27,6,3,0,0,0,0,0,0,0.0,0.1,2,7,1
+Gennaro Borrelli,it ITA,AT,Frosinone,23,1,0,0,0,0,0,0,0,0.0,0.0,1,0,1
+Erik Botheim,no NOR,"AT,LT",Salernitana,23,7,4,0,0,0,0,1,0,0.1,0.0,3,5,9
+Mehdi Bourabia,ma MAR,LT,Frosinone,31,10,3,0,0,0,0,1,0,0.1,0.0,1,7,8
+Edoardo Bove,it ITA,LT,Roma,21,31,18,0,2,0,0,2,0,2.0,0.7,21,88,47
+Domagoj Bradarić,hr CRO,ZG,Salernitana,23,34,30,0,3,0,0,5,0,0.8,1.8,57,76,120
+Josip Brekalo,hr CRO,AT,Fiorentina,25,11,8,1,0,0,0,0,0,0.4,0.3,14,25,69
+Gleison Bremer,br BRA,ZG,Juventus,26,36,36,3,0,0,0,9,0,1.4,0.4,7,120,4
+Brenner,br BRA,"LT,AT",Udinese,23,8,2,0,0,0,0,0,0,0.4,0.0,6,8,10
+Marco Brescianini,it ITA,LT,Frosinone,23,36,24,4,2,0,0,1,0,2.3,1.6,46,70,100
+Dylan Bronn,tn TUN,"ZG,LT",Salernitana,28,4,0,0,0,0,0,0,0,0.0,0.0,1,1,0
+Tajon Buchanan,ca CAN,ZG,Inter,24,10,0,1,0,0,0,0,0,0.2,0.3,12,4,22
+Alessandro Buongiorno,it ITA,ZG,Torino,24,29,29,3,0,0,0,7,0,1.6,0.1,14,62,10
+Rareș-Cătălin Burnete,ro ROU,AT,Lecce,19,1,0,0,1,0,0,0,0,0.0,0.1,0,0,2
+Jovane Cabral,cv CPV,"LT,AT",Salernitana,25,12,8,1,0,0,0,1,0,1.2,0.4,22,40,39
+Liberato Cacace,nz NZL,ZG,Empoli,22,31,18,0,1,0,0,6,0,0.4,1.7,34,84,55
+Jens Cajuste,se SWE,LT,Napoli,23,26,11,0,2,0,0,7,0,1.5,1.1,19,37,53
+Davide Calabria,it ITA,ZG,Milan,26,29,26,1,3,0,0,5,2,1.3,1.2,31,140,66
+Riccardo Calafiori,it ITA,ZG,Bologna,21,30,26,2,5,0,0,4,0,1.4,1.2,28,96,23
+Mattia Caldara,it ITA,ZG,Milan,29,1,0,0,0,0,0,0,0,0.2,0.0,0,2,0
+Luca Caldirola,it ITA,ZG,Monza,32,29,23,1,1,0,0,7,1,0.5,0.6,10,56,9
+Hakan Çalhanoğlu,tr TUR,LT,Inter,29,32,32,13,3,10,10,5,0,10.1,4.7,45,186,34
+Francesco Camarda,it ITA,AT,Milan,15,2,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Nicolò Cambiaghi,it ITA,"AT,LT",Empoli,22,37,29,1,1,0,0,3,0,3.9,2.8,128,63,197
+Andrea Cambiaso,it ITA,"ZG,AT",Juventus,23,34,28,2,3,0,0,10,0,2.2,3.9,87,71,172
+Matteo Cancellieri,it ITA,"AT,LT",Empoli,21,36,18,4,3,0,0,7,0,4.7,2.9,48,26,138
+Antonio Candreva,it ITA,"LT,AT",Salernitana,36,34,32,6,6,1,1,5,0,4.9,5.0,67,149,182
+Luigi Canotto,it ITA,AT,Frosinone,29,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Gianluca Caprari,it ITA,"LT,AT",Monza,30,6,4,0,0,0,0,0,0,0.7,0.7,11,15,16
+Elia Caprile,it ITA,G,Empoli,21,23,23,0,0,0,0,0,0,0.0,0.3,0,0,0
+Francesco Caputo,it ITA,AT,Empoli,35,20,15,3,0,1,1,0,0,3.4,0.7,7,18,65
+Andrea Carboni,it ITA,ZG,Monza,22,21,16,1,0,0,0,1,0,1.2,0.5,13,46,22
+Valentin Carboni,ar ARG,"LT,AT",Monza,18,31,10,2,3,0,0,2,0,2.3,1.7,52,57,75
+Marco Carnesecchi,it ITA,G,Atalanta,23,27,27,0,0,0,0,0,0,0.0,0.0,0,0,0
+Nicolò Casale,it ITA,ZG,Lazio,25,20,16,0,0,0,0,5,0,0.9,0.0,20,49,4
+Giuseppe Caso,it ITA,"AT,LT",Frosinone,24,14,2,0,0,0,0,2,0,0.3,0.2,15,20,37
+Valentín Castellanos,ar ARG,AT,Lazio,24,35,16,4,3,0,0,2,0,7.3,1.7,15,47,132
+Samu Castillejo,es ESP,"AT,LT",Sassuolo,28,17,6,0,0,0,0,2,0,0.3,1.0,27,26,45
+Santiago Castro,ar ARG,AT,Bologna,18,8,2,1,1,0,0,1,0,1.0,0.5,1,1,15
+Gaetano Castrovilli,it ITA,"AT,LT",Fiorentina,26,6,5,1,2,0,0,0,0,0.3,0.6,14,12,25
+Danilo Cataldi,it ITA,LT,Lazio,28,28,15,1,0,0,0,8,0,0.4,0.8,9,69,7
+Emil Ceide,no NOR,"AT,LT",Sassuolo,21,11,0,0,0,0,0,0,0,0.1,0.2,12,3,16
+Zeki Çelik,tr TUR,ZG,Roma,26,17,6,0,0,0,0,1,0,0.2,0.6,14,26,38
+Fabien Centonze,fr FRA,ZG,Hellas Verona,27,10,7,0,1,0,0,2,0,0.0,1.0,16,14,21
+Michele Cerofolini,it ITA,G,Frosinone,24,8,7,0,0,0,0,1,0,0.0,0.0,0,0,0
+Alberto Cerri,it ITA,AT,Empoli,27,12,10,1,0,0,0,2,0,1.2,0.2,3,9,23
+Leonardo Cerri,it ITA,ZG,Juventus,20,1,0,0,0,0,0,0,0,0.0,0.0,0,0,2
+Charlys,br BRA,LT,Hellas Verona,19,2,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Walid Cheddira,ma MAR,AT,Frosinone,25,36,24,7,1,1,1,0,0,9.0,1.4,31,22,139
+Federico Chiesa,it ITA,AT,Juventus,25,33,25,9,2,1,1,1,0,6.4,6.2,111,70,216
+Oliver Christensen,dk DEN,G,Fiorentina,24,4,4,0,0,0,0,0,0,0.0,0.0,0,0,0
+Samuel Chukwueze,ng NGA,AT,Milan,24,24,12,1,3,0,0,1,0,1.7,2.3,52,51,135
+Alphadjo Cissè,it ITA,AT,Hellas Verona,16,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Giorgio Cittadini,it ITA,ZG,Monza,21,1,0,0,0,0,0,1,0,0.0,0.0,1,1,1
+Giorgio Cittadini,it ITA,ZG,Genoa,21,5,1,0,0,0,0,0,0,0.0,0.0,0,1,1
+Patrick Ciurria,it ITA,"ZG,LT",Monza,28,22,18,0,1,0,0,2,0,1.5,2.6,41,68,94
+Lorenzo Colombo,it ITA,AT,Monza,21,25,16,4,1,0,0,3,0,3.6,0.6,16,24,75
+Andrea Colpani,it ITA,"LT,AT",Monza,24,38,36,8,4,0,0,1,0,4.8,5.0,90,120,193
+Pietro Comuzzo,it ITA,"ZG,AT",Fiorentina,18,4,0,0,0,0,0,1,0,0.0,0.0,0,3,0
+Andrea Consigli,it ITA,G,Sassuolo,36,35,35,0,0,0,0,1,0,0.0,0.0,0,1,0
+Nikita Contini Baranovsky,it ITA,G,Napoli,27,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Diego Coppola,it ITA,ZG,Hellas Verona,19,24,18,2,0,0,0,9,0,1.2,0.2,1,40,0
+Tommaso Corazza,it ITA,ZG,Bologna,19,9,1,0,0,0,0,1,0,0.1,0.1,10,14,9
+Jeppe Corfitzen,dk DEN,AT,Lecce,18,1,0,0,0,0,0,0,0,0.0,0.0,1,0,0
+Giacomo Corona,it ITA,AT,Empoli,19,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+João Costa,br BRA,"LT,AT",Roma,18,3,0,0,0,0,0,1,0,0.0,0.0,0,1,1
+Benoît Costil,fr FRA,G,Salernitana,36,13,13,0,0,0,0,0,0,0.0,0.0,0,0,0
+Lassana Coulibaly,ml MLI,LT,Salernitana,27,28,25,0,1,0,0,5,0,0.6,0.8,29,88,38
+Mamadou Coulibaly,sn SEN,ZG,Salernitana,24,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Alessio Cragno,it ITA,G,Sassuolo,29,3,3,0,0,0,0,0,0,0.0,0.0,0,0,0
+Bryan Cristante,it ITA,"LT,ZG",Roma,28,37,37,3,4,0,0,8,0,4.0,2.9,47,234,80
+Juan Cruz,ar ARG,"AT,LT",Hellas Verona,24,4,1,0,0,0,0,0,0,0.0,0.1,3,4,4
+Juan Cuadrado,co COL,ZG,Inter,35,10,0,0,2,0,0,1,0,0.2,1.6,17,11,35
+Marvin Cuni,al ALB,AT,Frosinone,22,22,6,1,0,0,0,0,0,1.3,0.3,6,11,45
+Danilo D'Ambrosio,it ITA,ZG,Monza,34,24,16,0,0,0,0,5,1,0.7,0.2,12,61,25
+Flavius Daniliuc,at AUT,ZG,Salernitana,22,14,8,0,0,0,0,2,0,0.2,0.2,8,37,2
+Danilo,br BRA,ZG,Juventus,32,29,27,1,1,0,0,7,0,1.3,0.9,18,161,21
+Matteo Darmian,it ITA,ZG,Inter,33,33,27,2,1,0,0,2,0,1.2,1.8,18,72,82
+Juan David Cabal,co COL,ZG,Hellas Verona,22,22,17,0,0,0,0,6,0,0.5,0.4,26,70,48
+Keinan Davis,eng ENG,"AT,LT",Udinese,25,8,0,1,0,0,0,2,0,0.5,0.1,2,6,15
+Paweł Dawidowicz,pl POL,ZG,Hellas Verona,28,28,25,0,0,0,0,5,0,0.5,0.0,11,89,5
+Charles De Ketelaere,be BEL,"AT,LT",Atalanta,22,35,25,10,8,1,1,1,0,7.1,6.1,88,126,219
+Mattia De Sciglio,it ITA,ZG,Juventus,30,1,1,0,0,0,0,0,0,0.0,0.0,0,3,1
+Lorenzo De Silvestri,it ITA,ZG,Bologna,35,15,7,2,0,0,0,0,0,0.2,0.0,14,27,12
+Koni De Winter,be BEL,ZG,Genoa,21,29,26,0,1,0,0,8,1,0.8,1.0,21,76,15
+Grégoire Defrel,mq MTQ,"AT,LT",Sassuolo,32,20,7,1,2,0,0,0,0,1.0,1.2,7,17,42
+Alessandro Deiola,it ITA,LT,Cagliari,27,27,19,1,0,0,0,7,0,2.5,0.9,9,64,21
+Alessandro Dellavalle,it ITA,ZG,Torino,19,1,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Diego Demme,de GER,LT,Napoli,31,2,1,0,0,0,0,1,0,0.0,0.0,3,5,0
+Leander Dendoncker,be BEL,LT,Napoli,28,3,0,0,0,0,0,0,0,0.0,0.0,0,2,0
+Mattia Destro,it ITA,"AT,LT",Empoli,32,15,3,0,0,0,0,2,0,1.2,0.3,4,4,19
+Federico Di Francesco,it ITA,"AT,LT",Lecce,29,2,0,1,0,0,0,0,0,0.1,0.0,1,1,3
+Raffaele Di Gennaro,it ITA,G,Inter,29,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Michele Di Gregorio,it ITA,G,Monza,26,33,33,0,0,0,0,0,0,0.0,0.0,0,1,0
+Giovanni Di Lorenzo,it ITA,ZG,Napoli,29,36,36,1,6,0,0,6,0,3.1,4.9,95,304,250
+Alessandro Di Pardo,it ITA,"ZG,LT",Cagliari,24,15,2,0,0,0,0,0,0,0.1,0.2,6,11,19
+Boulaye Dia,sn SEN,"AT,LT",Salernitana,26,17,12,4,0,1,1,1,0,3.9,0.5,18,22,57
+Federico Dimarco,it ITA,ZG,Inter,25,30,29,5,6,0,0,0,0,2.9,8.5,51,100,198
+Tiago Djaló,pt POR,ZG,Juventus,23,1,0,0,0,0,0,0,0,0.0,0.0,1,2,0
+Koffi Djidji,ci CIV,ZG,Torino,30,13,8,0,0,0,0,2,0,0.1,0.0,4,19,3
+Berat Djimsiti,al ALB,ZG,Atalanta,30,37,32,0,1,0,0,5,0,0.8,0.7,6,79,10
+Dodô,br BRA,ZG,Fiorentina,24,9,7,0,0,0,0,0,0,0.1,0.8,20,39,21
+Josh Doig,sct SCO,ZG,Hellas Verona,21,12,11,0,0,0,0,2,0,0.2,0.3,23,15,22
+Josh Doig,sct SCO,ZG,Sassuolo,21,16,15,0,2,0,0,5,0,0.2,1.1,30,33,45
+Nicolás Domínguez,ar ARG,LT,Bologna,25,2,1,0,0,0,0,0,0,0.0,0.0,1,9,3
+Giulio Donati,it ITA,ZG,Monza,33,4,0,0,0,0,0,2,0,0.0,0.2,0,3,5
+Patrick Dorgu,dk DEN,"ZG,LT",Lecce,18,32,17,2,0,0,0,6,0,2.0,1.6,37,49,86
+Alberto Dossena,it ITA,ZG,Cagliari,24,35,33,2,4,0,0,5,0,2.2,2.1,9,89,2
+Radu Drăgușin,ro ROU,ZG,Genoa,21,19,19,2,1,0,0,1,0,1.0,0.8,6,29,13
+Ondrej Duda,sk SVK,LT,Hellas Verona,28,32,29,1,4,0,1,14,2,2.2,3.3,34,117,47
+Denzel Dumfries,nl NED,ZG,Inter,27,31,19,4,4,0,0,2,1,2.3,4.9,50,51,147
+Alfred Duncan,gh GHA,LT,Fiorentina,30,30,24,2,5,0,0,2,0,1.5,2.0,23,133,47
+Paulo Dybala,ar ARG,"AT,LT",Roma,29,28,25,13,9,7,7,3,0,10.6,4.3,79,122,167
+Festy Ebosele,ie IRL,ZG,Udinese,20,31,20,0,0,0,0,6,1,0.8,1.8,67,35,98
+Enzo Ebosse,cm CMR,ZG,Udinese,24,1,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Tyronne Ebuehi,ng NGA,ZG,Empoli,27,15,11,0,1,0,0,0,0,0.3,0.9,34,37,35
+Éderson,br BRA,LT,Atalanta,24,36,32,6,1,0,0,8,0,3.5,1.4,32,214,50
+Kingsley Ehizibue,nl NED,ZG,Udinese,28,23,11,0,1,0,0,4,0,1.3,0.7,18,15,44
+Emmanuel Ekong,se SWE,AT,Empoli,21,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Caleb Ekuban,gh GHA,AT,Genoa,29,29,10,4,1,0,0,0,0,2.9,1.4,14,15,93
+Elif Elmas,mk MKD,"AT,LT",Napoli,23,11,4,2,0,0,0,2,0,0.5,0.2,14,16,26
+Martin Erlic,hr CRO,ZG,Sassuolo,25,32,31,1,0,0,0,5,0,1.0,0.0,19,78,11
+Giovanni Fabbian,it ITA,"LT,AT",Bologna,20,27,11,5,2,0,0,4,0,4.2,1.9,11,17,41
+Nicolò Fagioli,it ITA,LT,Juventus,22,8,4,0,2,0,0,1,0,0.4,0.7,8,23,15
+Wladimiro Falcone,it ITA,G,Lecce,28,38,38,0,0,0,0,0,0,0.0,0.2,0,1,0
+Davide Faraoni,it ITA,ZG,Hellas Verona,31,11,7,0,1,0,0,5,0,0.4,0.4,13,28,31
+Davide Faraoni,it ITA,ZG,Fiorentina,31,8,4,0,1,0,0,0,0,0.1,0.4,7,17,16
+Federico Fazio,ar ARG,ZG,Salernitana,36,17,15,1,0,0,0,3,1,0.4,0.1,2,27,2
+Jacopo Fazzini,it ITA,LT,Empoli,20,31,14,1,1,0,0,6,0,1.2,2.3,24,47,51
+Lewis Ferguson,sct SCO,LT,Bologna,23,31,31,6,3,0,0,8,0,5.4,2.3,57,142,138
+Andrea Ferraris,it ITA,LT,Monza,20,1,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+João Ferreira,pt POR,ZG,Udinese,22,35,18,0,1,0,0,9,0,0.1,0.9,19,61,45
+Seydou Fini,it ITA,"ZG,AT",Genoa,17,3,0,0,0,0,0,0,0,0.1,0.0,1,0,2
+Vincenzo Fiorillo,it ITA,G,Salernitana,33,4,4,0,0,0,0,1,1,0.0,0.0,0,0,0
+Alessandro Florenzi,it ITA,ZG,Milan,32,31,19,1,4,0,0,5,0,1.7,3.4,29,106,50
+Michael Folorunsho,it ITA,"LT,AT",Hellas Verona,25,34,33,5,1,0,0,5,0,4.0,1.4,56,54,110
+Davide Frattesi,it ITA,LT,Inter,23,32,6,6,3,0,0,1,0,7.1,1.9,27,37,40
+Morten Frendrup,dk DEN,LT,Genoa,22,37,36,2,5,0,0,6,0,1.7,1.6,36,105,69
+Remo Freuler,ch SUI,LT,Bologna,31,32,30,1,1,0,0,9,0,1.2,1.1,37,165,48
+Gerardo Fusco,it ITA,AT,Salernitana,18,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Matteo Gabbia,it ITA,ZG,Milan,23,18,14,2,1,0,0,5,0,1.6,0.3,11,42,2
+Gianluca Gaetano,it ITA,"AT,LT",Cagliari,23,11,10,4,1,1,1,1,1,1.3,1.3,17,41,42
+Gianluca Gaetano,it ITA,LT,Napoli,23,9,1,1,0,0,0,1,0,0.6,0.5,6,6,5
+Roberto Gagliardini,it ITA,"LT,ZG",Monza,29,33,29,1,2,0,0,5,0,2.9,1.7,38,120,36
+Pablo Galdames Millán,cl CHI,"LT,ZG",Genoa,26,2,0,0,0,0,0,0,0,0.0,0.0,0,5,1
+Antonino Gallo,it ITA,ZG,Lecce,23,35,30,0,3,0,0,2,0,0.5,4.5,69,125,101
+Luca Garritano,it ITA,"LT,ZG",Frosinone,29,12,5,0,0,0,0,1,0,0.7,0.3,6,23,23
+Federico Gatti,it ITA,ZG,Juventus,25,32,30,4,0,0,0,7,0,5.5,1.5,52,122,43
+Francesco Gelli,it ITA,"LT,ZG",Frosinone,26,27,16,0,0,0,0,3,0,0.7,2.4,42,61,87
+Luca Gemello,it ITA,G,Torino,23,2,2,0,0,0,0,0,0,0.0,0.0,0,0,0
+Valentin Gendrey,fr FRA,ZG,Lecce,23,37,35,2,3,0,0,5,0,1.6,1.6,76,116,86
+Farés Ghedjemis,fr FRA,"AT,LT",Frosinone,20,6,1,0,0,0,0,1,0,0.1,0.1,7,2,19
+Lautaro Gianetti,ar ARG,ZG,Udinese,29,7,7,1,0,0,0,4,0,0.4,0.1,2,4,0
+Mario Gila,es ESP,ZG,Lazio,22,21,21,0,0,0,0,4,1,0.5,0.5,21,93,12
+Gvidas Gineitis,lt LTU,LT,Torino,19,14,4,0,0,0,0,2,0,0.4,0.5,9,25,12
+Olivier Giroud,fr FRA,AT,Milan,36,35,28,15,8,4,5,1,1,14.2,4.7,9,28,95
+Edoardo Goldaniga,it ITA,ZG,Cagliari,29,13,12,0,0,0,0,3,0,0.5,0.1,9,50,3
+Pierluigi Gollini,it ITA,G,Napoli,28,7,7,0,0,0,0,0,0,0.0,0.0,0,0,0
+Papu Gómez,ar ARG,"LT,AT",Monza,35,2,0,0,0,0,0,0,0,0.0,0.2,2,3,1
+Iron Gomis,fr FRA,LT,Salernitana,23,5,1,0,0,0,0,0,0,0.6,0.2,3,4,15
+Joan Gonzàlez,es ESP,LT,Lecce,21,29,13,1,1,0,0,6,0,1.2,1.0,25,49,41
+Nicolás González,ar ARG,AT,Fiorentina,25,29,21,12,2,1,3,1,0,10.4,1.6,53,100,190
+Alberto Grassi,it ITA,LT,Empoli,28,27,22,0,1,0,0,6,1,1.1,0.6,13,75,13
+Mattéo Guendouzi,fr FRA,LT,Lazio,24,33,27,2,3,0,0,3,1,1.6,2.3,46,119,79
+Axel Guessand,fr FRA,ZG,Udinese,18,1,0,0,0,0,0,0,0,0.0,0.0,1,1,1
+Albert Guðmundsson,is ISL,"AT,LT",Genoa,26,35,34,14,4,4,5,4,0,9.9,5.2,82,120,168
+Emmanuel Gyasi,gh GHA,"ZG,AT",Empoli,29,33,21,1,2,0,0,8,0,3.5,1.5,15,41,60
+Norbert Gyömbér,sk SVK,ZG,Salernitana,31,22,20,0,0,0,0,9,0,0.2,0.2,4,42,2
+Nicolas Haas,ch SUI,LT,Empoli,27,1,1,0,0,0,0,1,0,0.1,0.0,0,6,4
+Ridgeciano Haps,sr SUR,ZG,Genoa,30,16,7,0,1,0,0,0,0,0.1,0.7,13,13,42
+Abdou Harroui,nl NED,"LT,AT",Frosinone,25,18,13,3,3,1,1,2,0,3.1,1.2,43,38,56
+Hans Hateboer,nl NED,ZG,Atalanta,29,23,10,0,1,0,0,5,0,0.3,2.0,19,42,71
+Pantelis Hatzidiakos,gr GRE,ZG,Cagliari,26,13,13,0,0,0,0,1,0,0.4,0.0,3,34,7
+Silvan Hefti,ch SUI,"LT,ZG",Genoa,25,6,1,0,0,0,0,0,0,0.0,0.0,1,2,4
+Liam Henderson,sct SCO,LT,Empoli,27,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Matheus Henrique,br BRA,LT,Sassuolo,25,31,27,2,2,0,0,8,1,2.3,1.6,43,94,44
+Thomas Henry,fr FRA,AT,Hellas Verona,28,18,2,3,0,0,1,2,2,3.3,0.0,2,3,20
+Theo Hernández,fr FRA,ZG,Milan,25,32,31,5,4,1,2,11,1,4.9,4.3,115,166,124
+Isak Hien,se SWE,ZG,Hellas Verona,24,10,9,0,0,0,0,1,1,0.4,0.0,8,26,1
+Isak Hien,se SWE,ZG,Atalanta,24,16,9,0,1,0,0,3,0,0.2,0.1,0,24,0
+Emil Holm,se SWE,ZG,Atalanta,23,22,12,1,1,0,0,5,0,2.7,0.8,28,27,80
+Martin Hongla,cm CMR,LT,Hellas Verona,25,15,12,0,0,0,0,0,0,0.1,0.3,6,57,6
+Sydney van Hooijdonk,nl NED,AT,Bologna,23,9,2,0,0,0,0,0,0,0.6,0.1,1,2,9
+Dean Huijsen,es ESP,ZG,Roma,18,13,4,2,0,0,0,4,0,0.4,0.1,4,18,15
+Dean Huijsen,es ESP,ZG,Juventus,18,1,0,0,0,0,0,0,0,0.0,0.0,0,2,0
+Elseid Hysaj,al ALB,ZG,Lazio,29,22,11,0,0,0,0,2,0,0.2,0.4,27,51,41
+Arijon Ibrahimović,de GER,"AT,ZG",Frosinone,17,16,5,1,1,0,0,1,0,0.8,0.7,10,22,54
+Jonathan Ikone,fr FRA,AT,Fiorentina,25,28,18,3,1,0,0,5,0,4.6,2.0,51,58,154
+Chukwubuikem Ikwuemesi,ng NGA,AT,Salernitana,21,25,11,1,1,0,0,2,0,2.4,0.7,11,10,70
+Ivan Ilić,rs SRB,LT,Torino,22,31,25,3,2,0,0,3,0,2.1,5.0,49,138,52
+Samuel Iling-Junior,eng ENG,"ZG,LT",Juventus,19,24,4,1,2,0,0,1,0,0.7,1.3,29,25,64
+Ciro Immobile,it ITA,AT,Lazio,33,31,21,7,1,4,4,8,0,9.7,2.1,19,39,123
+Gino Infantino,ar ARG,LT,Fiorentina,20,6,0,0,0,0,0,1,0,0.0,0.0,0,7,4
+Gustav Isaksen,dk DEN,AT,Lazio,22,28,12,3,1,0,0,3,0,1.6,2.6,36,21,95
+Ardian Ismajli,al ALB,ZG,Empoli,26,26,23,0,0,0,0,2,0,0.3,0.1,9,49,3
+Armando Izzo,it ITA,ZG,Monza,31,23,20,0,0,0,0,9,0,0.7,0.5,15,59,7
+Filip Jagiełło,pl POL,LT,Genoa,25,2,0,0,0,0,0,0,0,0.0,0.0,1,2,2
+Jakub Jankto,cz CZE,"LT,AT",Cagliari,27,18,13,1,2,0,0,0,0,1.5,0.5,12,26,48
+Juan Jesus,br BRA,ZG,Napoli,32,24,23,1,0,0,0,7,0,1.3,0.3,6,82,2
+Alejandro Jiménez,es ESP,ZG,Milan,18,3,0,0,0,0,0,1,0,0.0,0.1,2,2,3
+Kaio Jorge,br BRA,AT,Frosinone,21,20,8,3,0,1,2,2,0,5.4,0.3,6,11,46
+Luka Jović,rs SRB,AT,Milan,25,23,8,6,1,0,0,2,1,4.9,0.8,6,22,47
+Hamed Junior Traorè,ci CIV,LT,Napoli,23,9,5,0,0,0,0,1,0,0.9,0.7,12,21,19
+Mohamed Kaba,fr FRA,LT,Lecce,21,23,15,0,0,0,0,4,1,1.2,0.9,14,60,32
+Christian Kabasele,be BEL,ZG,Udinese,32,13,10,1,1,0,0,5,0,1.2,0.5,7,22,1
+Yayah Kallon,sl SLE,AT,Hellas Verona,22,1,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Pierre Kalulu,fr FRA,ZG,Milan,23,9,4,0,0,0,0,0,0,0.1,0.1,6,19,11
+Daichi Kamada,jp JPN,LT,Lazio,26,29,17,2,2,0,0,3,0,1.8,2.8,40,96,78
+Hassane Kamara,ci CIV,ZG,Udinese,29,35,27,1,1,0,0,4,0,1.9,2.8,61,81,93
+Yann Karamoh,fr FRA,"LT,AT",Torino,25,10,1,0,0,0,0,0,0,0.1,0.1,11,5,12
+Jesper Karlsson,se SWE,AT,Bologna,25,7,4,0,0,0,0,0,0,0.4,0.3,13,16,35
+Rick Karsdorp,nl NED,ZG,Roma,28,18,14,0,2,0,0,2,0,0.4,2.2,12,33,71
+Grigoris Kastanos,cy CYP,"LT,ZG",Salernitana,25,26,18,3,3,0,0,5,0,2.9,2.8,28,78,69
+Michael Kayode,it ITA,ZG,Fiorentina,19,26,22,1,1,0,0,2,0,0.5,1.1,45,80,102
+Moise Kean,it ITA,AT,Juventus,23,19,8,0,0,0,0,2,0,2.1,0.7,12,6,38
+Simon Kjær,dk DEN,ZG,Milan,34,20,14,0,1,0,0,1,0,0.5,0.8,4,52,0
+Davy Klaassen,nl NED,LT,Inter,30,13,1,0,0,0,0,1,0,0.1,0.2,1,7,5
+Sead Kolašinac,ba BIH,ZG,Atalanta,30,30,25,1,0,0,0,4,0,1.3,1.1,32,94,30
+Teun Koopmeiners,nl NED,LT,Atalanta,25,34,29,12,5,2,2,5,0,6.5,5.9,79,169,190
+Filip Kostić,rs SRB,ZG,Juventus,30,29,26,0,4,0,0,2,0,0.7,5.4,64,88,95
+Christian Kouamé,ci CIV,AT,Fiorentina,25,23,11,2,1,0,0,0,0,1.9,1.8,12,41,110
+Viktor Kovalenko,ua UKR,LT,Empoli,27,17,4,1,1,0,0,1,0,0.9,0.8,4,20,24
+Rasmus Kristensen,dk DEN,ZG,Roma,26,29,19,1,1,0,0,5,0,0.5,0.9,16,40,115
+Thomas Kristensen,dk DEN,ZG,Udinese,21,26,23,0,1,0,0,4,1,1.1,0.4,20,47,3
+Nikola Krstović,me MNE,AT,Lecce,23,35,30,7,1,1,3,4,1,11.6,3.0,32,52,126
+Rade Krunić,ba BIH,LT,Milan,29,10,8,0,0,0,0,3,0,0.1,0.5,5,24,3
+Marash Kumbulla,al ALB,ZG,Sassuolo,23,7,3,0,0,0,0,1,0,0.0,0.0,2,3,0
+Justin Kumi,it ITA,AT,Sassuolo,19,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Berkan Kutlu,tr TUR,LT,Genoa,25,6,0,0,0,0,0,0,0,0.2,0.3,4,5,9
+Khvicha Kvaratskhelia,ge GEO,AT,Napoli,22,34,32,11,6,0,0,8,0,11.1,6.8,184,89,266
+Giorgi Kvernadze,ge GEO,"AT,ZG",Frosinone,20,5,0,0,0,0,0,0,0,0.0,0.0,0,1,6
+Giorgos Kyriakopoulos,gr GRE,ZG,Monza,27,28,20,0,3,0,0,3,0,1.2,1.4,64,70,94
+Gianluca Lapadula,pe PER,AT,Cagliari,33,23,14,3,1,1,1,3,0,4.8,1.1,8,4,63
+Armand Lauriente,fr FRA,AT,Sassuolo,24,37,35,5,4,0,0,5,0,5.7,4.0,125,99,268
+Valentino Lazaro,at AUT,"ZG,LT",Torino,27,35,21,0,4,0,0,3,0,1.7,2.9,53,94,106
+Darko Lazović,rs SRB,"AT,LT",Hellas Verona,32,32,22,3,2,1,1,0,1,2.8,4.4,43,66,139
+Manuel Lazzari,it ITA,ZG,Lazio,29,24,19,0,2,0,0,4,1,1.0,1.3,73,62,104
+Nicola Leali,it ITA,G,Genoa,30,3,2,0,0,0,0,1,0,0.0,0.0,0,0,0
+Rafael Leão,pt POR,AT,Milan,24,34,29,9,9,0,0,5,0,10.0,9.1,160,117,293
+Jesper Lindstrøm,dk DEN,"AT,LT",Napoli,23,22,2,0,0,0,0,2,0,0.7,1.0,16,16,34
+Karol Linetty,pl POL,LT,Torino,28,28,19,0,0,0,0,12,0,0.5,0.8,31,87,25
+Luca Lipani,it ITA,LT,Sassuolo,18,8,5,0,0,0,0,0,0,0.1,0.2,6,20,3
+Pol Lirola,es ESP,ZG,Frosinone,25,25,18,2,1,0,0,1,0,1.3,1.1,30,65,59
+Marcin Listkowski,pl POL,AT,Lecce,25,1,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Diego Llorente,es ESP,ZG,Roma,29,29,27,1,1,0,0,5,0,0.3,0.6,20,75,5
+Stanislav Lobotka,sk SVK,LT,Napoli,28,38,38,0,1,0,0,4,0,0.6,1.3,29,188,34
+Manuel Locatelli,it ITA,LT,Juventus,25,36,34,1,4,0,0,6,0,1.3,1.4,21,232,26
+Ruben Loftus-Cheek,eng ENG,LT,Milan,27,29,26,6,1,0,0,5,0,3.7,2.4,73,74,113
+Ademola Lookman,ng NGA,"AT,LT",Atalanta,25,31,22,11,7,0,0,4,0,9.1,5.2,72,97,222
+Maxime Lopez,fr FRA,LT,Fiorentina,25,19,7,0,0,0,0,1,0,0.2,0.6,14,48,11
+Maxime Lopez,fr FRA,LT,Sassuolo,25,2,2,0,0,0,0,0,1,0.0,0.2,2,18,4
+Matteo Lovato,it ITA,ZG,Torino,23,13,6,0,0,0,0,2,0,0.0,0.0,0,4,0
+Matteo Lovato,it ITA,ZG,Salernitana,23,13,11,0,0,0,0,2,0,0.0,0.2,1,29,1
+Sandi Lovrić,si SVN,LT,Udinese,25,29,21,1,3,0,0,1,1,3.5,3.3,52,80,80
+Lorenzo Lucca,it ITA,AT,Udinese,22,37,30,8,4,0,0,6,0,7.8,1.6,10,18,118
+Jhon Lucumí,co COL,ZG,Bologna,25,29,23,0,0,0,0,1,0,0.8,0.3,28,93,4
+José Luis Palomino,ar ARG,ZG,Atalanta,33,4,0,0,0,0,0,0,0,0.0,0.0,0,2,0
+Romelu Lukaku,be BEL,AT,Roma,30,32,30,13,3,0,1,5,1,9.8,2.4,37,37,234
+Karlo Lulić,hr CRO,LT,Frosinone,27,1,0,0,0,0,0,0,0,0.0,0.0,1,0,0
+Sebastiano Luperto,it ITA,ZG,Empoli,26,38,38,1,1,0,0,4,0,1.7,1.0,13,100,13
+Mateus Lusuardi,br BRA,ZG,Frosinone,19,4,3,0,0,0,0,1,0,0.1,0.0,2,12,0
+Zito Luvumbo,ao ANG,"AT,LT",Cagliari,21,30,19,4,5,0,0,5,0,4.0,3.1,85,21,181
+Charalambos Lykogiannis,gr GRE,ZG,Bologna,29,22,10,2,1,0,0,2,0,1.3,1.6,36,35,41
+Giulio Maggiore,it ITA,LT,Salernitana,25,27,20,4,2,0,0,9,1,2.3,1.1,8,64,25
+Giangiacomo Magnani,it ITA,ZG,Hellas Verona,27,33,27,0,0,0,0,6,0,0.5,0.2,15,79,10
+Mike Maignan,fr FRA,G,Milan,28,29,29,0,1,0,0,1,1,0.0,0.3,0,0,0
+Antoine Makoumbou,cg CGO,LT,Cagliari,25,32,32,1,0,0,0,5,2,0.7,0.9,37,137,52
+Daniel Maldini,it ITA,"LT,AT",Monza,21,11,2,4,1,0,0,0,0,1.3,1.2,15,10,22
+Daniel Maldini,it ITA,"AT,LT",Empoli,21,7,3,0,0,0,0,1,0,0.3,0.0,7,10,10
+Youssef Maleh,ma MAR,LT,Empoli,24,34,30,0,1,0,0,11,0,1.6,2.4,17,117,65
+Ruslan Malinovskyi,ua UKR,LT,Genoa,30,28,18,4,1,0,0,7,0,1.1,0.6,24,83,31
+Gianluca Mancini,it ITA,ZG,Roma,27,36,34,4,1,0,0,9,0,1.9,1.1,38,139,13
+Marco Mancosu,it ITA,"LT,AT",Cagliari,34,6,3,0,0,0,1,0,0,1.2,0.2,4,8,11
+Christos Mandas,gr GRE,G,Lazio,21,9,8,0,0,0,0,0,0,0.0,0.0,0,0,0
+Rolando Mandragora,it ITA,LT,Fiorentina,26,33,16,3,3,0,0,5,0,3.5,1.6,7,93,32
+Kostas Manolas,gr GRE,ZG,Salernitana,32,8,6,0,0,0,0,0,0,0.1,0.1,0,10,2
+Riccardo Marchizza,it ITA,ZG,Frosinone,25,13,13,0,4,0,0,1,0,0.4,0.8,6,36,39
+Gian Marco Ferrari,it ITA,ZG,Sassuolo,31,31,25,1,0,0,0,4,0,1.6,0.3,32,148,7
+Pablo Marí,es ESP,ZG,Monza,29,34,30,0,0,0,0,7,0,0.4,0.3,2,62,1
+Mirko Marić,hr CRO,AT,Monza,28,10,1,1,0,0,0,0,1,0.9,0.5,2,4,30
+Răzvan Marin,ro ROU,LT,Empoli,27,30,20,0,3,0,0,3,0,1.1,3.0,21,72,24
+Agustín Martegani,ar ARG,LT,Salernitana,23,18,6,1,0,0,0,1,0,0.6,0.5,14,28,22
+Aarón Martín,es ESP,ZG,Genoa,26,22,17,0,1,0,0,4,1,0.2,1.7,28,35,72
+Tommaso Martinelli,it ITA,G,Fiorentina,17,1,1,0,0,0,0,0,0,,,,,
+Josep Martinez,es ESP,G,Genoa,25,36,36,0,0,0,0,4,1,0.0,0.0,0,2,0
+Lautaro Martínez,ar ARG,AT,Inter,25,33,31,24,3,2,3,5,0,17.6,3.6,54,80,172
+Lucas Martínez Quarta,ar ARG,ZG,Fiorentina,27,29,26,5,1,0,0,9,0,2.7,1.8,23,177,16
+Adam Marušić,me MNE,ZG,Lazio,30,37,37,1,0,0,0,3,1,0.4,0.8,35,118,108
+Adam Masina,ma MAR,ZG,Udinese,29,4,1,0,0,0,0,2,0,0.1,0.0,0,1,3
+Adam Masina,ma MAR,ZG,Torino,29,16,10,0,0,0,0,0,0,0.2,0.2,3,42,6
+Alan Matturro,uy URU,ZG,Genoa,18,6,1,0,0,0,0,0,0,0.1,0.0,0,4,1
+Luca Mazzitelli,it ITA,LT,Frosinone,27,29,26,5,0,0,0,6,1,2.3,1.1,18,167,53
+Pasquale Mazzocchi,it ITA,ZG,Salernitana,28,18,16,0,1,0,0,4,0,0.3,1.3,36,36,62
+Pasquale Mazzocchi,it ITA,ZG,Napoli,28,10,4,0,1,0,0,0,1,0.2,0.2,14,24,22
+Jordi Mboula,es ESP,"AT,LT",Hellas Verona,24,11,5,0,1,0,0,0,0,0.2,0.4,10,4,22
+Weston McKennie,us USA,"LT,ZG",Juventus,24,34,29,0,7,0,0,6,0,3.0,3.9,64,92,176
+Arthur Melo,br BRA,LT,Fiorentina,26,33,23,2,3,1,1,2,0,1.0,1.7,21,133,27
+Leonardo Mendicino,it ITA,LT,Atalanta,17,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Alex Meret,it ITA,G,Napoli,26,31,31,0,0,0,0,0,0,0.0,0.1,0,0,0
+Junior Messias,br BRA,"LT,ZG",Genoa,32,18,13,1,0,0,0,0,0,1.6,1.3,35,29,75
+Nikola Milenković,rs SRB,ZG,Fiorentina,25,34,27,0,0,0,0,4,0,0.4,0.7,8,81,10
+Arkadiusz Milik,pl POL,AT,Juventus,29,32,7,4,1,0,0,2,1,5.1,2.6,12,22,49
+Vanja Milinković-Savić,rs SRB,G,Torino,26,36,36,0,0,0,0,2,0,0.0,0.0,0,0,0
+Yerry Mina,co COL,"ZG,LT",Fiorentina,28,4,0,0,0,0,0,1,0,0.1,0.0,0,2,1
+Yerry Mina,co COL,ZG,Cagliari,28,14,14,2,0,1,1,4,0,1.3,0.0,4,23,3
+Aleksei Miranchuk,ru RUS,"LT,AT",Atalanta,27,27,12,3,5,0,0,1,0,5.4,4.1,41,75,122
+Kevin Miranda,it ITA,ZG,Sassuolo,20,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Antonio Mirante,it ITA,G,Milan,40,2,2,0,0,0,0,0,0,0.0,0.0,0,0,0
+Fabio Miretti,it ITA,LT,Juventus,19,25,16,1,1,0,0,3,0,1.2,1.1,22,43,62
+Filippo Missori,it ITA,ZG,Sassuolo,19,8,2,0,0,0,0,0,0,0.3,0.0,5,8,7
+Stefan Mitrović,rs SRB,"AT,LT",Hellas Verona,20,10,4,0,0,0,0,0,0,0.4,0.1,13,15,24
+Henrikh Mkhitaryan,am ARM,LT,Inter,34,36,35,2,8,0,0,4,0,3.6,4.5,92,192,127
+Ilario Monterisi,it ITA,ZG,Frosinone,21,24,16,2,2,0,0,1,0,1.1,0.4,4,47,18
+Lorenzo Montipò,it ITA,G,Hellas Verona,27,37,37,0,1,0,0,0,0,0.0,0.0,0,0,0
+Nikola Moro,hr CRO,LT,Bologna,25,23,10,1,0,0,0,0,0,0.7,0.4,21,58,38
+Dany Mota,pt POR,"AT,LT",Monza,25,34,24,4,3,0,0,3,0,3.6,3.0,112,57,152
+Samuele Mulattieri,it ITA,"AT,LT",Sassuolo,22,27,1,0,0,0,0,1,0,1.6,0.3,8,1,38
+Luis Muriel,co COL,"AT,LT",Atalanta,32,18,2,2,1,0,0,0,0,1.5,1.7,19,24,57
+Yunus Musah,us USA,"LT,AT",Milan,20,30,13,0,2,0,0,5,0,0.6,1.2,48,64,77
+Juan Musso,ar ARG,G,Atalanta,29,11,11,0,0,0,0,0,0,0.0,0.0,0,0,0
+Kingstone Mutandwa,zm ZAM,"AT,LT",Cagliari,20,5,0,1,0,0,0,0,0,0.1,0.0,1,0,2
+Obite N'Dicka,ci CIV,ZG,Roma,23,25,25,0,3,0,0,6,0,1.0,1.0,26,87,11
+Nahitan Nández,uy URU,"LT,ZG",Cagliari,27,33,29,2,3,1,1,7,0,3.7,2.5,57,76,89
+Natan,br BRA,ZG,Napoli,22,14,11,0,0,0,0,3,1,0.4,0.1,15,34,11
+Lapo Nava,it ITA,G,Milan,19,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Michel Ndary Adopo,fr FRA,LT,Atalanta,23,10,0,0,1,0,0,0,0,0.1,0.1,3,9,16
+Dan Ndoye,ch SUI,"AT,LT",Bologna,22,32,20,1,1,0,0,4,0,4.9,1.8,88,36,173
+Cyril Ngonge,be BEL,"AT,LT",Hellas Verona,23,19,17,6,2,0,0,4,0,4.2,1.7,53,44,117
+Cyril Ngonge,be BEL,AT,Napoli,23,13,1,1,0,0,0,2,0,1.0,0.8,18,11,43
+M'Baye Niang,sn SEN,AT,Empoli,28,14,5,6,1,4,4,1,0,5.4,0.9,13,11,43
+Hans Nicolussi Caviglia,it ITA,LT,Juventus,23,8,3,0,1,0,0,1,0,0.1,0.6,0,14,2
+Joseph Nonge,be BEL,LT,Juventus,18,2,0,0,0,0,0,1,0,0.0,0.0,1,2,2
+Tijjani Noslin,nl NED,"AT,LT",Hellas Verona,24,17,17,5,4,0,0,2,0,3.6,2.2,29,26,94
+Simeon Nwankwo,ng NGA,AT,Salernitana,31,15,6,3,0,0,0,0,0,2.7,0.6,6,7,39
+M'Bala Nzola,ao ANG,AT,Fiorentina,26,33,15,3,3,1,1,2,0,4.5,1.6,21,29,143
+Adam Obert,sk SVK,ZG,Cagliari,20,17,10,0,0,0,0,1,0,0.1,0.9,14,37,5
+Pedro Obiang,gq EQG,LT,Sassuolo,31,8,5,0,0,0,0,1,0,0.0,0.7,4,21,2
+Guillermo Ochoa,mx MEX,G,Salernitana,38,21,21,0,0,0,0,0,0,0.0,0.0,0,0,0
+Jens Odgaard,dk DEN,"AT,LT",Bologna,24,10,5,2,0,0,0,1,0,1.5,0.1,9,9,30
+Noah Okafor,ch SUI,"AT,LT",Milan,23,28,6,6,2,0,0,1,0,3.8,1.2,29,15,66
+David Okereke,ng NGA,"AT,LT",Torino,25,9,3,0,0,0,0,0,0,0.2,0.1,8,7,23
+Caleb Okoli,it ITA,ZG,Frosinone,22,34,32,0,1,0,0,9,0,0.6,0.8,22,118,4
+Maduka Okoye,ng NGA,G,Udinese,23,21,21,0,0,0,0,2,0,0.0,0.0,0,0,0
+Mathías Olivera,uy URU,ZG,Napoli,25,23,18,1,1,0,0,3,0,0.5,0.9,31,89,93
+Gaetano Oristanio,it ITA,"AT,LT",Cagliari,20,25,11,2,1,0,0,1,0,1.8,1.1,25,26,76
+Riccardo Orsolini,it ITA,"AT,LT",Bologna,26,33,19,10,2,2,3,2,0,7.4,4.4,51,71,175
+Victor Osimhen,ng NGA,AT,Napoli,24,25,22,15,3,3,5,6,1,15.4,3.1,34,23,142
+Remi Oudin,fr FRA,"LT,AT",Lecce,26,31,21,3,2,0,0,3,0,1.8,5.7,19,79,82
+Anthony Oyono,ga GAB,ZG,Frosinone,22,16,14,0,1,0,0,4,0,0.1,0.9,35,33,39
+Simone Pafundi,it ITA,LT,Udinese,17,1,0,0,0,0,0,0,0,0.0,0.0,0,1,1
+Riccardo Pagano,it ITA,"LT,ZG",Roma,18,4,0,0,0,0,0,0,0,0.1,0.0,1,3,2
+Christos Papadopoulos,gr GRE,AT,Genoa,18,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Leandro Paredes,ar ARG,LT,Roma,29,34,32,3,5,3,3,15,1,3.3,2.3,36,214,19
+Fabiano Parisi,it ITA,ZG,Fiorentina,22,21,16,0,1,0,0,4,0,0.9,2.4,50,78,64
+Mario Pašalić,hr CRO,LT,Atalanta,28,34,23,6,6,2,2,3,0,7.1,4.1,48,129,74
+Triantafyllos Pasaridīs,gr GRE,ZG,Salernitana,27,8,5,0,0,0,0,3,0,0.0,0.0,1,17,0
+Patric,es ESP,ZG,Lazio,30,20,19,2,0,0,0,4,0,1.4,0.2,3,72,12
+Rui Patrício,pt POR,G,Roma,35,23,23,0,0,0,0,1,0,0.0,0.0,0,0,0
+Benjamin Pavard,fr FRA,ZG,Inter,27,23,21,0,2,0,0,6,0,0.7,1.4,25,89,47
+Leonardo Pavoletti,it ITA,AT,Cagliari,34,19,5,4,1,0,0,4,0,2.6,0.3,1,16,40
+Martín Payero,ar ARG,LT,Udinese,24,29,21,2,2,0,0,6,1,1.5,1.1,47,71,64
+Marcus Pedersen,no NOR,ZG,Sassuolo,23,28,16,0,2,0,0,4,0,0.1,1.1,43,31,90
+Pedro,es ESP,"AT,LT",Lazio,36,33,5,1,1,0,0,4,0,1.5,2.1,31,33,81
+Pietro Pellegri,it ITA,AT,Torino,22,24,7,1,1,0,0,3,0,1.0,0.3,14,8,52
+Lorenzo Pellegrini,it ITA,LT,Roma,27,29,20,8,3,1,1,7,0,4.8,2.4,43,94,97
+Luca Pellegrini,it ITA,ZG,Lazio,24,19,8,1,0,0,0,7,1,0.2,0.3,18,46,30
+Marco Pellegrino,,ZG,Salernitana,,10,5,0,0,0,0,1,0,0.0,0.0,0,7,1
+Marco Pellegrino,,ZG,Milan,,1,0,0,0,0,0,0,0,0.0,0.0,1,3,0
+Pepín,gq EQG,"LT,AT",Monza,26,10,2,0,0,0,0,2,0,0.2,0.1,1,13,12
+Pedro Pereira,pt POR,ZG,Monza,25,23,9,0,2,0,0,3,0,0.2,1.2,20,43,69
+Roberto Pereyra,ar ARG,"AT,LT",Udinese,32,27,22,4,3,1,1,6,0,3.5,1.9,39,70,82
+Nehuén Pérez,ar ARG,ZG,Udinese,23,36,36,0,0,0,0,9,1,1.3,0.2,28,119,24
+Simone Perilli,it ITA,G,Hellas Verona,28,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Mattia Perin,it ITA,G,Juventus,30,3,3,0,0,0,0,0,0,0.0,0.0,0,0,0
+Samuele Perisan,it ITA,G,Empoli,25,1,1,0,0,0,0,0,0,0.0,0.0,0,0,0
+Matteo Pessina,it ITA,LT,Monza,26,37,37,6,3,4,5,5,1,6.3,1.1,69,190,53
+Andrea Petagna,it ITA,AT,Cagliari,28,18,13,1,1,0,0,2,0,1.6,1.0,11,14,56
+Giuseppe Pezzella,it ITA,ZG,Empoli,25,19,14,0,0,0,0,4,0,0.2,0.5,44,44,36
+Roberto Piccoli,it ITA,AT,Empoli,22,2,0,0,0,0,0,0,0,0.1,0.0,0,1,0
+Roberto Piccoli,it ITA,AT,Lecce,22,35,12,5,0,1,1,5,0,6.4,0.9,25,19,72
+Santiago Pierotti,ar ARG,"LT,AT",Lecce,22,11,0,0,2,0,0,0,0,0.5,1.0,4,5,20
+Niccolò Pierozzi,it ITA,ZG,Salernitana,21,12,11,1,0,0,0,6,0,0.2,0.0,3,16,20
+Andrea Pinamonti,it ITA,AT,Sassuolo,24,38,37,11,1,2,3,4,0,8.9,1.9,17,45,165
+Carlo Pinsoglio,it ITA,G,Juventus,33,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Lorenzo Pirola,it ITA,ZG,Salernitana,21,27,24,1,0,0,0,4,0,0.9,0.0,13,57,7
+Niccolò Pisilli,it ITA,LT,Roma,18,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Tommaso Pobega,it ITA,LT,Milan,24,11,3,0,0,0,0,0,0,0.2,0.2,6,11,10
+Paul Pogba,fr FRA,LT,Juventus,30,2,0,0,0,0,0,0,0,0.0,0.0,1,5,5
+Matteo Politano,it ITA,AT,Napoli,29,37,31,8,7,2,3,2,1,7.1,6.6,113,164,216
+Marin Pongračić,hr CRO,ZG,Lecce,25,36,36,0,0,0,0,10,1,1.2,0.4,45,134,7
+Stefan Posch,at AUT,ZG,Bologna,26,31,29,1,2,0,0,7,0,1.2,2.1,44,123,64
+Matteo Prati,it ITA,LT,Cagliari,19,26,19,1,1,0,0,4,0,2.0,0.8,8,66,17
+Ivan Provedel,it ITA,G,Lazio,29,30,30,0,0,0,0,0,0,0.0,0.0,0,3,0
+Christian Pulisic,us USA,"AT,LT",Milan,24,36,32,12,8,0,0,2,0,8.0,4.8,131,87,293
+George Pușcaș,ro ROU,AT,Genoa,27,8,1,0,0,0,0,0,0,2.1,0.1,5,3,17
+Domingos Quina,pt POR,LT,Udinese,23,2,0,0,0,0,0,0,0,0.0,0.0,0,1,0
+Adrien Rabiot,fr FRA,LT,Juventus,28,31,30,5,3,0,0,8,0,3.5,4.1,72,120,106
+Uroš Račić,rs SRB,LT,Sassuolo,25,22,8,1,1,0,0,1,0,0.8,0.3,5,37,11
+Nemanja Radonjić,rs SRB,"LT,AT",Torino,27,10,4,3,0,0,0,1,0,1.7,0.2,11,7,24
+Boris Radunović,rs SRB,G,Cagliari,27,7,7,0,0,0,0,0,0,0.0,0.0,0,0,0
+Hamza Rafia,tn TUN,LT,Lecce,24,28,17,1,0,0,0,4,0,0.8,0.8,15,46,37
+Ylber Ramadani,al ALB,LT,Lecce,27,34,34,1,0,0,0,13,0,1.0,0.5,36,121,14
+Luca Ranieri,it ITA,ZG,Fiorentina,24,26,23,2,1,0,0,14,0,0.9,0.4,17,99,5
+Filippo Ranocchia,it ITA,"LT,ZG",Empoli,22,9,5,0,0,0,0,3,0,0.2,0.5,5,21,11
+Giacomo Raspadori,it ITA,"AT,LT",Napoli,23,37,14,5,3,0,1,0,0,5.9,4.0,29,54,139
+Federico Ravaglia,it ITA,G,Bologna,23,6,6,0,0,0,0,0,0,0.0,0.0,0,0,0
+Tijjani Reijnders,nl NED,LT,Milan,25,36,33,3,3,0,0,8,0,3.2,3.7,88,204,90
+Reinier,br BRA,"LT,AT",Frosinone,21,22,13,2,2,0,0,3,0,1.3,1.9,10,32,42
+Mateo Retegui,it ITA,AT,Genoa,24,29,26,7,2,1,1,5,0,5.8,0.7,18,17,112
+Samuele Ricci,it ITA,LT,Torino,21,32,28,1,2,0,0,8,1,1.3,2.3,47,122,73
+Ricardo Rodríguez,ch SUI,ZG,Torino,30,35,34,1,2,0,0,4,0,0.3,1.4,61,127,40
+Alessio Romagnoli,it ITA,ZG,Lazio,28,29,26,0,0,0,0,9,0,0.6,0.6,7,87,2
+Simone Romagnoli,it ITA,ZG,Frosinone,33,33,30,1,1,0,0,6,0,1.2,0.4,2,47,2
+Luka Romero,ar ARG,"AT,LT",Milan,18,4,0,0,0,0,0,1,0,0.1,0.0,4,3,7
+Marten de Roon,nl NED,"LT,ZG",Atalanta,32,30,29,0,5,0,0,10,0,0.6,1.2,28,178,22
+Francesco Rossi,it ITA,G,Atalanta,32,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Nicolò Rovella,it ITA,LT,Lazio,21,23,16,0,2,0,0,6,0,0.6,0.5,21,56,11
+Amir Rrahmani,xk KVX,ZG,Napoli,29,30,30,3,0,0,0,5,0,2.2,0.9,19,113,4
+Ruan,br BRA,ZG,Sassuolo,24,26,16,0,0,0,0,7,1,0.5,0.6,8,33,6
+Daniele Rugani,it ITA,ZG,Juventus,29,17,13,2,0,0,0,2,0,1.6,0.4,2,46,2
+Matteo Ruggeri,it ITA,ZG,Atalanta,21,34,28,0,4,0,0,3,0,0.5,1.8,55,142,132
+Mário Rui,pt POR,ZG,Napoli,32,21,14,0,2,0,0,7,1,0.1,1.9,33,90,59
+Stefano Sabelli,it ITA,ZG,Genoa,30,32,30,0,1,0,0,5,0,0.8,1.9,69,88,101
+Alexis Saelemaekers,be BEL,"AT,LT",Bologna,24,30,21,4,2,0,0,7,1,2.6,2.8,65,77,180
+Lazar Samardzic,rs SRB,LT,Udinese,21,34,28,6,2,1,1,3,0,3.5,5.5,65,83,91
+Junior Sambia,fr FRA,"ZG,LT",Salernitana,26,18,10,1,2,0,0,4,0,0.5,0.9,23,41,37
+Antonio Sanabria,py PAR,"AT,LT",Torino,27,35,23,5,0,2,2,2,0,9.3,1.4,19,57,109
+Renato Sanches,pt POR,LT,Roma,25,7,1,1,0,0,0,2,0,0.1,0.2,5,10,5
+Alexis Sánchez,cl CHI,"AT,LT",Inter,34,23,6,2,5,1,1,0,0,3.2,3.1,16,53,58
+Alex Sandro,br BRA,ZG,Juventus,32,16,8,1,0,0,0,1,0,0.4,0.9,16,43,9
+Nicola Sansone,it ITA,"AT,LT",Lecce,31,25,4,2,2,0,0,4,0,2.8,1.3,15,36,75
+Riccardo Saponara,it ITA,"AT,LT",Hellas Verona,31,12,3,0,0,0,0,0,0,0.1,0.2,12,14,32
+Zanos Savva,cy CYP,"ZG,LT",Torino,17,2,0,1,0,0,0,0,0,0.2,0.0,0,1,1
+Saba Sazonov,ge GEO,ZG,Torino,21,12,2,0,0,0,0,2,0,0.2,0.0,0,8,0
+Giorgio Scalvini,it ITA,ZG,Atalanta,19,33,31,1,3,0,0,3,0,1.4,1.1,30,116,33
+Gianluca Scamacca,it ITA,AT,Atalanta,24,29,17,12,6,0,0,1,0,6.5,3.9,22,41,167
+Perr Schuurs,nl NED,ZG,Torino,23,9,9,1,0,0,0,2,0,0.7,0.0,9,19,4
+Simone Scuffet,it ITA,G,Cagliari,27,31,31,0,0,0,0,3,0,0.0,0.0,0,1,0
+Demba Seck,sn SEN,LT,Torino,22,9,5,0,0,0,0,1,0,0.3,0.1,23,12,25
+Demba Seck,sn SEN,"AT,LT",Frosinone,22,11,3,0,0,0,0,0,0,1.1,0.3,11,9,23
+Nikola Sekulov,it ITA,AT,Juventus,21,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Vivaldo Semedo,pt POR,AT,Udinese,18,1,0,0,0,0,0,0,0,0.0,0.0,1,0,0
+Stefano Sensi,it ITA,LT,Inter,27,4,0,0,1,0,0,0,0,0.1,0.1,3,3,4
+Suat Serdar,de GER,LT,Hellas Verona,26,25,19,0,2,0,0,7,0,1.0,1.4,20,68,36
+Andres Sfait,ro ROU,"ZG,LT",Salernitana,18,2,0,0,0,0,0,0,0,0.0,0.1,1,1,2
+Stephan El Shaarawy,it ITA,"AT,ZG",Roma,30,33,19,3,4,0,0,2,0,2.5,2.3,46,44,131
+Eldor Shomurodov,uz UZB,"AT,LT",Cagliari,28,22,10,3,3,0,0,1,0,3.5,1.7,12,18,52
+Steven Shpendi,al ALB,"AT,LT",Empoli,20,12,4,0,1,0,0,0,0,0.4,0.5,3,6,32
+Marco Silvestri,it ITA,G,Udinese,32,17,17,0,0,0,0,0,0,0.0,0.0,0,0,0
+Giovanni Simeone,ar ARG,AT,Napoli,28,28,8,1,0,0,0,3,0,3.4,0.6,11,13,76
+Jan-Carlo Simic,rs SRB,ZG,Milan,18,4,0,1,0,0,0,0,0,0.6,0.0,0,6,0
+Leo Skiri Østigård,no NOR,ZG,Napoli,23,25,18,1,0,0,0,3,0,0.6,0.1,13,76,3
+Łukasz Skorupski,pl POL,G,Bologna,32,32,32,0,0,0,0,2,0,0.0,0.0,0,1,0
+Chris Smalling,eng ENG,ZG,Roma,33,8,4,0,0,0,0,0,0,0.0,0.4,1,13,2
+Andrea Sodero,it ITA,LT,Empoli,18,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1
+Ola Solbakken,no NOR,AT,Roma,24,1,0,0,0,0,0,0,0,0.0,0.0,1,0,4
+Daniele Sommariva,it ITA,G,Genoa,26,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Yann Sommer,ch SUI,G,Inter,34,34,34,0,0,0,0,1,0,0.0,0.0,0,0,0
+Brandon Soppy,fr FRA,ZG,Torino,21,5,2,0,0,0,0,0,0,0.0,0.1,9,6,3
+Alessandro Sorrentino,it ITA,G,Monza,21,7,5,0,0,0,0,0,0,0.0,0.0,0,0,0
+Riccardo Sottil,it ITA,AT,Fiorentina,24,22,13,2,3,0,0,1,0,2.6,2.5,66,33,139
+Matìas Soulé,ar ARG,"AT,LT",Frosinone,20,36,36,11,3,5,6,4,0,10.5,6.6,115,198,211
+Djed Spence,eng ENG,ZG,Genoa,22,16,8,0,0,0,0,1,0,0.2,0.3,17,25,31
+Leonardo Spinazzola,it ITA,ZG,Roma,30,24,15,1,2,0,0,0,0,0.2,3.0,108,52,74
+Marco Sportiello,it ITA,G,Milan,31,7,7,0,0,0,0,0,0,0.0,0.0,0,0,0
+Trivante Stewart,jm JAM,"AT,LT",Salernitana,23,4,0,0,0,0,0,0,0,0.1,0.1,2,0,6
+Gabriel Strefezza,br BRA,AT,Lecce,26,19,13,1,0,1,1,4,0,2.5,1.2,34,54,81
+Kevin Strootman,nl NED,LT,Genoa,33,27,15,0,2,0,0,4,0,0.1,1.3,13,61,22
+Isaac Success,ng NGA,"AT,LT",Udinese,27,27,9,1,1,0,1,4,0,2.7,1.1,15,17,51
+Ibrahim Sulemana,gh GHA,LT,Cagliari,20,21,16,2,0,0,0,4,0,0.8,0.1,15,27,14
+Tomáš Suslov,sk SVK,"LT,AT",Hellas Verona,21,32,23,3,5,1,1,7,0,3.5,3.6,46,64,74
+Mile Svilar,rs SRB,G,Roma,23,15,15,0,0,0,0,1,0,0.0,0.0,0,0,0
+Karol Świderski,pl POL,"AT,LT",Hellas Verona,26,15,3,2,0,0,0,0,0,1.7,0.4,3,13,19
+Wojciech Szczęsny,pl POL,G,Juventus,33,35,35,0,0,0,0,1,0,0.0,0.0,0,0,0
+Przemysław Szymiński,pl POL,LT,Frosinone,29,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Adrien Tameze,cm CMR,"ZG,LT",Torino,29,29,25,0,2,0,0,6,1,0.7,2.2,22,90,39
+Elayis Tavsan,nl NED,"LT,AT",Hellas Verona,22,3,0,0,0,0,0,0,0,0.1,0.0,2,2,1
+Loum Tchaouna,fr FRA,"AT,LT",Salernitana,19,33,23,4,3,0,0,4,0,2.6,1.5,72,59,151
+Jackson Tchatchoua,cm CMR,ZG,Hellas Verona,21,26,19,0,2,0,0,2,0,0.0,1.3,34,53,66
+Filippo Terracciano,it ITA,ZG,Hellas Verona,20,18,14,0,1,0,0,1,0,0.3,1.0,26,51,28
+Filippo Terracciano,it ITA,"ZG,AT",Milan,20,3,1,0,0,0,0,1,0,0.0,0.0,0,1,1
+Pietro Terracciano,it ITA,G,Fiorentina,33,33,33,0,0,0,0,3,0,0.0,0.2,0,0,0
+Florian Thauvin,fr FRA,AT,Udinese,30,29,19,5,3,1,1,4,0,4.7,4.2,71,69,97
+Malick Thiaw,de GER,ZG,Milan,21,21,19,0,1,0,0,5,1,0.6,0.1,15,70,1
+Morten Thorsby,no NOR,LT,Genoa,27,24,9,2,2,0,0,2,0,1.8,1.4,6,28,39
+Kristian Thorstvedt,no NOR,LT,Sassuolo,24,34,30,6,1,0,0,7,0,4.4,1.6,30,130,94
+Marcus Thuram,fr FRA,AT,Inter,25,35,34,13,7,0,0,3,0,14.3,3.7,68,47,192
+Antonio Tikvić,hr CRO,ZG,Udinese,19,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+Jeremy Toljan,de GER,ZG,Sassuolo,28,25,24,0,5,0,0,1,0,0.6,1.6,35,79,85
+Rafael Tolói,it ITA,ZG,Atalanta,32,18,10,0,0,0,0,6,1,0.1,0.1,8,53,10
+Fikayo Tomori,eng ENG,ZG,Milan,25,26,24,4,0,0,0,8,1,3.7,0.2,16,63,2
+Ahmed Touba,dz ALG,ZG,Lecce,25,6,3,0,0,0,0,1,0,0.0,0.0,0,2,1
+Chaka Traorè,ci CIV,AT,Milan,18,2,0,1,0,0,0,0,0,0.1,0.0,2,0,2
+Stefano Turati,it ITA,G,Frosinone,21,31,31,0,0,0,0,0,0,0.0,0.0,0,0,0
+Kacper Urbanski,pl POL,"LT,AT",Bologna,18,22,9,0,1,0,0,2,0,1.1,0.8,25,31,78
+Emanuele Valeri,it ITA,ZG,Frosinone,24,16,14,0,1,0,0,3,0,0.9,2.4,38,41,61
+Johan Vásquez,mx MEX,ZG,Genoa,24,37,32,1,1,0,0,6,0,1.9,0.8,29,81,61
+Matías Vecino,uy URU,LT,Lazio,31,31,8,6,1,0,0,8,0,3.7,0.4,16,74,43
+Lorenzo Venuti,it ITA,ZG,Lecce,28,14,3,0,0,0,0,1,0,0.1,0.3,7,16,15
+Simone Verdi,it ITA,AT,Torino,31,1,0,0,0,0,0,0,0,0.0,0.1,0,0,0
+Emanuel Vignato,it ITA,"LT,AT",Salernitana,22,9,3,0,1,0,0,1,0,0.0,0.3,5,11,14
+Samuele Vignato,it ITA,"LT,AT",Monza,19,10,3,1,0,0,0,2,0,1.7,0.2,13,13,20
+Matías Viña,uy URU,ZG,Sassuolo,25,15,13,0,3,0,0,1,0,0.3,1.4,24,46,37
+Rúben Vinagre,pt POR,"ZG,AT",Hellas Verona,24,12,2,0,0,0,0,0,0,0.0,0.3,6,8,13
+Nicolas Viola,it ITA,"LT,AT",Cagliari,33,26,11,5,2,0,1,3,0,3.4,3.9,22,57,68
+Mattia Viti,it ITA,ZG,Sassuolo,21,15,12,1,0,0,0,0,0,1.0,0.0,2,36,13
+Vitinha,pt POR,"AT,LT",Genoa,23,9,2,2,0,0,0,2,0,1.1,0.1,10,4,21
+Dušan Vlahović,rs SRB,AT,Juventus,23,33,27,16,4,2,4,8,1,16.6,2.3,36,46,174
+Nikola Vlašić,hr CRO,"LT,AT",Torino,25,33,30,3,2,0,0,3,0,2.4,2.9,67,150,174
+Alessandro Vogliacco,it ITA,ZG,Genoa,24,20,14,0,1,0,0,4,0,0.4,0.5,8,49,12
+Mërgim Vojvoda,xk KVX,ZG,Torino,28,28,15,0,3,0,0,3,0,0.4,1.4,30,91,72
+Cristian Volpato,it ITA,"LT,AT",Sassuolo,19,22,5,1,0,0,0,1,0,0.5,1.4,34,53,49
+Stefan de Vrij,nl NED,ZG,Inter,31,25,17,1,0,0,0,0,0,0.6,0.3,6,43,2
+Walace,br BRA,LT,Udinese,28,37,37,2,0,0,0,7,0,0.8,1.1,37,127,22
+Sebastian Walukiewicz,pl POL,ZG,Empoli,23,27,23,0,0,0,0,6,0,0.1,0.1,14,45,5
+Timothy Weah,us USA,"ZG,AT",Juventus,23,30,12,0,1,0,0,5,0,1.5,1.1,35,48,84
+Shon Weissman,il ISR,"AT,ZG",Salernitana,27,11,5,1,0,0,0,0,0,1.0,0.1,0,4,22
+Mateusz Wieteska,pl POL,ZG,Cagliari,26,19,10,0,1,0,0,5,1,0.3,0.6,16,33,1
+Kenan Yıldız,tr TUR,"AT,ZG",Juventus,18,27,9,2,0,0,0,3,0,1.6,1.1,32,40,73
+Mattia Zaccagni,it ITA,"AT,LT",Lazio,28,28,24,6,1,0,0,8,0,4.7,2.9,88,55,209
+Nicola Zalewski,pl POL,"ZG,AT",Roma,21,22,10,0,1,0,0,3,1,0.8,1.6,54,33,62
+Andre-Frank Zambo Anguissa,cm CMR,LT,Napoli,27,34,32,0,2,0,0,2,0,3.4,3.0,43,163,139
+Alessandro Zanoli,it ITA,ZG,Salernitana,22,17,10,0,2,0,0,3,0,0.2,1.8,27,28,45
+Alessandro Zanoli,it ITA,"ZG,AT",Napoli,22,4,0,0,0,0,0,1,0,0.0,0.0,2,4,3
+Duván Zapata,co COL,AT,Torino,32,35,34,12,4,0,0,2,0,10.9,3.0,74,52,242
+Duván Zapata,co COL,AT,Atalanta,32,2,2,1,0,0,0,0,0,0.4,0.1,3,3,13
+Gabriele Zappa,it ITA,ZG,Cagliari,23,38,25,1,3,0,0,2,0,1.5,3.3,35,99,84
+Davide Zappacosta,it ITA,ZG,Atalanta,31,31,23,2,1,0,0,5,0,2.2,1.4,67,78,132
+Oier Zarraga,es ESP,LT,Udinese,24,15,4,2,0,0,0,0,0,0.6,0.0,5,8,10
+Jordan Zemura,zw ZIM,ZG,Udinese,23,27,10,1,0,0,0,1,0,0.8,0.4,23,32,52
+Alessio Zerbin,it ITA,"ZG,AT",Monza,24,13,7,0,1,0,0,2,1,0.4,0.8,17,20,46
+Alessio Zerbin,it ITA,"AT,ZG",Napoli,24,7,1,0,0,0,0,0,0,0.2,0.6,6,3,18
+Kevin Zeroli,it ITA,LT,Milan,18,3,0,0,0,0,0,0,0,0.0,0.0,0,1,2
+Piotr Zieliński,pl POL,LT,Napoli,29,28,23,3,2,1,1,1,0,2.6,3.4,38,131,88
+David Zima,cz CZE,ZG,Torino,22,5,0,0,0,0,0,0,0,0.0,0.0,1,1,0
+Joshua Zirkzee,nl NED,AT,Bologna,22,34,32,11,4,2,2,8,0,9.0,5.2,53,86,182
+Nadir Zortea,it ITA,ZG,Frosinone,24,14,14,1,5,0,0,3,0,0.4,2.8,31,42,71
+Nadir Zortea,it ITA,ZG,Atalanta,24,5,0,1,0,0,0,1,0,0.1,0.3,7,10,22
+Szymon Żurkowski,pl POL,LT,Empoli,25,13,10,4,0,0,0,4,0,1.0,0.1,17,20,37
+Milan Đurić,ba BIH,AT,Hellas Verona,33,20,13,5,1,1,3,2,0,4.5,1.2,3,15,33
+Milan Đurić,ba BIH,AT,Monza,33,17,13,4,1,0,0,2,0,3.0,0.7,2,8,31
+Mateusz Łęgowski,pl POL,LT,Salernitana,20,29,10,0,0,0,0,3,0,0.2,0.2,16,37,17
